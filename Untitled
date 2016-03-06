@@ -1,11 +1,8 @@
+* Top level headline
+** Second level
+*** 3rd level
+    some text
+*** 3rd level
+    more text
 
-# -*- mode: org -*-
-	
-	#+STARTUP: showall
-	
-	#+LINK: sym file:snippet-reference.org::#%s
-	
-	#+OPTIONS: author:nil num:nil
-	#+AUTHOR:
-	# org < 8.0 use +STYLE, after use +HTML_HEAD
-	#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheets/manual.css" />
+* Another top level headline
