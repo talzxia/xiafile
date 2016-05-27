@@ -1,0 +1,60 @@
+* org-mode
+** ´ó¸Ù ÕýÔÚ±àÐ´´ó¸Ù
+* ¿ÉÒÔµ¼³öÆäËû¸ñÊ½ Ö§³Öhtml,pdfµÈ¸ñÊ½
+http://www.360doc.com/content/14/1219/13/20545288_434126794.shtml
+
+<2016-05-27 Fri>
+** TODO Ñ§Ï°org mode
+** TODO ¶ÁÊé¡¶»ìºÏÊ½Ñ§Ï°µÄÀíÂÛÓëÊµ¼ù¡·
+*** TODO [# A] ÈÎÎñ1
+*** TODO [# B] ÈÎÎñ2
+*** TODO ×ÜÈÎÎñ£Û33%£Ý
+**** TODO ×ÓÈÎÎñ1
+**** TODO ×ÓÈÎÎñ2 [0%]
+     - [-] subsub1 [1/2]
+       -[ ] subsub2
+       -[x] subsub3
+       **** DONE Ò»¸öÒÑÍê³ÉµÄÈÎÎñ
+
+*** ÕÂ±êÌâ :work:learn:
+**** ½Ú±êÌâ1 :fly:plane:
+**** ½Ú±êÌâ2 :car:run:
+*** TODO ¶ÁÊé
+SCHEDULED: <2016-05-27 Fri>
+  DEADLINE: <2016-06-01 Wed>
+http://www.fuzihao.org/blog/2015/02/19/org-mode½Ì³Ì/
+
+http://orgmode.org/orgguide.pdf
+
+* 章节
+** 节
+*** 小节
+** TODO <2016-05-27 Fri>
+* org-mode
+** 在一
+*右
+http://www.360doc.com/content/14/1219/13/20545288_434126794.shtml
+
+<2016-05-27 Fri>
+** TODO 学习
+** TODO 读书
+*** TODO [# A] 任务
+*** TODO [# B] 任务2
+*** TODO 子任务
+**** TODO ×ÓÈÎÎñ1
+**** TODO ×ÓÈÎÎñ2 [0%]
+     - [-] subsub1 [1/2]
+       -[ ] subsub2
+       -[x] subsub3
+       **** DONE Ò»¸öÒÑÍê³ÉµÄÈÎÎñ
+
+*** ÕÂ±êÌâ :work:learn:
+**** ½Ú±êÌâ1 :fly:plane:
+**** ½Ú±êÌâ2 :car:run:
+*** TODO ¶ÁÊé
+SCHEDULED: <2016-05-27 Fri>
+  DEADLINE: <2016-06-01 Wed>
+http://www.fuzihao.org/blog/2015/02/19/org-mode½Ì³Ì/
+
+http://orgmode.org/orgguide.pdf
+
