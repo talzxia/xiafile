@@ -1585,19 +1585,64 @@ org 模式使用半小时
 *** 上午
 **** English learning
 **** 阅读
+***** 读书 <2016-06-02 Thu 07:30>--<2016-06-02 Thu 08:12>
 **** 浏览学习
 **** 工作
+***** 熟悉验收明白纸
+[[/Users/mac/xiafile/xiafile/名校建设明白纸.pages]]
+***** 实训室布置
+***** DONE emacs tutorial
+<2016-06-02 Thu 08:38>
+C-f	Move forward a character
+	C-b	Move backward a character
+
+	M-f	Move forward a word
+	M-b	Move backward a word
+
+	C-n	Move to next line
+	C-p	Move to previous line
+
+	C-a	Move to beginning of line
+	C-e	Move to end of line
+
+	M-a	Move back to beginning of sentence
+	M-e	Move forward to end of sentence
+
+	<DEL>        Delete the character just before the cursor
+	C-d   	     Delete the next character after the cursor
+
+	M-<DEL>      Kill the word immediately before the cursor
+	M-d	     Kill the next word after the cursor
+
+	C-k	     Kill from the cursor position to end of line
+	M-k	     Kill to the end of the current sentence
+<2016-06-02 Thu 09:00>end
+<2016-06-02 Thu 11:28>查看子龙山人视频[[http://v.youku.com/v_show/id_XMTUwNjU0MjE0OA==.html?from=s1.8-1-1.2]]第一天
+系列：	[[http://www.soku.com/search_video/q_Learn%20Emacs%20in%2021%20Days?_rp=1464836665579AE8Fmi]]
 **** 杂事
 *** 下午
 **** English learning
 **** 阅读
+***** 学习混合式教学<2016-06-02 Thu 14:40>--<2016-06-02 Thu 15:28>打字输入两页
+***** 学习learn Emacs in 21 Days:day 1 <2016-06-02 Thu 16:31>第二遍
+有收获，必须实践。
+***** 准备接夫人<2016-06-02 Thu>
 **** 浏览学习
 **** 工作
+***** 学习混合学习
+***** 查阅工作邮件
+***** 安排机房安排及创业大学布展事项
 **** 杂事
 *** 晚上
 **** English learning
-**** 阅读
+***** 复习英语一课<2016-06-02 Thu 20:29>lesson 12
+***** 复习英语一课<2016-06-02 Thu 20:58>--<2016-06-02 Thu 21:20>lesson 13
+***** 复习英语一课 <2016-06-02 Thu 21:46>
+**** 阅读.
 **** 浏览学习
 **** 工作
+***** 汇报会出席人员名单[[/Users/mac/xiafile/xiafile/汇报会、反馈会出席人员名单0602.pages]]
+***** 查看机房安装情况<2016-06-02 Thu 20:04>
+***** 检查晚自习情况，学生在打扫卫生，陈书记值班<2016-06-02 Thu 08:58>
 **** 杂事
 
