@@ -1982,7 +1982,7 @@ in the sand.
 
 *** 下午
 **** DONE 学习混合学习理论<2016-06-04 Sat 14:10>--<2016-06-04 Sat 14:51>
-**** TODO 学习Ｅmacs 
+**** DONE 学习Ｅmacs 
 ***** DONE 学习GNU Emacs
 GNU Emacs 是Emacs编辑器家庭中最受欢迎、传播范围最广，也是最强大的最灵
 活的UNIX文本编辑器，与其他文本编辑器的重要区别在于它是一个完备的工作环
@@ -2071,6 +2071,7 @@ He is eating the banana.
 The banana is on the floor under the table.
 He is giving the banana to the cat.
 Is this a fridge or a cooker? It's a cooker.
+
 The man isn't sleeping. Is he reading in the bedroom? Yes, he is
 reading in the bedroom.
 Is there a television in the sitting-room? Yes, there is a television
@@ -2090,6 +2091,154 @@ Is the man sitting in front of the door? No, the dog is sitting in
 front of the door.
 Is the man sitting on the floor? No, the dog is sitting on the floor.
 <2016-06-04 Sat 21:19>fished
+** <2016-06-05 Sun 04:29>
+*** 早晨 4:10起，4:30到办公室
+**** learn english<2016-06-05 Sun 04:30>--<2016-06-05 Sun 05:30>
+a restaurant
+a shop
+a cofé
+a  museum
+a nightclub
+a cinema
+to hold
+to give
+to dance
+to sell
+to take 
+to buy
+a table 
+monkey
+a ticket
+a picture
+an armchair
+a mirror
+a small restaturant
+a woman in a cofé
+a big restaurant
+a night café
+the woman is dancing in a nightclub.
+Women with fans are dancing at night.
+a mirror opposite a table.
+a man in a shop
+a table in a café
+women in a shop 
+a white table and chairs in a café
+a mirror above a sofa
+A man and a woman are looking at a picture.
+a small museum
+They are sitting in a cinema at night.
+An armchair in a museum
+red chairs in a cinema.
+a big museum
+The boy is giving bananas.
+a ticket in a passport
+The woman is selling a bottle of Fanta.
+They are buying tickets.
+The woman is taking bnanans.
+The boy is buying a bottle of Fanta.
+The man and the woman are at the table in a restaurant.
+A clock on the table in a museum.
+a picture above a sofa.
+The man is holding the woman.
+The women are holding a shirt in a shop.
+The woman is holding some bags.
+Is the money on the table? Yes, money is on the table.
+Is the woman holding a skirt near the mirror? Yes, the woman is
+holding a skirt near the mirror.
+Is the old white table in a museum? Yes, the old white table is in a
+museum.
+Is the woman in white looking at a mirror? Yes, the woman is looking
+at the mirror.
+Are the black armchairs in a cinema? Yes, the black armchairs are in a
+cinema.
+A nightclub? Yes, a nightclub.
+Is the woman giving the man a bear to the man? No, the man is giving a
+bear to the woman.
+Is the man in a black shirt reading? No, a woman in a short black
+dress in dancing.
+Is the boy holding a cup of tea? No, the boy is holding money.
+Is there a drawing of a car in the piece of paper? No, a man is in the
+picture.
+Are the young women in a nightclub? No, they are in a shop.
+Are the table and chairs in a cinema? No, the table and chairs are in
+a café.
+**** <2016-06-05 Sun 05:50>新概念听31课
+**** 浏览凤凰网
+李克强再出硬招：解放“人才”、“人
+力”[[http://news.ifeng.com/a/20160604/48917007_0.shtml]]
+一是简化中央财政科研项目预算编制，将直接费用中多数科目预算调剂权下放给项目承担单位。即根据实际科研需要，“打酱油的钱可以买醋”。二是大幅提高人员费比例。增加间接费用比重，用于人员激励的绩效支出占直接费用扣除设备购置费的比例，最高可从原来的5%提高到20%。对劳务费不设比例限制。三是差旅会议管理不简单比照机关和公务员。四是简化科研仪器设备采购管理。五是合理扩大中央高校、科研院所基建项目自主权。同时要落实和研究完善股权激励政策，建立科研财务助理等制度，精简各类检查评审。
+
+梳理这些让人畅快的新规，马上便联想到两天前，总理在全国科技创新大会、两院院士大会、中国科协第九次全国代表大会上那些掷地有声的话：“一流的科研机构、一流的高校、一流的科技成果，从不是靠政府部门的工作人员管出来的！”“不能用管理行政人员的办法管理教学科研人员。”“要把科研人员从繁琐的表格中解放出来。”
+<2016-06-05 Sun 06:05>
+**** 读书<2016-06-05 Sun 06:06>--<2016-06-05 Sun 06:30>完成55页
+**** 朗读《道德经》20篇<2016-06-05 Sun 06:47>
+*** 上午 7:33到办公室<2016-06-05 Sun 07:33>
+**** 听英语 至53课<2016-06-05 Sun 07:55>
+**** 上午8点20到会议室参加反馈会。
+**** <2016-06-05 Sun 08:30>--<2016-06-05 Sun>名校验收反馈会。内容待上传。
+***** 专家意见：专家一:
+状态好，能力提升，体制机制好。社会服务，服务价值取向，。建:师资队伍，观念观念业务出国研修执着，深入。不能束之高哥，体制机制长期，效度，研发引领加强。扩大强化。
+专家二:
+***** 一批验收校。
+1、市里重视。
+2、成效显著，特色服务地方特色。
+质量提升。
+专业特色显明
+珠宝生均五万。
+校园文化提升。
+***** 三、专家
+特色
+体会
+三点
+文化建设
+3有效教学。
+1.长期机制有待加强。
+1，加强科技创新能力，培养方案差异性不够。
+3，教师激励机制，主动，被动。
+***** 专家四
+教改，长期质量差。
+标准没用。
+平台完善，技能显性。
+专家五
+文化融合。斗志。
+转入内涵发展。
+师资队伍，建设永在路上，高水平老师，水平能力，科研服务能力。分类提升。
+质量保障体系。
+兼职教师作用加强。管理办法。一对一交流。
+***** 专家六
+干事泰山文化
+.1.政府支持
+2，相关手续。
+3，财务管理加强。
+资产管理弱。向高校学习。
+***** 金:
+担心政府资金。
+变化大，内涵，成效显著。
+政府重视。
+前景美好。
+建议
+1，总结深化。后名校，名校在路上，小进也是退。内涵提升空间大。培养方案关注。没做好。
+内容，陈旧，不到位，持之以恆抓质量。
+更新转变，理性指导改革，为什么？目的是什么。
+做实，管用。
+重点专业示范
+重点突破。一对一邦扶。
+系统推进，整体配套。系统设计，机制体制。制约阻碍发展。<2016-06-05 Sun 10:22>
+
+**** 阅读《混合式学习。。。。》录入笔记至59页<2016-06-05 Sun 10:46>手有点痛。
+*** 下午<2016-06-05 Sun 13:10>到办公室
+**** 学习org 至<2016-06-05 Sun 14:42>
+**** 记读书笔记《混合式学习。。。》<2016-06-05 Sun 15:39>完成61页。
+**** 复习10课<2016-06-05 Sun 16:59>
+**** 复习第8课<2016-06-05 Sun 19:12>fished.
+*** 晚上
+**** 到楼上检查学生上晚自习情况。值班教师？学生一人一手机，体验移动应用！<2016-06-05 Sun 19:22>
+**** DONE 习近平：科技是国之利器[[http://news.ifeng.com/a/20160605/48919203_0.shtml]]<2016-06-05 Sun 21:04>
+**** DONE 复习英语一课<2016-06-05 Sun 21:10>
+<2016-06-05 Sun 21:29>finished
+
+
+
 
 
 
