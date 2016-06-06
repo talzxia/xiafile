@@ -2236,9 +2236,205 @@ a café.
 **** DONE 习近平：科技是国之利器[[http://news.ifeng.com/a/20160605/48919203_0.shtml]]<2016-06-05 Sun 21:04>
 **** DONE 复习英语一课<2016-06-05 Sun 21:10>
 <2016-06-05 Sun 21:29>finished
-
-
-
-
-
+** <2016-06-06 Mon 04:28>
+早4:10起，到办公室
+作一天计划
+*** 早晨
+**** DONE 学习英语 <2016-06-06 Mon 04:34-5:30>
+***** lesson 9
+a chair
+wardrobe
+stool
+a bed 
+a sofa
+a lamp
+low
+high
+wide
+a few
+narrow
+a lot of
+a red sofa
+a yellow sofa
+a grey wardrobe
+a woman on a bed
+shirts in a wardrboe
+a man on a bed
+a blue stool 
+a chair on the water
+A man is sitting on a big blue chair.
+a red stool
+The stools are around the table.
+A chiar is on the water.
+A blue stool
+The chairs are around the table.
+a yellow lamp
+a lamp is near the bed
+a bed is between the bed
+a lamp is near the bed
+A bed is between the lamps.
+a blue lamp
+A little girl is sitting in front of a white sofa.
+A lamp is above the flowers.
+high-heeled shoes
+She is sitting on a high stool.
+low chair
+low-heeled shoes
+high chair
+She is sitting on a low red stool.
+a few white chairs
+a few shoes
+a lot of shoes
+a lot of white chairs
+a lot of lamps
+A woman is sitting on a high chair.
+A man in wide trousers
+A narrow bed
+A wide wrdr
+a narrow wardrobe
+a man in 
+a wide bed
+Is the woman sleeping on a bed? Yes, the woman is sleeping on a bed.
+Is the girl between the books? Yes, the girl is between the books.
+Is the man with a bear sitting on a chair? Yes,he is sitting on a
+chair.
+Is the woman sitting on a yellow chair? Yes, she is sitting on a
+yellow chair.
+Are the chairs around a table? Yes, the chairs around a table.
+ Is the giraffe tall? Yes, it is very tall.
+Is the big lamp hanging over the table? No, the big red lamp is
+hanging over a wide bed.
+Are there few shirts in the wardrobe? No, there are a lot of shirts in
+the wardrobe.
+Is the woman sitting on a low chair? No, she is sitting on a high
+stool.
+Are the men standing around a table? No, they are sitting around a
+table.
+Is the man with a computer sitting on a sofa ? No, the man with a
+computer is sitting on a stool.
+Is the woman sitting with men? No, she is lying on a narrow sofa.
+<2016-06-06 Mon 05:18>fished
+***** lesson 8
+a swimsuit
+a cap 
+trousers
+a skirt
+a scarf
+a shirt
+pink
+violet
+blue 
+white
+grey
+brown
+sad
+young
+old
+big
+slim
+cheerful
+A cheerful old man with a girl.
+a sad old woman
+a big man
+a cheeful old man in green
+a slim woman
+cheerful women
+a white bag
+a brown horse
+a grey car
+a grey bear
+a white bear
+a brown bear
+a pink flower
+a boy with blue flowers
+an old blue car
+a violet umbrella
+a pink bird
+a woman in a violet dress
+a young woman in a violet swimsuit
+a young woman in a pink scarf
+a girl in a pink cap
+wet swimsuits
+a girl in a brown cap
+a cheerful old man in green
+a young woman in  white trousers
+a man in a pink shirt
+a young woman in a short blue skirt
+a young woman in black trousers
+a man in a blue shirt
+a young woman in a long brown skirt
+Is the old man in the black cap cheerful? Yes, the old man in the
+black cap is cheerful.
+Is the big woman cheerful? Yes, the big woman is cheerful.
+Is the big old woman in a blue swimsuit cheerful? Yes, the big old
+woman in a blue swimsuit is cheerful.
+Is the big woman sad? Yes, the big woman is sad.
+Is the old man with a dog cheerful? Yes, the old man with a dog is
+cheerful.
+Is the big young man with a woma in blue water cheerful? Yes, the big
+young man with a woman in blue water is cheerful.
+A red flower? No, a grey bird.
+Is the wet girl wearing a grey dress? No, the wet girl is wearing a
+black swimsuit.
+Is the old woman with flowers wearing a red skirt ? No, the old woman
+with flowers is wearing a yellow cap.
+Is the man in a black cap? No, the man is in a blue cap.
+An old white car? No, a pink old car.
+Is the woman in a green shirt and a green scarf? No, the woman is in a
+pink swimsuit and a pink skirt.
+<2016-06-06 Mon 06:12>finshed
+**** DONE 浏览新闻<2016-06-06 Mon 05:32>
+**** DONE 学习Emacs 操作
+**** TODO 读书《混合式学习》
+**** DONE 朗读《道德经》<2016-06-06 Mon 06:23>--<2016-06-06 Mon 06:38>
+**** DONE 回家吃饭。<2016-06-06 Mon 06:42>
+*** 上午
+**** 7:30到办公室打扫卫生<2016-06-06 Mon 07:43>
+**** DONE 读书《混合式学学习。。。》4页<2016-06-06 Mon 07:50-11:30>
+完成61､62两页<2016-06-06 Mon 08:16>--<2016-06-06 Mon 09:03>完成64,65两
+页。
+**** DONE 阅读工作邮件<2016-06-06 Mon 08:21>
+**** DONE 学习Emacs<2016-06-06 Mon 11:38>
+内容较杂，不系统。还是从ＧＮＵ Ｅmacs学起。
+**** DONE 检查教学工作<2016-06-06 Mon 10:20>
+*** 下午
+**** DONE 上次录入的工作未存<2016-06-06 Mon 15:18>
+**** DONE 阅读 GNU EMACS 开始系统学习EMACS<2016-06-06 Mon 15:20>
+**** DONE 读书《混合式学习。。。》<2016-06-06 Mon 15:58>
+完成66-67页。<2016-06-06 Mon 16:12>
+*** 晚上
+**** TODO 18:13到达办公室<2016-06-06 Mon 16:13>
+5G终于要来了！不仅网速超快，价格竟然这么低……  [[http://news.k618.cn/society/bxms/201606/t20160604_7625810.html]]
+进入“下一轮进化”的谷歌帝国是上帝还是魔鬼？
+[[http://business.sohu.com/20160519/n450285769.shtml]]
+中国的程序员培训是不是有问题？
+(1)[[http://tech.china.com/news/11146418/20160605/22811685.html]]
+从卡内基梅隆到Facebook：我是如何肉身翻墙，又回国创业的？
+[[http://www.huxiu.com/article/150675/1.html]]
+摒弃“学生思维”，前FB工程师教你如何科学地步入互联网职场？[[http://www.huxiu.com/article/148530/1.html]]
+拒绝传统，看 Facebook 如何以三大法宝化茧成蝶：人才吸引、工程师文化和项
+目开发流程[[http://www.huxiu.com/article/148382/1.html]]
+**** TODO emacs 视频<2016-06-06 Mon 20:51>
+Learn Emacs in 21 Days: day1  
+1[[http://v.youku.com/v_show/id_XMTUwNjU0MjE0OA==.html]]
+Learn Emacs in 21 Days: day2[[http://v.youku.com/v_show/id_XMTUxMzQyODI4MA==.html?from=y1.2-1-87.3.2-2.1-1-1-1-0]]
+Learn Emacs in 21 Days: day3[[http://v.youku.com/v_show/id_XMTUyNzA0MTMxNg==.html?from=y1.2-1-87.3.10-1.1-1-1-9-0]] 
+Learn Emacs in 21 Days:
+day4[[http://v.youku.com/v_show/id_XMTUzMDAwMDYwMA==.html?from=y1.2-1-87.3.5-1.1-1-1-4-0]]
+Learn Emacs in 21 Days: day5[[http://v.youku.com/v_show/id_XMTU0NjMyNDg5Ng==.html?from=y1.9-3.1]]
+Learn Emacs in 21 Days: day6 
+[[http://v.youku.com/v_show/id_XMTU0NjYwNzQ3Mg==.html?from=y1.2-1-87.3.2-1.1-1-1-1-0]]
+Learn Emacs in 21 Days: day7[[http://v.youku.com/v_show/id_XMTU1NTk4MzUyNA==.html?from=y1.9-3.1]]
+ Learn Emacs in 21 Days:day 8[[http://v.youku.com/v_show/id_XMTU3MzEyNDkxNg==.html?from=y1.9-3.1]]
+Learn Emacs in 21 Days:
+day9[[http://v.youku.com/v_show/id_XMTU4MDU2NjE3Ng==.html?from=y1.2-1-87.3.5-1.1-1-1-4-0]]
+Learn Emacs in 21 Days:day12
+Learn Emacs in 21 Days:day10 
+Learn Emacs in 21 Days:day10
+ Learn Emacs in 21 Days:day10 
+Learn Emacs in 21 Days:day10
+ Learn Emacs in 21 Days:day10 
+Learn Emacs in 21 Days:day10
+org
+gtd[[http://v.youku.com/v_show/id_XMTM2MjM5OTU5Ng==.html?f=26137579&from=y1.7-3]]
 
