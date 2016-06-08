@@ -2705,7 +2705,205 @@ Is the boy reading a book? He is sitting in front of the television.
 **** DONE 培夫人走3000步，62大卡
 **** DONE read 《Blended Learning 》fished 70,71<2016-06-07 Tue 20:43>
 **** DONE begin Emacs note file name emacs.note<2016-06-07 Tue 20:48>--<2016-06-07 Tue 21:40>
+** <2016-06-08 Wed 05:28>到办公室
+*** 早晨
+**** Learning English
+***** DONE Lesson 3 <2016-06-08 Wed 05:30-06:13>
+sand
+a glass
+an umbrella
+stone
+grass
+water
+over
+under
+behind
+in front of
+with
+without
+on the right 
+around
+between
+in
+on
+on the left
+A man is over the grass.
+The man is sitting under a tree.
+The man is standing under a blue umbrella.
+A man is over the water.
+The woman is between the men.
+The man is between the women.
+The woman is lying on the grass.
+A big stone is on the grass.
+A girl is on the giraffe.
+The woman is sitting on the sand.
+A woman in red.
+A woman is on a big stone.
+Water in a glass
+The woman and the man are in a restaurant.
+A flower in a glass.
+The woman and the man are in the shop.
+The boy and the girl are sitting in the car.
+A man in the water
+A girl with an orange
+A woman without an umbrella.
+A woman with a white bear.
+Flowers are around the water.
+A woman with an umbrella.
+A girl without an orange.
+The woman with the bananas is on the right.
+A man behind a car
+The woman without a glass is on the right.
+The man in front of a car
+The boy without banans is on the left.
+The man with a glass is on the left.
+Are the boys sitting in front of a tree? Yes, the boys are sitting in
+front of a tree.
+Is the girl standing between the man and the woman? Yes, she is
+standing between the man and the woman.
+Are the oranges on a plate? Yes, the oranges are on a plate.
+Are the boys behind a tree? Yes, they are behind a tree.
+Is the woman with bananas? Yes, she is with banans.
+Are the oranges around a plate? Yes, the oranges are around a plate.
+Is the monkey under the water? No, the bird is over the water.
+Are the women in the water? No, they are lying on the sand.
+Is the man with a glass on the right? No, he is on the left.
+Is the woman wearing green? No, she is wearing red.
+Is the woman with a bag? No, she is under a big umbrella.
+Is the woman lying? No, she is sitting on a stone.
+***** DONE Lesson 2 <2016-06-08 Wed 06:20-06:41>
+red
+yellow
+green 
+black
+white
+blue
+a horse
+a bag
+a dress
+an orange
+a bnanaa
+short
+big
+small
+a man and a woman
+a boy and a girl
+long
+a white horse
+blue sky
+a green tree
+a black car
+a white plate
+a red bag
+a short red dress
+a short yellow dress
+a long white car
+a big red bag
+a small yellow car
+a long black dress
+a big tree
+a small black horse
+a blue dress
+a small green tree
+a blue bag
+a blue car
+a pink flower
+blue sky
+pink dress
+A boy is eating a yellow banana.
+a black bag
+a small pink bag
+The black monkey is walking.
+The white bear is swimming.
+A yellow flower
+The white plate is flying.
+A long white dress
+A white flower
+Is the bag red? Yes, the bag is red.
+Is the car black? Yes, the car is black.
+Is the bear white? Yes, the bear is white.
+Is the dress blue? Yes, the dress is blue.
+Is the banana yellow? Yes, the banana is yellow.
+Is the tree green? Yes, the tree is green.
+Is the green tree big? No, it is small.
+Is the long dress white? No, it's black.
+Is the tree small? No, it is big.
+Is the plate big? No, it is small.
+Is the plate samll? No, it is big.
+Is the black dress long? No, it's short.
+**** DONE 朗读《道德经》<2016-06-08 Wed 06:48>--<2016-06-08 Wed 06:56>
+朗读20篇
+***  上午
+**** DONE 擦车半小时，出汗了，活动一下挺好。<2016-06-08 Wed 08:00-08:38>
+**** Learning English 
+***** DONE Lesson 1<2016-06-08 Wed 08:40-09:03>
+a man 
+a woman
+a girl
+a boy
+a monkey
+a giraffe
+to stand
+to walk
+to sit
+to run
+to eat
+to drink
+a bird
+a fish
+a helicopter
+a tree
+a flower
+a plate
+The man is lying down
+The woman is lying down.
+The boy is sitting down.
+The woman is sitting down.
+The monkey is sitting down.
+The monkey is standing.
+The girl is running.
+The girl is standing.
+The woman is walking.
+The woman is standing.
+The boy is running.
+The giraffe is walking.
+The bird is flying.
+The fish is swimming
+The plate is flying.
+The man is swimming.
+The helicopter is flying.
+The man is flying.
+The girl is drinking.
+The man is drinking.
+The monkey is eating.
+The bird is drinking.
+The man is eating.
+The boy is eating.
+The girl is drinking.
+The girl is walking.
+The boy is running.
+The giraffe is walking.
+The monkey is walking.
+The bear is lying down.
+The girl is running.
+Is the giraffe eating? Yes, the giraffe is eating.
+Is the man walking? Yes, the man is walking.
+Is the bird eating? Yes, the bird is eating.
+Is the woman drinking? Yes, the woman is drinking.
+Is the bear swimming? Yes, the bear is swimming.
+Is the boy walking? Yes, the boy is walking.
+Is the fish flying? No, the fish is swimming.
+Is the girl standing up? No, the girl is sitting down.
+Is the monkey walking? No, the monkey is sitting down.
+Is the giraffe running? No, the giraffe is standing.
+Is the bird running? No, the bird is flying.
+Is the bear eating? No, the bear is swimming.
 
-
-
-
+*** 晚上
+**** Learning English 快速复习<2016-06-08 Wed 17:37>
+***** DONE Lesson one<2016-06-08 Wed 17:50>--<2016-06-08 Wed 18:02>
+***** DONE Lesson two <2016-06-08 Wed 18:03>
+***** DONE Lesson three <2016-06-08 Wed 18:34>
+**** DONE reading 《Ｂlended Learning》<2016-06-08 Wed 18:35>--<2016-06-08 Wed 19:09>72-73pages
+**** 锻炼共完成1万步
+**** DONE Lesson four <2016-06-08 Wed 21:04>--<2016-06-08 Wed 21:22>
