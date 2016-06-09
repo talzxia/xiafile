@@ -2907,3 +2907,33 @@ Is the bear eating? No, the bear is swimming.
 **** DONE reading 《Ｂlended Learning》<2016-06-08 Wed 18:35>--<2016-06-08 Wed 19:09>72-73pages
 **** 锻炼共完成1万步
 **** DONE Lesson four <2016-06-08 Wed 21:04>--<2016-06-08 Wed 21:22>
+**** DONE 接孩子22:10-－23:50
+** <2016-06-09 Thu 04:50>到办公室
+*** morning 
+**** Learning English
+***** DONE Lesson Five <2016-06-09 Thu 04:55>--<2016-06-09 Thu 05:17>97%
+***** DONE Lesson Six<2016-06-09 Thu 05:18>--<2016-06-09 Thu 05:35>97.5%
+***** DONE Read book <GNU Emacs><2016-06-09 Thu 07:29>3100word.
+***** DONE 朗读《道德经》
+*** morning 8-12
+***** DONE 浏览学习至<2016-06-09 Fri>世界著名大学哈佛大学斯坦福大学
+***** DONE Lesson seven <2016-06-09 Thu 10:07>--<2016-06-09 Thu 10:24>97.4%
+***** DONE Lesson eight <2016-06-09 Thu 10:25>--<2016-06-09 Thu 10:43>98.3%
+**** Afternoon
+***** Emacs 普通人的编辑利器[[http://www.360doc.com/content/11/0127/17/4553438_89402345.shtml]]
+***** Emacs 实践[[http://www.360doc.com/content/11/1107/18/7735641_162571835.shtml]]
+***** Document:[[http://orgmode.org/worg/org-tutorials/org-screencasts/org-series-episode-1.html]]
+***** org gtd [[http://www.360doc.com/content/10/0327/12/155970_20456368.shtml]]
+***** 最成功的人如何管理每一天[[http://www.360doc.com/content/13/0319/08/1117434_272385312.shtml]]
+***** 找到热情，立刻成功[[http://www.360doc.com/content/13/0321/07/1117434_272829145.shtml]]
+***** 成功者的七大特质[[http://www.360doc.com/content/10/1127/10/1174103_72820651.shtml]]
+***** 世界末日：中国人来了[[http://www.360doc.com/content/13/0105/15/592280_258358366.shtml]]
+***** gtd 100[[http://www.360doc.com/content/09/1128/20/64263_9956974.shtml]]
+***** 老味[[http://www.360doc.com/userhome.aspx?userid=64263&cid=18#]]
+***** 给儿子的一封信[[http://www.360doc.com/content/13/0629/19/1324825_296413597.shtml]]
+***** DONE Learning English nine<2016-06-09 Thu 15:51>--<2016-06-09 Thu 16:09>95.7%
+***** DONE Learning English ten <2016-06-09 Thu 16:29>96.8%
+***** DONE Reading <Blended Learning>74-75<2016-06-09 Thu 17:09>
+***** DONE Reading <Blended Learnig>1-5章<2016-06-09 Thu 18:19>
+***** DONE Learning English eleven <2016-06-09 Thu 21:29>97.2%
+***** reading <Blended Learning >76p<2016-06-09 Thu 21:48>
