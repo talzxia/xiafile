@@ -2937,3 +2937,49 @@ Is the bear eating? No, the bear is swimming.
 ***** DONE Reading <Blended Learnig>1-5章<2016-06-09 Thu 18:19>
 ***** DONE Learning English eleven <2016-06-09 Thu 21:29>97.2%
 ***** reading <Blended Learning >76p<2016-06-09 Thu 21:48>
+** <2016-06-10 Fri 06:05>到达办公室
+*** morning eight before
+**** Learning English 
+***** DONE Lesson twelve <2016-06-10 Fri 06:06>--<2016-06-10 Fri 06:28>96%
+***** DONE Lesson thirteen <2016-06-10 Fri 06:31>--<2016-06-10 Fri 06:50>98.1%
+***** DONE Lesson forteen <2016-06-10 Fri 06:52>--<2016-06-10 Fri 07:14>96.8%
+***** DONE Lesson fiften <2016-06-10 Fri 08:40>--<2016-06-10 Fri 09:01>95.8%
+***** DONE 有点文化，用来耍“流氓”多好[[http://www.360doc.com/content/13/0629/19/1324825_296411314.shtml]]
+CLOSED: [2016-06-10 Fri 21:34]
+***** DONE Getting things Done[[https://en.wikipedia.org/wiki/Getting_Things_Done]]
+CLOSED: [2016-06-10 Fri 21:35]
+***** Emacs定制[[http://www.jianshu.com/p/a562a6d03f1b]]
+***** DONE 如何才能 Getting Things Done？带你从头理解 GTD[[http://sspai.com/28414]]
+CLOSED: [2016-06-10 Fri 21:35]
+***** DONE Master Emacs in 21 Days[[http://book.emacs-china.org]]
+CLOSED: [2016-06-10 Fri 21:35]
+***** DONE #3 Emacs – 陈斌 redguardtoo[[http://codetimecn.com/2016/04/18/emacs/]]
+CLOSED: [2016-06-10 Fri 21:35]
+
+***** DONE Org-mode 简明手册[[http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html]]
+CLOSED: [2016-06-10 Fri 21:35]
++ dkkdka
++ 
+The Org homepage[fn:1]. now looks a lot better than it used to.
+[fn:1]. The link is : http://orgmode.org
+
+| Name  | Phone | Age |
+|-------+-------+-----|
+| Peter | 12334 |  17 |
+|-------+-------+-----|
+| Anna  |  4321 |  25 |
+*** evening 
+**** Learning Englis
+***** DONE DNOE Lesson fivteen fourteen 98.2%98.3%
+- State "DONE"       from ""           [2016-06-10 Fri 20:52]
+***** DONE learning emacs org mode
+CLOSED: [2016-06-10 Fri 21:04]
+***** 截止时间
+DEADLINE: <2016-07-15 Fri>
+:PROPERTIES:
+:ID:       A601C735-DDCA-4AE0-8A23-587405318EFA
+:END:
+
+
+
+
