@@ -6,7 +6,9 @@ h1. 早3:00起，到办公室
 * DONE 上班后读书半小时，阅读处理最新学院总结
 * DONE 然后读书至10点背痛。<2016-05-31 Tue 10:00>
 * 日记
-  CLOCK: [2016-06-01 Wed 06:28]
+CLOCK: [2016-06-12 Sun 16:12]--[2016-06-12 Sun 16:37] =>  0:25
+CLOCK: [2016-06-12 Sun 15:29]--[2016-06-12 Sun 15:54] =>  0:25
+  CLOCK: [2016-06-01 Wed 06:28]--[2016-06-01 Wed 06:53] =>  0:25
 ** <2016-02-29 Mon>
 Feb 29, 2016 自今天起，记工作笔记。
 早晨5点起，到办公室后先学半课英语。Lesson 32
@@ -2403,7 +2405,7 @@ pink swimsuit and a pink skirt.
 **** DONE 读书《混合式学习。。。》<2016-06-06 Mon 15:58>
 完成66-67页。<2016-06-06 Mon 16:12>
 *** 晚上
-**** TODO 18:13到达办公室<2016-06-06 Mon 16:13>
+**** DONE 18:13到达办公室<2016-06-06 Mon 16:13>
 5G终于要来了！不仅网速超快，价格竟然这么低……  [[http://news.k618.cn/society/bxms/201606/t20160604_7625810.html]]
 进入“下一轮进化”的谷歌帝国是上帝还是魔鬼？
 [[http://business.sohu.com/20160519/n450285769.shtml]]
@@ -2414,7 +2416,7 @@ pink swimsuit and a pink skirt.
 摒弃“学生思维”，前FB工程师教你如何科学地步入互联网职场？[[http://www.huxiu.com/article/148530/1.html]]
 拒绝传统，看 Facebook 如何以三大法宝化茧成蝶：人才吸引、工程师文化和项
 目开发流程[[http://www.huxiu.com/article/148382/1.html]]
-**** TODO emacs 视频<2016-06-06 Mon 20:51>
+**** DONE emacs 视频<2016-06-06 Mon 20:51>
 Learn Emacs in 21 Days: day1  
 1[[http://v.youku.com/v_show/id_XMTUwNjU0MjE0OA==.html]]
 Learn Emacs in 21 Days: day2[[http://v.youku.com/v_show/id_XMTUxMzQyODI4MA==.html?from=y1.2-1-87.3.2-2.1-1-1-1-0]]
@@ -2972,7 +2974,7 @@ The Org homepage[fn:1]. now looks a lot better than it used to.
 **** Learning Englis
 ***** DONE DNOE Lesson fivteen fourteen 98.2%98.3%
 - State "DONE"       from ""           [2016-06-10 Fri 20:52]
-***** DONE learning emacs org mode
+**** DONE learning emacs org mode
 CLOSED: [2016-06-10 Fri 21:04]
 ***** 截止时间
 DEADLINE: <2016-07-15 Fri>
@@ -3037,6 +3039,7 @@ CLOSED: [2016-06-11 Sat 10:11]
 ***** DONE Lesson nine 98.8%
 CLOSED: [2016-06-11 Sat 10:30]
 - CLOSING NOTE [2016-06-11 Sat 10:30]
+*** afternoo 
 **** DONE 从头理解ＧＴＤ 如何才能Getting Things Done? 带你从头理解GTD
 CLOSED: [2016-06-11 Sat 21:58]
 - CLOSING NOTE [2016-06-11 Sat 21:58]
@@ -3291,3 +3294,42 @@ CLOSED: [2016-06-11 Sat 20:18]
 ***** DONE Lesson five 96.7%
 CLOSED: [2016-06-11 Sat 20:51]
 - CLOSING NOTE [2016-06-11 Sat 20:51]
+** <2016-06-12 Sun 05:19>到办公室
+*** DONE morning<2016-07-08 Fri>
+**** DONE Learning English
+***** DONE Lesson Four 98%
+CLOSED: [2016-06-12 Sun 05:37]
+- CLOSING NOTE [2016-06-12 Sun 05:37]
+***** DONE Lesson Three 
+CLOSED: [2016-06-12 Sun 05:54]
+- CLOSING NOTE [2016-06-12 Sun 05:54]
+***** Learning Emacs org
+ 而Org-mode使用文本方式，具有如下优势：
+
+格式通用，系统无关，软件无关体积小，速度快
+“所想即所得”,比“所见即所得”更人性化
+可以说，正是由于有了 Org-Mode， Emacs 处理文本的能力才得到了大幅度的提高，使得Emacs能够被非程序员接受。 如果说LaTex是排版的终极，那么Org-mode就是编辑的终极。Emacs 22 以后的版本已经集成了 org-mode，打开 .org 扩展的文件会自动进入 org 模式。此外，Vim下面也有了对应的Org-mode。
+*** afternoon
+**** DONE Learning emacs<2016-06-13 Mon>
+SCHEDULED: <2016-06-12 Sun>
+安装好番茄时间插件，如何使用，有待测试。但作了各种设置后，速度明显慢了。
+包括输入显示等。
+***** DONE emacs 补全能用了
+DEADLINE: <2016-06-12 Sun 16:03>
+***** DONE 今天学习Emacs 神速 番茄时间也能用了
+SCHEDULED: <2016-06-12 Sun 16:15>
+m-x org-pommodoro 根据提示设置即可。
+*** everning<2016-06-12 Sun>
+
+file disk computer lisp excavator telephone television  
+**** DONE Lesson two and one 97.7%,99.3%
+DEADLINE: <2016-06-12 Sun 20:10> SCHEDULED: <2016-06-12 Sun 20:09>
+CLOCK: [2016-06-12 Sun 20:14]--[2016-06-12 Sun 20:39] =>  0:25
+**** DONE Learn emacs org mode 
+SCHEDULED: <2016-06-12 Sun 09:00>
+**** DONE 如何用 Org-Mode 做笔记[[https://kanedou.me/2010/10/note-with-orgmode/]]
+**** DONE Org-Manual 7.8最好的详细手册[[https://github.com/marboo/orgy jmode-cn/blob/master/org.org]]
+DEADLINE: <2016-06-12 Sun 21:30>
+**** DONE Down org.org Manual and save<2016-06-12 Sun 21:34>
+**** DONE Git file
+DEADLINE: <2016-06-12 Sun>
