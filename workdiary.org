@@ -2906,6 +2906,24 @@ Is the bear eating? No, the bear is swimming.
 ***** DONE Lesson one<2016-06-08 Wed 17:50>--<2016-06-08 Wed 18:02>
 ***** DONE Lesson two <2016-06-08 Wed 18:03>
 ***** DONE Lesson three <2016-06-08 Wed 18:34>
+(ivy-mode 1)
+(setq ivy-use-virtual-buffers t)
+(global-set-key "\C-s" 'swiper)
+(global-set-key (kbd "C-c C-r") 'ivy-resume)
+(global-set-key (kbd "<f6>") 'ivy-resume)
+(global-set-key (kbd "M-x") 'counsel-M-x)
+(global-set-key (kbd "C-x C-f") 'counsel-find-file)
+(global-set-key (kbd "<f1> f") 'counsel-describe-function)
+(global-set-key (kbd "<f1> v") 'counsel-describe-variable)
+(global-set-key (kbd "<f1> l") 'counsel-load-library)
+(global-set-key (kbd "<f2> i") 'counsel-info-lookup-symbol)
+(global-set-key (kbd "<f2> u") 'counsel-unicode-char)
+(global-set-key (kbd "C-c g") 'counsel-git)
+(global-set-key (kbd "C-c j") 'counsel-git-grep)
+(global-set-key (kbd "C-c k") 'counsel-ag)
+(global-set-key (kbd "C-x l") 'counsel-locate)
+(global-set-key (kbd "C-S-o") 'counsel-rhythmbox)
+(define-key read-expression-map (kbd "C-r") 'counsel-expression-history)
 **** DONE reading 《Ｂlended Learning》<2016-06-08 Wed 18:35>--<2016-06-08 Wed 19:09>72-73pages
 **** 锻炼共完成1万步
 **** DONE Lesson four <2016-06-08 Wed 21:04>--<2016-06-08 Wed 21:22>
@@ -3333,3 +3351,140 @@ DEADLINE: <2016-06-12 Sun 21:30>
 **** DONE Down org.org Manual and save<2016-06-12 Sun 21:34>
 **** DONE Git file
 DEADLINE: <2016-06-12 Sun>
+** <2016-06-13 Mon 06:23>到办公室
+*** morning
+**** Learning English
+***** DONE Lesson one 98.9%
+SCHEDULED: <2016-06-13 Mon 06:40>
+***** DONE Lesson two 98.5<2016-06-14 Tue 06:53>
+SCHEDULED: <2016-06-13 Mon 07:00>
+*** morning 8-12
+**** DONE 整理—7Ｓ桌面地面等
+DEADLINE: <2016-06-13 Mon 07:40-07:58>
+**** 进行工作状态。
+**** DONE 学习Emacs时间管理ＧＴ
+DEADLINE: <2016-06-13 Mon 08:30>
+**** DONE 向王院长汇报工作<2016-06-13 Mon 09:00-10:00>
+**** DONE 整理完成Emacs init.el<2016-06-13 Mon 10:00-10:30>
+**** DONE Learning Lesson three 97.3%
+DEADLINE: <2016-06-13 Mon 11:11>
+*** afternoon
+**** DONE work
+DEADLINE: <2016-06-13 Mon 14:53>
+***** 演讲内容
+****** 1.做什么样的人
+******* - 女生：内涵，静雅，高贵，大方，气质优雅，掌握孩子及家庭前途。
+******* - 男生：责任，担当，正直，可靠，家庭栋梁，经济支柱。
+****** 育人第一 引导，方向，而非包揽一切
+****** 先成人，后技能。学终身技能，而非5-10年落后。终身进步与学习
+标准的盲打，受益一生
+先进的学习方法，终身进步
+开阔的胸怀，心情愉快，幸福一生
+正确的方向，正确的选择，正确的时间
+
+****** 管理既服务，活动即成长。
+项目化管理redmine 
+精细过程管理ERP
+在线课程平台moodle交互学习，共同进步
+混合式学习－－当今最先进的教学及学习方式
+****** 世界眼光
+世界前十大学
+理念，培养什么样的人，是如何培养的
+******* 管理
+******** 体验践行先进管理方式
+项目化管理
+精细化管理
+科学化管理
+时间管理
+知识管理
+
+******* 技术
+
+******** 当今最新及未来方向
+Spark
+Docker
+Open stack
+vimware
+智能
+物联
+
+******* 社会责任
+改变了自己即改变了社会
+自己文明了社会即文明
+
+******* 家庭责任
+一个家庭的发现需要几代人的努力
+前进不要后退
+自己成长，家庭进步，孩子优秀
+
+******* 个人成功界定
+有钱不一定成功
+有权不一定成就
+内心的安祥，自信，坚定，坚守
+******* 如何做：良好习惯＋眼界
+记录学习总结
+ＧＴＤ(Getting Things Done)
+世界眼光
+做事业，淡泊名利
+享生活，愉快工作
+愉快高效协同共享
+
+****** 技术方向
+开源 大数据 云平台实践 移动互联 
+****** 精英工作学习方式
+习惯成就未来
+****** 实践，提高。
+从现在做起。记录学习成长的每一天。
+每人有computer 装Linux  用mac系统，高效拒绝游戏及不良习惯，什么不学也
+是成功<2016-06-14 Tue 10:26>
+**** DONE Learning English Lesson Four 98%
+DEADLINE: <2016-06-13 Mon 15:40>
+*** evering停电
+** <2016-06-14 Tue 05:27>到办公室开始工作学习
+*** morning 
+**** DONE Learing English Five96%.
+DEADLINE: <2016-06-14 Tue 06:00>
+**** DONE Lesson six 98.3%
+SCHEDULED: <2016-06-14 Tue 06:15>
+**** DONE Learning org manual
+DEADLINE: <2016-06-14 Tue 06:40>
+*** Morning 8:12
+**** working 
+***** DONE clean office <2016-06-15 Wed 08:00-08:30>
+***** DONE Begin work GTD
+DEADLINE: <2016-06-14 Tue 09:00>   
+CLOCK: [2016-06-14 Tue 09:10]--[2016-06-14 Tue 09:35] =>  0:25
+CLOCK: [2016-06-14 Tue 08:44]--[2016-06-14 Tue 08:51] =>  0:07
+ 泰山职业技术学院
+信息技术工程系
+夏乐斋
+泰山职业技术学院
+信息技术工程系
+夏乐 斋
+设置company 补全两个字开始
+速度慢了。
+
+夏乐斋
+泰山职业技术学院信息技术工程系夏乐斋
+信息技术工程系
+夏乐斋
+夏乐斋
+信息技术工程系
+夏乐斋
+泰山职业技术学院信息技术工程系夏乐斋
+权力就是责任
+实干就是水平
+落实就是能力
+权力就是责任
+实干就是水平
+落实就是能力
+夏乐斋
+
+伤心不用频传语
+抛却心肝今掷地
+相逢我是生疏客
+泣尽夜来风和雨
+***** DONE 思考演讲内容
+DEADLINE: <2016-06-14 Tue 09:45>
+***** TODO 小息
+DEADLINE: <2016-07-10 Sun>

@@ -28,7 +28,6 @@
    有一个网站提供了最新版本的Org连接,还有附加信息,FAQ,和入门指导.这个网页就是http://orgmode.org
 ** 安装            : 下载org后,如何安装
    *注意*:如果你使用的是Emacs或者XEmacs中自带的Org版本,请跳过这一步直接前往[[Activition][激活]]. 如果需要查看你Emacs中自带的Org是什么版本的,按下 /M-x load-library RET org/ 然后再 /M-x org-version/.
-
    如果你从网站上下载了Org,不管它是zip还是tar格式的分发包,也不管它是不是Git存档,你必须遵照下面的步骤来安装它:
    解压Org分发包并进入解压的目录中,然后编辑顶层目录中的'Makefile'文件. 你必须设置Emacs的二进制执行文件的名字(一般是'emacs'或者'xemacs'),设置Lisp和Info文件存放的路径. 如果你没有权限访问全系统的目录,你只需要简单地把'lisp'子目录加入Emacs的load-path中,然后就可以运行org mode了.如果你用这种方法,需要把下面这一行加入'.emacs'文件中
    #+BEGIN_SRC emacs-lisp    
@@ -55,7 +54,7 @@
      (require 'org-install)
    #+END_SRC
    不要忘了激活Org,具体操作见下一节.
-** 激活            : 如何为指定的buffer激活org模式 #<<Activition>>
+** TODO 激活            : 如何为指定的buffer激活org模式 #<<Activition>>
    为了保证后缀为'.org'的文件会使用Org mode,在'.emacs'文件中增加下面一行
    #+BEGIN_SRC emacs-lisp
      (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))
