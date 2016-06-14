@@ -3435,8 +3435,8 @@ vimware
 习惯成就未来
 ****** 实践，提高。
 从现在做起。记录学习成长的每一天。
-每人有computer 装Linux  用mac系统，高效拒绝游戏及不良习惯，什么不学也
-是成功<2016-06-14 Tue 10:26>
+每人有computer 装Linux  用mac系统，高效。
+拒绝游戏及不良习惯，什么不学也是成功<2016-06-14 Tue 10:26>
 **** DONE Learning English Lesson Four 98%
 DEADLINE: <2016-06-13 Mon 15:40>
 *** evering停电
@@ -3479,6 +3479,7 @@ CLOCK: [2016-06-14 Tue 08:44]--[2016-06-14 Tue 08:51] =>  0:07
 实干就是水平
 落实就是能力
 夏乐斋
+泰山职业技术学院：“
 
 伤心不用频传语
 抛却心肝今掷地
@@ -3486,5 +3487,42 @@ CLOCK: [2016-06-14 Tue 08:44]--[2016-06-14 Tue 08:51] =>  0:07
 泣尽夜来风和雨
 ***** DONE 思考演讲内容
 DEADLINE: <2016-06-14 Tue 09:45>
-***** TODO 小息
-DEADLINE: <2016-07-10 Sun>
+***** DONE 小息
+DEADLINE: <2016-07-10 Sun
+CLOCK: [2016-06-14 Tue 16:13]--[2016-06-14 Tue 16:38] =>  0:25
+***** DONE 讨论安排下午大会日程<2016-06-14 Tue 10:57>
+***** DONE Learing English seven 98.5%<2016-06-14 Tue 11:15>
+DEADLINE: <2016-06-14 Tue 11:30>
+CLOCK: [2016-06-14 Tue 10:59]--[2016-06-14 Tue 11:24] =>  0:25
+***** DONE Lesson eight 97.8%<2016-06-14 Tue 11:35>
+CLOCK: [2016-06-14 Tue 11:39]--[2016-06-14 Tue 11:40] =>  0:01
+*** Afternoon  
+**** DONE 学生表彰大会<2016-06-14 Tue 14:30-16:00>
+电脑出了问题，自已看着book讲的。
+**** 与张青教师探讨教学及管理工作<2016-06-14 Tue 16:10-16:40>
+**** 讲话太累，小息20分钟，给夫人电一电话。
+**** DONE Learning English lesson nine 98.6%
+CLOCK: [2016-06-14 Tue 17:00]--[2016-06-14 Tue 17:18] =>  0:18
+**** DONE 结束一天工作，接夫人去。
+*** Everning
+**** DONE 19:00-19:30大雨 19:31到办公室<2016-06-14 Tue 19:32>
+**** DONE Listen Music And Learn English Lesson Ten 97.2%
+DEADLINE: <2016-06-14 Tue>
+**** DONE Lesson eleven 97.9%
+SCHEDULED: <2016-06-14 Tue 20:20>
+CLOCK: [2016-06-14 Tue 19:57]--[2016-06-14 Tue 20:20] =>  0:23
+**** DONE 回去送钥匙，开车回来
+DEADLINE: <2016-06-14 Tue 20:50>
+吃甜瓜，肚子不舒服。
+**** Learn Emacs
+DEADLINE: <2016-06-14 Tue 21:30>
+CLOCK: [2016-06-14 Tue 20:47]--[2016-06-14 Tue 21:11] =>  0:24
+CLOCK: [2016-06-14 Tue 20:46]--[2016-06-14 Tue 20:47] =>  0:01
+** DONE This is a headline
+- Note taken on [2016-06-14 Tue 21:22]
+,   Still outside the drawer
+,   :DRAWERNAME:
+,   This is inside the drawer.
+,   :END:
+,   After the drawer.
+ ,* Pick up Sam at school <2016-06-14 Tue 21:40>
