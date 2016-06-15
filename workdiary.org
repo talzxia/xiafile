@@ -3518,11 +3518,30 @@ DEADLINE: <2016-06-14 Tue 20:50>
 DEADLINE: <2016-06-14 Tue 21:30>
 CLOCK: [2016-06-14 Tue 20:47]--[2016-06-14 Tue 21:11] =>  0:24
 CLOCK: [2016-06-14 Tue 20:46]--[2016-06-14 Tue 20:47] =>  0:01
-** DONE This is a headline
-- Note taken on [2016-06-14 Tue 21:22]
-,   Still outside the drawer
-,   :DRAWERNAME:
-,   This is inside the drawer.
-,   :END:
-,   After the drawer.
- ,* Pick up Sam at school <2016-06-14 Tue 21:40>
+** <2016-06-15 Wed 03:40-04:00>到办公室
+*** morning
+**** DONE Leanr english <2016-06-15 Wed 04:00-05:30>
+**** DONE Learn Emacs<2016-06-15 Wed 05:30-06:30>
+**** DONE 朗读《道德经》
+*** morning 8-12
+**** 到办公室开始工作学习<2016-06-15 Wed 07:29>
+**** 检查教学情况8:10-20
+CLOCK: [2016-06-15 Wed 10:59]--[2016-06-15 Wed 11:24] =>  0:25
+CLOCK: [2016-06-15 Wed 09:36]--[2016-06-15 Wed 10:01] =>  0:25
+该来来 了，不来的仍然未来。
+误删内容，手工恢复一天的记录。<2016-06-15 Wed 09:32>
+**** 建明来访<2016-06-15 Wed>
+CLOCK: [2016-06-15 Wed 11:54]--[2016-06-15 Wed 12:34] =>  0:40
+*** afternoon
+**** DONE 安排招标设备验收<2016-07-14 Thu>
+**** DONE Learn English lesson fivteen 96%
+DEADLINE: <2016-06-15 Wed 15:27>
+CLOCK: [2016-06-15 Wed 15:05]--[2016-06-15 Wed 15:26] =>  0:21
+**** DONE 安排蓝欧教师及学习mac 实训
+DEADLINE: <2016-06-15 Wed 15:45>
+**** DONE 学习emacs
+DEADLINE: <2016-06-15 Wed 16:45>
+CLOCK: [2016-06-15 Wed 15:45]--[2016-06-15 Wed 16:11] =>  0:26
+**** TODO 专门时间学习表格
+DEADLINE: <2016-06-15 Wed 21:40>
+
