@@ -3639,8 +3639,8 @@ DEADLINE: <2016-06-16 Thu 09:30>
 CLOCK: [2016-06-16 Thu 08:33]--[2016-06-16 Thu 08:58] =>  0:25
 **** DONE 到王院长处汇报工作
 DEADLINE: <2016-06-16 Thu 10:09>
-**** TODO orgmode 制表
-CLOCK: [2016-06-16 Thu 10:12]
+**** DONE orgmode 制表
+CLOCK: [2016-06-16 Thu 10:12]--[2016-06-16 Thu 10:37] =>  0:25
 | Name   | Phone | Age |
 |--------+-------+-----|
 | Perter |  1234 |  17 |
@@ -3658,5 +3658,104 @@ CLOCK: [2016-06-16 Thu 10:12]
 |--------+--------------+------|
 | 李倩   | 0538-8628055 |   45 |
 |--------+--------------+------|
-| 王树兵 | 0538-8628131 |   47 |
+| 王树兵 | 0538-8628131 |   47 | 
+
+初步入门。要学习的东西太多。 
+**** DONE Lesson eighteen 96.9%
+DEADLINE: <2016-06-16 Thu 15:13>
+CLOCK: [2016-06-16 Thu 10:45]--[2016-06-16 Thu 11:10] =>  0:25
+***** words
+ discount
+sale
+a counter
+price
+a customer
+a shop assistant
+
+to pay  cash
+to pay by card
+old
+expensive
+new
+cheap
+
+goods
+clothes
+a hat
+a jacket
+gloves
+a robe
+
+The shop assistant is selling goods.
+There is a sale in the shop.
+There are lots of goods in the big shop.
+The shop sells clothes.
+There are lots of customers in the shop.
+The shop assistant is standing behind the counter.
+
+The customers enjoy the sale.
+The shop has a lots of goods at a discount.
+There are high prices in the shop. Customers don't like high prices.
+The clothes are cheap.
+The car is expensive.
+They like to buy goods at a discount.
+
+The girl wants to buy cheap clothes.
+The shop doesn't have any old dress. All the dresses are new.
+The man has an old hat.
+The shop sells hats.
+There aren't any people in the expensive shop.
+The woman wants to buy a new dress.
+
+The little girl wants to buy some gloves.
+The girl is paying by card.
+The boy pays cash.
+The shop assistant is giving her gloves.
+The woman likes to shop.
+The man does not like to shop.
+
+The little girl wants to buy a scarf.
+The woman wants to buy a robe.
+She likes the white robe.
+The man wants to buy a suit.
+The shop sells a lot of scarves.
+He likes the black suit.
+
+Is the man paying cash? Yes, he is paying cash.
+Is the girl paying by card? Yes, she is paying by card.
+Is the dress new? Yes, it is new.
+Are  the shoes old? Yes,they are old.
+Is the fruit cheap? Yes it's cheap.
+Is the car expensive? Yes, it's expensive.
+
+Who is behind the counter? The shop assistant is behind the counter.
+Is the woman buying a dress or some gloves? She is buying a dress.
+Is the customer paying cash or by card? He is paying cash.
+Does the shop sell goods at a discount or without a dircount? It sells
+goods at a discount.
+Does the shop sell clothes or food? They sell clothes here.
+Is the man buying a suit or a hat? He is buying a hat.
+*** Afternoon
+**** DONE 企业来访
+CLOCK: [2016-06-16 Thu 15:15]--[2016-06-16 Thu 15:40] =>  0:25
+**** 订酒店，明瑞凤梧。
+DEADLINE: <2016-06-16 Thu 16:30>
+**** DONE Lesson eighteen 97.1%
+DEADLINE: <2016-06-16 Thu 17:00>
+CLOCK: [2016-06-16 Thu 16:32]--[2016-06-16 Thu 16:57] =>  0:25
+
+
+*** evening 
+**** DONE 宴请老陶，胡吹海滂
+DEADLINE: <2016-06-16 Thu 20:00>
+**** DONE 音乐，浏览新闻及文件，也是一种生活，也有收获。<2016-06-16 Thu 20:00-21:30>
+**** DONE Leran Lesson nineteen. 94.7%
+SCHEDULED: <2016-06-16 Thu 21:40>
+**** 当无事或不想干事时，学英语！
+**** 当阅读录入笔记，累了时，不强求，休息，休闲；
+**** 当遇到难点时，不强攻，循序渐进。
+**** 好的工具逐步发现新用途，不求全面开花，不深不透。
+
+
+  
 
