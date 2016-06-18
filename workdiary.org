@@ -1,11 +1,48 @@
-<2016-05-31 Tue>
-h1. 早3:00起，到办公室
-* DONE 复习英语2课。
-* DONE 读书
-背痛。
-* DONE 上班后读书半小时，阅读处理最新学院总结
-* DONE 然后读书至10点背痛。<2016-05-31 Tue 10:00>
+* 知识库
+** EMACS
+*** 网页
+**** Org-Manual 7.8 https://github.com/marboo/orgmode-cn/blob/master/org.org
+**** 如何用 Org-Mode 做笔记 https://kanedou.me/2010/10/note-with-orgmode/
+**** 
+*** 视频
+**** Spacemacs Rocks 第二季 http://book.emacs-china.org
+*** 学习笔记 
+** 时事政治
+*** 网页
+**** 廉政知识学习 http://60.208.27.171/zxcs-mn/examLearn.aspx?a=3
+*** 视频
+*** 学习笔记
+** LATEX
+*** 网页
+*** 视频
+*** 学习笔记
+** 生活常用信息查询
+*** 网页
+**** 违章查询 http://60.213.185.51:9080/wscgsxxcx/jdcwfcx.do
+*** 视频
+*** 学习笔记
+** EMACS
+*** 网页
+*** 视频
+*** 学习笔记
+** EMACS
+*** 网页
+*** 视频
+*** 学习笔记
+** EMACS
+*** 网页
+*** 视频
+*** 学习笔记 
+*** 
 * 日记
+
+** <2016-05-31 Tue>
+h1. 早3:00起，到办公室
+*** DONE 复习英语2课。
+*** DONE 读书
+背痛。
+*** DONE 上班后读书半小时，阅读处理最新学院总结
+*** DONE 然后读书至10点背痛。<2016-05-31 Tue 10:00>
 CLOCK: [2016-06-12 Sun 16:12]--[2016-06-12 Sun 16:37] =>  0:25
 CLOCK: [2016-06-12 Sun 15:29]--[2016-06-12 Sun 15:54] =>  0:25
   CLOCK: [2016-06-01 Wed 06:28]--[2016-06-01 Wed 06:53] =>  0:25
@@ -3787,4 +3824,30 @@ CLOCK: [2016-06-17 Fri 11:21]--[2016-06-17 Fri 11:43] =>  0:22
 *** evening
 ***** DONE Learn English 
 DEADLINE: <2016-06-17 Fri 21:50>
+
+** <2016-06-18 Sat 06:00>起床
+
+*** DONE morning not do nothing
+DEADLINE: <2016-06-18 Sat 06:00-07:00>
+
+*** DONE breakfast 喝撒<2016-06-18 Sat 07:00-07:30>
+
+*** moring 8-12
+**** DONE 加油<2016-06-18 Sat 07:30-08:00>
+
+**** DONE 观看Apple视频[[http://www.apple.com/apple-events/june-2016/]]<2016-06-18 Sat 08:30-11:30>
+
+**** DONE 洗车<2016-06-18 Sat 11:40-12:10>
+
+**** afternoon
+***** DONE write note<2016-06-18 Sat 12:10-12:50>
+***** DONE Learn English Lesson twenty three 96.6%
+CLOCK: [2016-06-18 Sat 13:09]--[2016-06-18 Sat 13:32] =>  0:23
+***** DONE 调整五笔输入法，中英文用shift切换，太方便了。
+DEADLINE: <2016-06-18 Sat 13:53>
+**** evening 21:00到办公室
+***** DONE Learn English Lesson twenty four 95.8%<2016-06-18 Sat 21:31>
+CLOCK: [2016-06-18 Sat 21:01]--[2016-06-18 Sat 21:26] =>  0:25
+***** DONE Lesson twenty five 94.5%<2010-06-22 Tue>
+CLOCK: [2016-06-18 Sat 21:36]--[2016-06-18 Sat 22:01] =>  0:25
 
