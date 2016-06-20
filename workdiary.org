@@ -119,6 +119,8 @@
 *** 
 * 日记
 
+
+
 ** <2016-05-31 Tue>
 h1. 早3:00起，到办公室
 *** DONE 复习英语2课。
@@ -1624,19 +1626,20 @@ org 模式使用半小时
 7:30到达办公室开始听音乐
 打扫桌面卫生。
 <2016-06-01 Wed 08:00>完成开始工作
-**** TODO  名校建设有关材料查阅
-***** TODO 项目五、计算机应用专业建设方案
-***** TODO 计算机应用专业培养方案
-***** TODO 建设总结
-***** TODO 各专业人才培养方案
-***** TODO 教学检查
+**** DONE 名校建设有关材料查阅
+***** DONE 项目五、计算机应用专业建设方案
+***** DONE 计算机应用专业培养方案
+***** DONE 建设总结
+***** DONE 各专业人才培养方案
+***
+** TODO 教学检查
 读书累了，进行教学检查。9:00
 
  <2016-06-01 Wed 08:11>等待李副主任发上述材料。
 
-**** TODO 阅读院长总结报告
+**** DONE 阅读院长总结报告
 <2016-06-01 Wed 11:08>
-**** TODO 阅读计算机应用专业ＰＰＴ
+**** DONE 阅读计算机应用专业ＰＰＴ
 **** <2016-06-01 Wed 14:00>开始阅读混合学习
 **** 
 *** <2016-06-01 Wed 04:27>学习新的工作记录方法
@@ -1660,7 +1663,7 @@ org 模式使用半小时
 *** 读书
 **** 《混合式学习的理论与实践》Blended Learning Theory into Practice
      <2016-06-01 Wed 06:23> 
-***** TODO 读书 <2016-06-01 Wed 08:13>
+***** DONE 读书 <2016-06-01 Wed 08:13>
 <2016-06-01 Wed 08:50>读书两页，有点累了。   
 *** 阅读
 *** 工作接待
@@ -1682,7 +1685,7 @@ org 模式使用半小时
 *** 工作笔记整理完成<2016-06-01 Wed 16:41>
 *** 晚上非工作时间<2016-06-01 Wed 20:33>
 **** 日记分为工作时间，业余时间，可保持私密性。
-**** TODO <2016-06-01 Wed 20:39>--<2016-06-01 Wed 20:50>练习光标键移动。
+**** DONE <2016-06-01 Wed 20:39>--<2016-06-01 Wed 20:50>练习光标键移动。
 ** <2016-06-02 Thu>
 *** 早晨
 **** English learning
@@ -2507,7 +2510,7 @@ pink swimsuit and a pink skirt.
 <2016-06-06 Mon 06:12>finshed
 **** DONE 浏览新闻<2016-06-06 Mon 05:32>
 **** DONE 学习Emacs 操作
-**** TODO 读书《混合式学习》
+**** DONE 读书《混合式学习》
 **** DONE 朗读《道德经》<2016-06-06 Mon 06:23>--<2016-06-06 Mon 06:38>
 **** DONE 回家吃饭。<2016-06-06 Mon 06:42>
 *** 上午
@@ -3634,7 +3637,7 @@ CLOCK: [2016-06-14 Tue 19:57]--[2016-06-14 Tue 20:20] =>  0:23
 **** DONE 回去送钥匙，开车回来
 DEADLINE: <2016-06-14 Tue 20:50>
 吃甜瓜，肚子不舒服。
-**** Learn Emacs
+**** DONE Learn Emacs
 DEADLINE: <2016-06-14 Tue 21:30>
 CLOCK: [2016-06-14 Tue 20:47]--[2016-06-14 Tue 21:11] =>  0:24
 CLOCK: [2016-06-14 Tue 20:46]--[2016-06-14 Tue 20:47] =>  0:01
@@ -3662,7 +3665,7 @@ DEADLINE: <2016-06-15 Wed 15:45>
 **** DONE 学习emacs
 DEADLINE: <2016-06-15 Wed 16:45>
 CLOCK: [2016-06-15 Wed 15:45]--[2016-06-15 Wed 16:11] =>  0:26
-**** TODO 专门时间学习表格
+**** DONE 专门时间学习表格
 DEADLINE: <2016-06-15 Wed 21:40>
 *** evening <2016-06-15 Wed 21:10>
 **** DONE lesson fifteen 96.5%
@@ -3858,7 +3861,7 @@ Is the man buying a suit or a hat? He is buying a hat.
 *** Afternoon
 **** DONE 企业来访
 CLOCK: [2016-06-16 Thu 15:15]--[2016-06-16 Thu 15:40] =>  0:25
-**** 订酒店，明瑞凤梧。
+**** DONE 订酒店，明瑞凤梧。
 DEADLINE: <2016-06-16 Thu 16:30>
 **** DONE Lesson eighteen 97.1%
 DEADLINE: <2016-06-16 Thu 17:00>
@@ -3890,7 +3893,7 @@ CLOCK: [2016-06-17 Fri 05:32]--[2016-06-17 Fri 05:57] =>  0:25
 我认为，推动上海合作组织发展要继续发扬一种精神，即互信、互利、平等、协商、尊重多样文明、谋求共同发展的“上海精神”。要搞好两个建设，一是加强自身建设，练好“内功”，提升合作效率和水平；二是加强伙伴网络建设，切实推进同观察员、对话伙伴合作，共谋地区发展大计。要办好三件实事，即《上海合作组织中期发展战略规划》所确定的维护安全、发展经济、改善民生的任务，造福成员国人民。
 **** DONE reading loudly 
 CLOCK: [2016-06-17 Fri 06:08]--[2016-06-17 Fri 06:18] =>  0:10
-*** Morning 
+*** DONE Morning 
 DEADLINE: <2016-06-17 Fri 08:00-12:00>
 **** DONE clean and tidying<2016-06-17 Fri 08:00-08:30>
 **** DONE 安排教师mac系统实训
@@ -3899,7 +3902,7 @@ CLOCK: [2016-06-17 Fri 08:37]--[2016-06-17 Fri 08:44] =>  0:07
 **** DONE 练习制表
 CLOCK: [2016-06-17 Fri 08:47]--[2016-06-17 Fri 09:17] =>  0:30
 **** DONE 阳光办公王经理来访
-DEADLINE: <2016-06-17 Fri 10:30>
+DEADLINE: <2016-06-17 Fri 10:30> :OFFICE:
 **** DONE 五笔输入法不提示了，提示方式变了。
 **** DONE learn English lesson twenty three 94.7%
 CLOCK: [2016-06-17 Fri 16:41]--[2016-06-17 Fri 17:06] =>  0:25
@@ -3966,9 +3969,51 @@ CLOCK: [2016-06-19 Sun 15:11]--[2016-06-19 Sun 15:36] =>  0:25
 CLOCK: [2016-06-19 Sun 14:29]--[2016-06-19 Sun 14:54] =>  0:25
 **** DONE Lesson thirteen 两小节
 DEADLINE: <2037-07-15 Wed>
-** <2016-06-20 Mon 05:10>起床
+** DONE <2016-06-20 Mon 05:10>起床
 *** morning
 **** DONE 复习两课<2016-06-20 Mon 05:10-06:30>
 **** DONE 浏览学习<2016-06-20 Mon 06:30-07:00>
 **** DONE breakfast zhang<2016-06-20 Mon 07:00-07:30>
+*** morning 8-12
+**** DONE 参观学习新泰市人民医院中心机房<2016-06-20 Mon 08:00-09:20>
+**** DONE 返程精神不佳<2016-06-20 Mon 09:20-10:30>
+**** DONE 查看学习上课情况<2016-06-20 Mon 10:40-12:00>
+*** afternoon
+**** DONE <2016-06-20 Mon 14:44>到办公室
+路上接大姐电话，新华两口子回来了。在楼德干活。华山年后一直末归。大灾。
+**** DONE learn English two pragraph
+CLOCK: [2016-06-20 Mon 14:47]--[2016-06-20 Mon 15:16] =>  0:29
+**** DONE                                                          :t:a:t:
+CLOCK: [2016-06-20 Mon 16:44]--[2016-06-20 Mon 16:44] =>  0:00
+**** DONE 接夫人<2016-06-21 Tue>
+
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2016-06-20 Mon 16:51]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+ #+BEGIN: clocktable :scope agenda :block lastweek :compact t
+      #+END: clocktable
+*** DONE evening
+**** DONE 学习emacs,修改了配置文件 ，还有错误。<2016-06-22 Wed 20:11> :office:
+** <2016-06-21 Tue 04:30>到办公室开始一天学习工作
+*** morning
+**** DONE Learning English 93.9%
+DEADLINE: <2024-07-05 Fri>
+Why does the giraffe like to eat leaves from tall trees? It like to do
+so because it has a long neck.
+Why are the girls sleeping during the lesson? They are sleeping
+because the lesson is boring.
+Why are these girls not working and instead spending time at the
+beach? They are spending time at the beach because they are on
+holiday.
+Why are the swans not talking on the telehpone? They are not talking
+on the telephone because they do not have a telephone.
+Why are there many tourists taking photos of the square? They are
+taking photos of it because it is beautiful.
+Why are people sleeping on the grass? They are sleeping here because
+they do not have a home.
+
+CLOCK: [2016-06-21 Tue 04:32]--[2016-06-21 Tue 04:57] =>  0:25
 
