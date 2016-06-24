@@ -70,6 +70,47 @@ Neck
 The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
 来源于：维基百科
 
+literate 
+ 英  ['lɪt(ə)rət]   美  ['lɪtərət]
+adj. 受过教育的；精通文学的
+n. 学者
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+literate /ˈlɪtərɪt/  CET6+ TEM8
+ADJ Someone who is literate is able to read and write. 能读会写的
+例：
+Over one-quarter of the adult population are not fully literate.
+四分之一以上的成年人是半文盲。
+→ see also computer-literate
+网络释义 专业释义 英英释义
+
+ 有文化的
+ 有读写能力的
+ 识字的
+ 学者
+短语
+Literate programming 文学编程
+Literate programming 文学编程
+Literate programming 文学化编程
+Literate programming 字面编程
+Financially Literate 掌握一定财务知识
+  更多结果
+词组短语 同近义词 同根词
+
+computer literate 懂电脑
+双语例句 原声例句 权威例句
+
+The drawback of the internet is that you have to be literate to use it.
+互联网的缺点就是人们必须得有文化才能使用它。 
+article.yeeyan.org
+ 更多双语例句
+百科
+
+Literate
+
+Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
+来源于：维基百科
+
 * Lesson<2016-06-21 Tue>
 ** Lesson thirteen
 Why does the giraffe like to eat leaves from tall trees? It like to do
@@ -90,3 +131,228 @@ taking photos of it because it is beautiful.
 
 Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
+** Lesson Sixteen
+*** words
+
+menu 
+ 英  ['menjuː]   美  ['mɛnju]
+n. 菜单
+饭菜
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+menu /ˈmɛnjuː/  CET4 TEM4
+N-COUNT In a restaurant or café or at a formal meal, the menu is a list of the meals and drinks that are available. 菜单
+例：
+A waiter offered him the menu.
+一个侍者给他送上了菜单。
+N-COUNT A menu is the food that you serve at a meal. 饭菜
+例：
+Try out the menu on a few friends.
+请几个朋友来尝尝这道菜。
+N-COUNT On a computer screen, a menu is a list of choices. Each choice represents something that you can do using the computer. (电脑屏幕上的) 菜单
+例：
+Hold down the shift key and press F7 to display the print menu.
+按住键的同时按下键，以显示打印菜单。
+网络释义 专业释义 英英释义
+
+ 菜单
+ 菜单
+ 选单
+ 菜单键
+短语
+Menu Bar 菜单栏
+Menu Bar 菜单条
+Menu Bar 功能表列
+Menu Bar 主菜单
+context Menu 上下文菜单
+  更多结果
+词组短语 同近义词
+
+menu item [计]菜单项
+menu bar n. [计]菜单栏
+main menu 主菜单；主选单；炙单
+shortcut menu [计]快捷菜单
+drop-down menu 下拉式菜单
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Let us see what is on the menu today.
+让我们看看今天的菜单上有些什么菜。 
+It provides an event handler for each menu option.
+它为每一个菜单选项提供事件处理程序。 
+www.ibm.com
+Since her eyes now see only large shapes and shadows, I had to read the menu for both of us.
+由于她现在的视力只能看到大致的形状和模糊的影子, 我得为我俩读菜单。 
+www.ebigear.com
+ 更多双语例句
+百科
+
+Menu
+
+In a restaurant, a menu is a presentation of food and beverage offerings. A menu may be à la carte – which guests use to choose from a list of options – or table d'hôte, in which case a pre-established sequence of courses is served.
+来源于：维基百科
+
+a menu
+a napkin
+
+A napkin is a square of cloth or paper that you use when you eating to
+protect your clothes, or to wipe your mouth or hands.
+a tablecloth
+a tray
+
+A tray is a flat piece of wood, plastic, or metel, which usually has
+raised edges and which is used for carrying things, especially food
+and drinks.
+
+a bill
+
+A bill is a written statement of money that you owe for goods or
+serices.
+
+a waiter
+
+A waiter is a man who works in a restaurant, serving people food and
+drink.
+
+to take away
+
+If you take away from someone, you remove it from them, so that they
+no longer possess it or have it with them.
+
+to taste
+
+Taste is one of the five senses that people have. When you have food
+or krink in your mouth, youir sense of taste makes it possible for you
+to recognize what it is.
+
+to pour
+to like
+to bring
+to order
+
+a spoon
+a knife
+a fork
+a cup
+a wineglass
+*** text
+They are sitting ta the table in a restaturant.
+The wife orders chicken with potatoes.
+They read the munu.
+The husband and wife go to a restaurant.
+The husband orders meat.
+The waiter brings the menu.
+
+There is water in the bottle.
+The waiter brings a  tray.
+The waiter pours out some wine.
+There is wine in the bottle.
+He is pouring some wine into a glass.
+There are plates and bottles on the tray.
+
+The fork is on the left of the plate.
+There are napkins near the plates.
+The knife and spoon are on the right of the plate.
+A clean white tablecloth is on the table.
+There are plates on the tablecloth.
+There is a wineglass behind the plate.
+
+He likes meat.
+The wife is pouring water into the glass, she does not want wine.
+He says to his wife, " I like meat very much".
+The husband is tasting the meat.
+The husband is drinking wine, he does not want water.
+The husband and wife are hungry.
+
+The wife tasting the chicken.
+The waiter brings cups of coffee.
+The waiter takes the chicken away.
+She looks at the menu.
+She does not like the chicken. The chicken is cold.
+The wife puts sugar into hot coffee.
+
+The husband looks at the bill.
+The waiter brings the bill.
+He pays the waiter.
+The wife drinks coffee with sugar.
+The waiter takes the dirty dishes away.
+The husband drinks coffe without sugar.
+
+The girl likes icecream.
+The man likes spaghetti.
+It likes to dance.
+They like to swim.
+The girl like to sing.
+The man likes the woman.
+** Lesson seventeen<2016-06-22 Wed 06:19>
+a customer
+sale
+price
+a shop assistant
+discount
+a counter
+
+old
+new
+to pay cash
+to pay by card
+expensive
+cheap
+
+gloves
+a robe
+goods
+a jacket
+a hat
+clothes
+
+There are lots of goods in the big shop.
+There are lots of customers in the shop.
+The shop assistant is selling goods.
+The shop assistant is standing behind the counter.
+The shop sells clothes.
+There is a sale in the shop.
+
+The customers enjoy the sale.
+The clothes are cheap.
+There are high prices in the shop. Customers don't like high prices.
+The car is expensive.
+They like to buy goods at a discount.
+The shop has a lot of goods at a discount.
+
+The shop sells hats.
+The man has an old hat.
+The girl wants to buy cheap clothes.
+The shop doesn't have any old dresses. All the dresses are new.
+There aren't any people in the expensive shop.
+The woman wants to buy a new dress.
+
+The woman likes to shop.
+The man does not like to shop.
+The little girl wants to buy some gloves.
+The boy pays cash
+The girl is paying by card.
+The shop assistant is giving her gloves.
+
+The shop sells a lot of scarves.
+He likes the black suit.
+The man wants to buy a suit.
+She likes the white rob.
+The little girl wants to buy a scarf.
+The woman wants to buy a robe.
+
+Is the car expensive? Yes, it's expensive.
+Is the fruit cheap? Yes, it's cheap.
+Is the dress new? Yes, it is new.
+Is the girl paying by card? Yes, she is paying by card.
+Is the man paying cash? Yes, he is paying cash.
+Are the shoes old? Yes, they are old.
+
+Does the shop sell goods at a discount or without a discount? It sells
+goods at a discount.
+Is the customer paying cash or by card? He is paying cash.
+Who is behind the counter? The shop assistant is behind the counter.
+Is the woman buying a dress or some gloves? She is buying a dress.
+Does the shop sell clothes or food? They sell clothes here.
+Is the man buying a suit or a hat? He is buying a hat.
+
