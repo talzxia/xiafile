@@ -7,6 +7,7 @@
 *** 网页
 **** Org-Manual 7.8 https://github.com/marboo/orgmode-cn/blob/master/org.org
 **** 如何用 Org-Mode 做笔记 https://kanedou.me/2010/10/note-with-orgmode/
+**** 时间管理http://blog.csdn.net/lujun9972/article/details/46002771
 **** 
 *** 视频
 **** Spacemacs Rocks 第二季 http://book.emacs-china.org
@@ -108,8 +109,11 @@
 **** 违章查询 http://60.213.185.51:9080/wscgsxxcx/jdcwfcx.do
 *** 视频
 *** 学习笔记
-** EMACS
+** 杂项
 *** 网页
+**** 你的知识需要管理http://blog.csdn.net/lujun9972/article/details/46002633
+****nginx 正反向代理 http://blog.csdn.net/hiyun9/article/details/51602428
+**** http://blog.csdn.net/lujun9972/article/details/46003015
 *** 视频
 *** 学习笔记
 ** EMACS
@@ -198,6 +202,13 @@ vivo手机音乐手机不错。有机会试听一下。
 4.记工作日记。
 
 ** <2016-03-03 Thu>2016年3月3日
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2016-06-26 Sun 21:04]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
 早4:00起。到办公室学英语三分之一课，精力不及停止。到5:20.
 之后查看大数据资料，如何构架集群运算硬件环境资料较少，软件使用多。
 了解了几个概念，ib交换机等，集群运算环境的搭建还没有完整的知识体系。
@@ -4061,6 +4072,89 @@ DEADLINE: <2016-06-22 Wed 09:30>
 这个被认为是ACIVED的子树，会被移动了本级子树的最末端。
 例如有这么一个子树，由三个TODO项目组成。
 [py] view plain copy
+
+** <2016-06-26 Sun 04:30>到办公室开始一天学习工作
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2016-06-26 Sun 21:06]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+
+*** 补写四天情况
+
+**** <2016-06-22 Wed>
+上午11点25 g 上海到北京南。到北京后参观慧科集团。介绍了大数据本科专业
+培养方案。
+接待差，反映了做上市公司的平台公司的通病。没有人真正为企业发展着想，不
+能深入潜心的工作，接待更是如此。
+下午与吉进共进晚餐。孩子在北外工作。
+
+**** <2016-06-23 Thu>
+早餐吃一口变质的玉米。中午开始跑肚。午饭又喝啤酒，下午跑肚近八次。
+发高烧，一夜处于混顿状态。
+
+**** <2016-06-24 Fri>
+八点从宾馆出发，一个多小时到达南站，在车站一次，在车上两次。回到泰安王
+树兵接，躺在后座上。
+在家拉的更勤了，约为十次。
+肚子痛有严重。
+
+**** <2016-06-25 Sat>
+肚子一直不好，一吃、喝水即痛，既排。感到生命的柔脆。在沙发上一天。
+
+*** DONE 补写完成四天情况。跑肚一次。                             :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 05:06] \\
+  完成笔记补写。
+- State "TODO"       from ""           [2016-06-26 Sun 05:05]
+*** DONE learn English     96.3%                                    :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 05:44] \\
+  Lesson eighteen 96.3%
+- State "TODO"       from ""           [2016-06-26 Sun 05:14]
+*** DONE lesson ninteen                                           :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 06:12] \\
+  lesson ninteen 95%
+  中间又拉一次。这次知道了吃了东西三小时内排出。
+- State "TODO"       from ""           [2016-06-26 Sun 05:46]
+*** DONE listen Engish song                                       :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 06:37] \\
+  four songs
+- State "TODO"       from ""           [2016-06-26 Sun 06:20]
+*** DONE read aloud                                               :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 06:49] \\
+  朗读道德经20节
+- State "TODO"       from ""           [2016-06-26 Sun 06:40]
+*** DONE go home                                                  :@Office:
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 06:59]
+- State "TODO"       from ""           [2016-06-26 Sun 06:59]
+
+*** DONE afternoon
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 14:26] \\
+  总结北京一行体会。
+- State "TODO"       from ""           [2016-06-26 Sun 14:26]
+上午11点打吊针。之后见效很快。
+思考清华一行的体会。中国no.1的学校在培养什么样的“精英”？具有什么样的示
+范作用？社会责任是什么？
+北京一行的体会。无为是不乱作为，现在成了不作为，不担责任。食品安全连首
+都都没人管了！发了车补，取消电话费，坐在办公室就完成办公？ 管理者松一
+成，企业会放十成，甚至无底限。
+连治病救人的药店只讲效益，不顾人命了，这个国家变的可怕。
+北京一行庆幸没把命培上。
+
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2016-06-26 Sun 21:10]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+*** evening
+
+**** DONE end of work go home
+- State "DONE"       from "SOMEDAY"    [2016-06-26 Sun 21:31] \\
+  go home
+- State "TODO"       from ""           [2016-06-26 Sun 21:31]
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
