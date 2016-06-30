@@ -173,13 +173,13 @@
 ;					    ("8lxy" "lixinyang")
 ;					   ))
 
-;;我们可以将下面的代码加入到我们的配置文件中，来增强 Hippie Expand 的功能，
-
-(setq org-todo-keywords '((type "陈振趣" "李倩" "王树兵" "|" "DONE")))
+;;我们可以将下面的代码加入到我们的配置文件中，来增强 Hippie Expand 的功能，(setq org-todo-keywords '((type "陈振趣" "李倩" "王树兵" "|" "DONE")))
 ;;   -*- mode: lisp  -*-
 ;; .emacs file     Selected entries from ~/.emacs.el
 ;; file of Charles Cave to run org-mode
-
+(setq org-todo-keywords
+    '((sequence "TODO(t!)" "NEXT(n)" "WAITTING(w)" "SOMEDAY(s)" "|" "DONE(d@/!)" "ABORT(a@/!)")
+     ))    
 
 (setq org-remember-templates
      '(
@@ -242,4 +242,8 @@
 (fset 'yes-or-no-p 'y-or-n-p)
 
 (set-variable 'confirm-kill-emacs 'yes-or-no-p)
+
+
+org-remember-insinuate) (setq org-directory "~/xiafile/xiafile/0.GTD/") (setq org-remember-templates '(("New" ?n "* %? %t \n %i\n %a" "~/xiafile/xiafile/0.GTD/inbox.org" ) ("Task" ?t "** TODO %?\n %i\n %a" "~/xiafile/xiafile/0.GTD/task.org" "Tasks") ("Calendar" ?c "** TODO %?\n %i\n %a" "~/xiafile/xiafile/0.GTD/task.org" "Tasks") ("Idea" ?i "** %?\n %i\n %a" "~/xiafile/xiafile/0.GTD/task.org" "Ideas") ("Note" ?r "* %?\n %i\n %a" "~/xiafile/xiafile/0.GTD/note.org" ) ("Project" ?p "** %?\n %i\n %a" "~/xiafile/xiafile/0.GTD/project.org" %g) )) (setq org-default-notes-file (concat org-directory "/inbox.org"))
+
 
