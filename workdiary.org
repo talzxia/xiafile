@@ -131,8 +131,8 @@ No. 5 2014年6月30日
 大数据正向我们扑面而来，世界正急速地被推入大数据时代。随着大数据时代的
 来临，人类的思维方式也将产生巨大的改变，因此我们必须从以往的小数据思维
 转换成大数据思维，以适应这场急速的变革。大数据思维具有整体性、多样性、
-平等性、开放性、想着性和生长性等特征，从本质上来说它是一种复杂性思维。
-大数据思维获得了技术上的实现，因而景程更加巨大和深远。
+平等性、开放性、相关性和生长性等特征，从本质上来说它是一种复杂性思维。
+大数据思维获得了技术上的实现，因而影响更加巨大和深远。
 
 ***** 关键词：
 大数据；大数据思维；思维变革；复杂性
@@ -149,8 +149,8 @@ Big Data rushing toward us, the world is rapidly pushed into the big
 data era. With the coming of the big data era, the human's thinking
 way will be revolutionized, so we must be quickly converted from small
 data thinking into big data thinking to accommodate this rapid
-change. Thinking of big data has the featues of integrity, diversity,
-equality, openness, relevance and grwth. Essentially, the big data
+change. Thinking of big data has the features of integrity, diversity,
+equality, openness, relevance and growth. Essentially, the big data
 thinking if a kind of comples thinking, but it has been achieved in
 technology, thus its affecting will be greater and far-reaching than
 the complexity thinking.
@@ -170,14 +170,14 @@ Big data;big tata thinking; thinking revolution; complexity
 都被收集和存储，数据规模爆炸式增长。这些海量数据被称为“大数据”
 大数据一词来源于英文 Big data ，用来指称“那些大小已经超出了传统意义上
 的尺度，一般的软件工具难于捕捉、存储、管理和分析的数据”，指数据量特别
-巨大，超过PE级别（10 15 ~10 18字节）并包括结构性、关结构性和非结构性的
+巨大，超过PE级别（10 15 ~10 18字节）并包括结构性、半结构性和非结构性的
 数据。
-从某种程度上说，大数据主要是折前沿技术。从各种各样类型的数据中，咫尺天
-涯获得有价值信息的能力，就是大数据技术。因为它属于技术，具有巨大的商业
+从某种程度上说，大数据主要是数据分析的前沿技术。从各种各样类型的数据中，
+快速获得有价值信息的能力，就是大数据技术。因为它属于技术，具有巨大的商业
 价值具有促使该技术走向众多商业应用的潜力。
-大数据是一个总称性概念可以细分为大灵气科学、大数据技术、大数据工程和大
+大数据是一个总称性概念可以细分为大数据科学、大数据技术、大数据工程和大
 数据应用等领域。目前，更多局限于大数据技术和大数据应用，而对大数据科学
-和工程还末重视。大数据科学关注大数据网络发展和运营过程中，发现和验证大数
+和工程还未重视。大数据科学关注大数据网络发展和运营过程中，发现和验证大数
 据的规律及其与自然和社会活动之间的关系，而大数据工程指大数据的规划建设、
 运营管理的系统工程。
 大数据的特点归纳为4个层面，并简称为4“V”：
@@ -193,18 +193,18 @@ Big data;big tata thinking; thinking revolution; complexity
 成为新发明新服务的源泉，而更多的改变正蓄势待发。”大数据正在改变我们的
 一切，其中最重要的是从改变我们的思维方式开始，引发思维大变革，并带来所
 谓的“大数据思维”。
-所谓思维方式，就是我们大脑活动的内存程序，是一种习惯性的思考总是和处理
+所谓思维方式，就是我们大脑活动的内存程序，是一种习惯性的思考问题和处理
 问题的模式，它涉及我们看待事物的角度、方式和方法并由此对我们的行为方式
-产生直接的影响。任何人都生活在一定的时代和环境中，其思考总是和解决总是
+产生直接的影响。任何人都生活在一定的时代和环境中，其思考问题和解决问题
 的习惯和模式都会受到时代和环境的影响，并由此决定他怎样观察和理解这个世
 界。例如，文艺复兴以来，由于牛顿力学的巨大成功人们就用牛顿力学来看待一
 切，似乎世界就像一台巨大的机器，完全可以用牛顿力学的三大定律和万有引力
 定律来认识和解释一切现象，以至于活生生的人类自身也变成了“机器”，这就是
 著名的机械论思维方式 。
 随着Google、百度、腾讯、淘宝等网络公司的崛起以及他们的致富，数据致富成
-了新的致富神话。山本的煤老板、王石等房地产商、数百万一线工人的富士康公
+了新的致富神话。山西的煤老板、王石等房地产商、数百万一线工人的富士康公
 司等费了九牛二虎之力才取得亿万财富，而这些网络数据商则在短短的几年时间
-就迅速超越了这些实体公司的教室，并且所费人力、物力和财力甚少。人们现在
+就迅速超越了这些实体公司的财富，并且所费人力、物力和财力甚少。人们现在
 才如梦方醒，知道了数据在我们这个时代成了最重要的资源之一。数据就是资源，
 数据就是财富成了迅速深入人心的刻画，一切数据也被当作财富来采集、存储和
 交易，这就是所谓的“数字化生存”。“大数据是人们获得新的认知、创造新的价
@@ -238,8 +238,8 @@ Big data;big tata thinking; thinking revolution; complexity
 构，强调了民主和平等。任何系统都有其组成结构，组成系统的各种要素按照某
 种结构组织起来而形成系统。在还原论的影响下，小数据的科学技术特别强调系
 统的层次结构，钟情于金字塔式的、不平等的等级结构，由此来强调系统要素之
-间的不平等性。在等级结构中，我们可以像剥洋葱一样层层肃离，通过层层还原
-来不断提示出要素之间的关系，并强调金字塔硕的基础作用以及上下级的领导关
+间的不平等性。在等级结构中，我们可以像剥洋葱一样层层剥离，通过层层还原
+来不断提示出要素之间的关系，并强调金字塔顶的基础作用以及上下级的领导关
 系。在大数据的海量数据中，所有的数据更多地是处于平等关系，因此不会特别
 突出某些数据的关键作用。在大数据时代，群众成了真正的英雄，而不再过分强
 调精英和英雄的突出地位。
@@ -4513,13 +4513,84 @@ CLOCK: [2016-06-29 Wed 05:38]--[2016-06-29 Wed 06:25] =>  0:47
 - State "DONE"       from "SOMEDAY"    [2016-06-30 Thu 08:22] \\
   整理卫生心情好
 - State "TODO"       from ""           [2016-06-30 Thu 07:59]
-**** TODO 接通知，外国专家来校讲课
+**** DONE 接通知，外国专家来校讲课
+- State "DONE"       from "SOMEDAY"    [2016-06-30 Thu 20:14] \\
+  专家11：30分到，讲工业4.0，互联网加物联，交流三个学生提问，我提问：美国的计算机教育体系。提到了康平纳技术人员不知ruby,不知迅捷开发。正常
 - State "TODO"       from ""           [2016-06-30 Thu 08:25]
 安排外国专家讲座事宜：
 - 通知教师参加
 - 配带胸卡
 - 地点办公楼三楼会议室
 - 内容：大数据建立及管理
+*** evening
+**** DONE 完成大数据思维学习笔记，共记录入9829，汉字7516字
+- State "DONE"       from "SOMEDAY"    [2016-06-30 Thu 20:18]
+- State "TODO"       from ""           [2016-06-30 Thu 20:17]
+**** learning English
+***** DONE Lesson twenty eight 
+- State "DONE"       from "SOMEDAY"    [2016-06-30 Thu 20:41] \\
+  95.9%
+- State "TODO"       from ""           [2016-06-30 Thu 20:19]
+** <2036-07-04 Fri>到达办公室
+4：20起床。北侧四楼教室未关窗，昨夜风雨？！
+*** morning
+**** learn Englis
+***** DONE lesson twenty nine
+- State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 05:41] \\
+  96.8%
+  grey = gray 灰色的，灰白
+  tray 托盘
+  fridge 冰箱
+  refrigerator 冰箱，冷藏库
+- State "TODO"       from ""           [2016-07-01 Fri 04:38]
+**** listen music and brows news
+DEADLINE: <2016-07-01 Fri 06:42>
+**** 跳读《道德经》10小节
+DEADLINE: <2016-07-01 Fri 06:49>
+*** morning 8-12
+**** <2016-07-01 Fri 08:06>到达办公室开始学习工作
+***** learn Engish
+****** DONE lesson thirteen
+- State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 08:56] \\
+  学习两小节
+This elderly man is wearing glasses. he is hugging a large white dog
+around the  neck and laughing.
+This is a view of the desert. A group of people are travelling on
+camels. Three camels are lying in the sand, and two are standing.
+These young people are also travelling across the desert. They like to
+travel on fourwheelers.
+This is a small, beautiful money. It is eating for lunch. In front of
+it are two plates of food.
+It is a summer's day in the countryside. There is a horse standing
+under the tree. It is relaxing.
+It is a sunny day. The sportsmen are relaxing at a table in the
+café. One of them is drinking water from a bottle.
+The elderly man is sitting on a stool under the tree. His white cap is
+lying on the grass.
+A knife and a fork are lying on a napkin, the napkin is lying on a
+white tablecloth, and the tablecloth is lying on a table.
+This is a restaurant. The young man is paying the waiter in
+cash. There is a cup of coffee in front of him.
+The girl with glasses is drawing. There is a fish and beautiful sea
+plants in the picture. Two girl are looking at her work.
+The young man is taking a phone of the girl with long black
+hair. There is a small white dog sitting on the girl's lap.
+lap :n. 一圈；膝盖；下摆；山坳
+vt. 使重叠；拍打；包围
+vi. 重叠；轻拍；围住
+Two girls are sitting on a bench in the park. They are wearing white
+pants. One of them is holding an umbrella.
+The customer who is standing in front of the mirror wants to buy a
+skirt.
+The turtle is an animal that moves very slowly.
+The woman who is sitting to the left of the boy is a teacher.
+The cactus is a plant that is able to live in the desert.
+A seagull is a bird that lives at the sea.
+Rome is a city that tourists like very much.
+
+- State "TODO"       from ""           [2016-07-01 Fri 08:07]
+***** TODO read emacs book
+- State "TODO"       from ""           [2016-07-01 Fri 09:49]
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
