@@ -3893,74 +3893,6 @@ CLOCK: [2016-06-16 Thu 04:56]--[2016-06-16 Thu 05:19] =>  0:23
 **** DONE Seventeen text 97.7%
 DEADLINE: <2016-06-16 Thu 06:14>
 CLOCK: [2016-06-16 Thu 05:24]--[2016-06-16 Thu 05:49] =>  0:25
-***** Text Seventeen
-****** words:
-a tablecloth
-a menu
-a napkin
-a bill
-a tray
-a waiter
-to taste
-to like
-to take away
-to pour
-to bring
-to order
-a wineglass
-a cup
-a fork
-a knife
-a spoon
-a wine
-****** sentence
-The wife orders chicken with potatoes.
-They reads the menu.
-They are sitting at the table in a restaurant.
-The waiter brings the menu.
-The husband and wife go to a restaurant.
-The husband orders meat.
-The waiter brings a tray.
-There is wine in the bottle.
-There is water in the bottle.
-There are plates and bottles on the tray.
-The waiter pours out some wine.
-He is pouring some wine into a glass.
-
-The knife and spoon are on the right of the plates.
-There are plates on the tablecloth.
-There are napkins near the plates.
-The fork is on the left of the plate.
-There is a wineglass behind the plate.
-A clean white tablecloth is on the table.
-
-The husband and wife are hungry.
-He says to his wife, 'i like meat very much'.
-The husband is drinking wine, he  does not want water.
-The husband is tasting the meat.
-He likes meat.
-The wife is pouring water into the glass, she does not want wine.
-
-The wife is tasting the chicken.
-The waiter brings cups of coffee.
-The wife puts sugar into hot coffee.
-The waiter takes the chicken away.
-She does not like the chicken. The chicken is cold.
-She looks at the menu.
-
-The waiter brings the bill.
-The husband drinks coffe without sugar.
-The wife drinks coffee with sugar.
-He pays the waiter.
-The waiter takes the dirty dishes away.
-The husband looks at  the bill.
-
-The man likes spaghetti.
-It likes to dance.
-They like to swim.
-The man likes the woman.
-The girl likes icecream.
-The girl likes to sing.
 **** DONE relax and reading loudly and clearly <2016-06-16 Thu 06:14-06:35>
 *** morning 8:00-12:00
 **** <2016-06-16 Thu 08:07>7:50到达办公室，学会生在楼前检查
@@ -3976,7 +3908,7 @@ DEADLINE: <2016-06-16 Thu 09:30>
 CLOCK: [2016-06-16 Thu 08:33]--[2016-06-16 Thu 08:58] =>  0:25
 **** DONE 到王院长处汇报工作
 DEADLINE: <2016-06-16 Thu 10:09>
-**** DONE orgmode 制表
+**** DONE orgmode 制表                                           :ARCHIVE:
 CLOCK: [2016-06-16 Thu 10:12]--[2016-06-16 Thu 10:37] =>  0:25
 | Name   | Phone | Age |
 |--------+-------+-----|
@@ -4001,7 +3933,7 @@ CLOCK: [2016-06-16 Thu 10:12]--[2016-06-16 Thu 10:37] =>  0:25
 **** DONE Lesson eighteen 96.9%
 DEADLINE: <2016-06-16 Thu 15:13>
 CLOCK: [2016-06-16 Thu 10:45]--[2016-06-16 Thu 11:10] =>  0:25
-***** words
+***** words                                                     :ARCHIVE:
  discount
 sale
 a counter
@@ -4253,7 +4185,7 @@ CLOCK: [2016-06-21 Tue 08:41]--[2016-06-21 Tue 09:06] =>  0:25
 **** DONE 张铁亮来访<2016-06-21 Tue 11:00-11:30>
 **** DONE  Learn English lesson sixteen
 DEADLINE: <2016-06-21 Tue 12:00>
-***** words
+***** words                                                     :ARCHIVE:
 a menu
 a napkin
 a tablecloth
@@ -4273,7 +4205,7 @@ a knife
 a fork
 a cup
 a wineglass
-***** sten
+***** sten                                                      :ARCHIVE:
 They are sitting ta the table in a restaturant.
 The wife orders chicken with potatoes.
 They read the munu.
@@ -4471,6 +4403,9 @@ DEADLINE: <2016-06-28 Tue 08:17>
 
 CLOCK: [2016-06-28 Tue 08:26]--[2016-06-28 Tue 08:51] =>  0:25
 ** <2016-06-29 Wed 04:20>到达办公室开始学习工作
+:PROPERTIES:
+:Effort:   l1
+:END:
 *** morning
 **** learn English 
 ***** DONE lesson twenty four 95.4%                             :@Office:
@@ -4550,7 +4485,7 @@ DEADLINE: <2016-07-01 Fri 06:49>
 *** morning 8-12
 **** <2016-07-01 Fri 08:06>到达办公室开始学习工作
 ***** learn Engish
-****** DONE lesson thirteen
+****** DONE lesson thirteen                                    :ARCHIVE:
 - State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 08:56] \\
   学习两小节
 This elderly man is wearing glasses. he is hugging a large white dog
@@ -4589,8 +4524,139 @@ A seagull is a bird that lives at the sea.
 Rome is a city that tourists like very much.
 
 - State "TODO"       from ""           [2016-07-01 Fri 08:07]
-***** TODO read emacs book
+***** DONE read emacs book
+- State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 14:26]
 - State "TODO"       from ""           [2016-07-01 Fri 09:49]
+*** afternoon
+**** Learn English
+***** DONE lesson thirty                                        :ARCHIVE:
+- State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 15:54] \\
+  96.3%
+- State "TODO"       from ""           [2016-07-01 Fri 14:28]
+When there is good weather outside the window in the house is open.
+When a person is ill， he goes to the doctor.
+Many customers come to the big shop when there is a sale.
+When there is a trffice jam, the policemen have a lot of work.
+When it is raining, people open their umbrellas.
+When the parents work， the child plays with his grandmother.
+
+The man is turning off the television, because he does not want to
+watch it any longer.
+The tourists are travelling on the ship, becasue they do not like to
+fly on airplanes.
+The waiter is taking away the chicken, because the woman does not like
+it.
+The woman is drinking water, because she does not want to drink wine.
+The man is drink wine, because he likes it.
+The boy is turning off the computer, because he does not want to play
+any longer.
+
+The spectators are going to the theatre in order to watch the
+performance.
+The woman is not drinking wine in order to drive the car well.
+The man is turning on the television in order to watch an interesting
+programme.
+The actors are going to the theatre in order to perform on stage.
+The boy is turning on the computer in order to play.
+The customers are going to the shop at the time of sale in order to
+buy cheap goods.
+
+The woman does not like the chicken, although it tastes good.
+The boy is turning on the computer, although his parents would rather
+him not.
+The woman wants to buy a new dress, even though she has many dresses.
+The girl likes to walk in the forest, though it is raining.
+The woman is drinking water, although she likes wine.
+The girl is not happy, even though today is her birthday.
+
+Today is the little boy's birthday. He is holding a present in his
+hands. He likes this holiday very much.
+There is a beautiful, tan saleswoman behind the counter in the small
+shop. There is only one customer in the shop, and he is looking at
+wine and fruits.
+The weather is rainy. The boy is looking out of the window. He is
+bored, and wants to walk and play outside.
+This is a bus stop. A man is sitting on the bench and reading the
+newpaper. He is waiting for the bus.
+The woman is standing by the sea. She is neither bathing nor
+tanning. She is looking at the sea and waiting for a ship.
+Two women in the park are looking at the big grey bird. One woman is
+holding an orange. She wants to feed the bird.
+
+Two cheerful girls are walking in the autumn park. They like to play
+with the beautiful yellow leaves.
+This is a young woman in blue. She has long hair and beautiful
+blue eyes. She is holding a white cup.
+This is a large brown bear. It is getting out of the water, and the
+lake and the mountains are behind him.
+The bride and groom are celebrating their wedding on the beach at the
+sea. The groom is holding the bride in his arms. She is wearing a long
+white dress and has flowers in her hand.
+This is a large, beautiful, red and white house. Next to the house is
+a table and four chairs. There are small trees growing across from the
+house.
+The man wants to give flowers to the woman in the beautiful dress. He
+is holding them behind his back, and she is looking at him and
+laughing.
+
+Why does the giraffe like to eat leaves from tall tree? It likes to do
+so because it has a long neck.
+Why are there many tourists taking photos of the square? They are
+taking photos of it because it is beautiful.
+Why are the girls sleeping during the lesson? They are sleeping
+because the lesson is boring.
+Why are people  sleeping on the grass? They are sleeping here
+because they do not have a home.
+Why are the swans not talking on the telephone? They are not talking
+on the telephone because they do not have a telephone.
+Why are these girls not working and instead spending time at the
+beach? They are spending time at the beach because they are on
+holiday.
+
+
+
+*** evening
+
+**** learning English
+
+***** DONE lesson thirteen
+- State "DONE"       from "SOMEDAY"    [2016-07-01 Fri 20:21] \\
+  学习一小节
+- State "TODO"       from ""           [2016-07-01 Fri 19:58]
+** <2016-07-02 Sat 03:55>到达办公室开始学习工作
+*** morning
+**** Learn English
+***** DONE Lesson thirty
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 04:46] \\
+  95.6%,但时间缩短，熟练了。缺少读和写。
+CLOCK: [2016-07-02 Sat 03:56]--[2016-07-02 Sat 04:21] =>  0:25
+- State "TODO"       from ""           [2016-07-02 Sat 03:56]
+***** DONE 学习kk音标
+CLOCK: [2016-07-02 Sat 07:49]--[2016-07-02 Sat 08:14] =>  0:25
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 06:28]
+CLOCK: [2016-07-02 Sat 05:04]--[2016-07-02 Sat 05:29] =>  0:25
+CLOCK: [2016-07-02 Sat 04:48]
+- State "TODO"       from ""           [2016-07-02 Sat 04:48]
+
+***** DONE 读书学习emacs
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 06:53] \\
+  录入一点膀子就痛。
+- State "TODO"       from ""           [2016-07-02 Sat 06:29]
+*** morning <2016-07-02 Sat 07:47-12:00>
+**** learing Englis
+***** DONE lesson twenty nine<2016-07-02 Sat 07:48>
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 08:28] \\
+  96.1%
+- State "TODO"       from ""           [2016-07-02 Sat 08:28]
+***** 小息20分钟
+CLOCK: [2016-07-02 Sat 08:30]--[2016-07-02 Sat 08:55] =>  0:25
+***** DONE 结束上午学习
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 11:10] \\
+  累了，背痛。
+- State "TODO"       from ""           [2016-07-02 Sat 11:10]
+***** DONE 录入读书笔记 <2016-07-02 Sat 15:51>
+- State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 15:51]
+- State "TODO"       from ""           [2016-07-02 Sat 15:51]
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
