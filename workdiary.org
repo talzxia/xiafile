@@ -4635,7 +4635,7 @@ CLOCK: [2016-07-02 Sat 03:56]--[2016-07-02 Sat 04:21] =>  0:25
 CLOCK: [2016-07-02 Sat 07:49]--[2016-07-02 Sat 08:14] =>  0:25
 - State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 06:28]
 CLOCK: [2016-07-02 Sat 05:04]--[2016-07-02 Sat 05:29] =>  0:25
-CLOCK: [2016-07-02 Sat 04:48]
+CLOCK: [2016-07-02 Sat 04:48]--[2016-07-03 Sun 04:43] => 23:55
 - State "TODO"       from ""           [2016-07-02 Sat 04:48]
 
 ***** DONE 读书学习emacs
@@ -4657,6 +4657,60 @@ CLOCK: [2016-07-02 Sat 08:30]--[2016-07-02 Sat 08:55] =>  0:25
 ***** DONE 录入读书笔记 <2016-07-02 Sat 15:51>
 - State "DONE"       from "SOMEDAY"    [2016-07-02 Sat 15:51]
 - State "TODO"       from ""           [2016-07-02 Sat 15:51]
+** <2016-07-03 Sun 04:40>到达办公室开始学习工作
+*** morning
+**** learn English
+***** DONE lesson twenty seven
+SCHEDULED: <2016-07-03 Sun 05:30>
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 05:13] \\
+  95.8%
+CLOCK: [2016-07-03 Sun 04:43]--[2016-07-03 Sun 05:08] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 04:41]
+***** DONE lesson twenty six 
+DEADLINE: <2016-07-03 Sun 05:57>
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 05:56] \\
+  96.1%
+CLOCK: [2016-07-03 Sun 05:15]--[2016-07-03 Sun 05:40] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 05:15]
+***** DONE relax till 
+DEADLINE: <2016-07-03 Sun 06:30>
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 06:30] \\
+  listen music and relax, think
+- State "TODO"       from ""           [2016-07-03 Sun 06:30]
+***** DONE read Emacsr
+DEADLINE: <2016-07-03 Sun 07:00>
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 06:59] \\
+  录入一页，背痛严重 44页。
+CLOCK: [2016-07-03 Sun 06:32]--[2016-07-03 Sun 06:57] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 06:31]
+*** morning 8-12 <2016-07-03 Sun 08:00-12:00>
+**** DONE read Emacs
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 08:35] \\
+  45页完成
+CLOCK: [2016-07-03 Sun 08:09]--[2016-07-03 Sun 08:34] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 08:09]
+*** afternoon
+**** DONE spacemacs
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 15:38] \\
+  能用了，但使用不会
+- State "TODO"       from ""           [2016-07-03 Sun 15:38]
+**** DONE 回家
+- State "TODO"       from ""           [2016-07-03 Sun 17:45]
+*** eveving
+**** leran Enilish
+***** DONE lesson twenty five
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 21:02] \\
+  95.5%
+CLOCK: [2016-07-03 Sun 20:35]--[2016-07-03 Sun 21:00] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 20:34]
+**** DONE read Emacs
+DEADLINE: <2016-07-03 Sun 21:29>
+- State "DONE"       from "SOMEDAY"    [2016-07-03 Sun 21:29] \\
+  完成46页的录入
+CLOCK: [2016-07-03 Sun 21:03]--[2016-07-03 Sun 21:28] =>  0:25
+- State "TODO"       from ""           [2016-07-03 Sun 21:03]
+**** 回家 
+DEADLINE: <2035-07-21 Sat>
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
