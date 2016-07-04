@@ -4735,6 +4735,34 @@ CLOCK: [2016-07-04 Mon 05:37]--[2016-07-04 Mon 05:58] =>  0:21
 - State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 21:34] \\
   晚餐与青岛胶州开发区交流。
 - State "TODO"       from ""           [2016-07-04 Mon 21:34]
+** <2016-07-05 Tue 03:43>到办公室开始一天学习工作
+**** morning
+***** learn English
+****** DONE lesson twenty two
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 04:06] \\
+  97.4%复习回顾效果好。
+CLOCK: [2016-07-05 Tue 03:45]--[2016-07-05 Tue 04:06] =>  0:21
+- State "TODO"       from ""           [2016-07-05 Tue 03:45]
+****** DONE lesson twenty two
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 04:32] \\
+  95.5% 还需要进一步加深。
+CLOCK: [2016-07-05 Tue 04:13]--[2016-07-05 Tue 04:32] =>  0:19
+- State "TODO"       from ""           [2016-07-05 Tue 04:13]
+****** DONE lesson twenty oney
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 05:00] \\
+  97.5%
+CLOCK: [2016-07-05 Tue 04:34]--[2016-07-05 Tue 04:59] =>  0:25
+- State "TODO"       from ""           [2016-07-05 Tue 04:34]
+****** TODO 小息20分钟
+CLOCK: [2016-07-05 Tue 05:01]--[2016-07-05 Tue 05:26] =>  0:25
+- State "TODO"       from ""           [2016-07-05 Tue 05:01]
+****** DONE read Emacs
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 06:40] \\
+  录入47页48页心痛、腹痛？胃痛？
+CLOCK: [2016-07-05 Tue 05:51]--[2016-07-05 Tue 06:16] =>  0:25
+- State "TODO"       from ""           [2016-07-05 Tue 05:51]
+心脏不舒服<2016-07-05 Tue 06:18>
+****** 结束早晨学习<2016-07-05 Tue 06:42>
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
