@@ -4711,6 +4711,30 @@ CLOCK: [2016-07-03 Sun 21:03]--[2016-07-03 Sun 21:28] =>  0:25
 - State "TODO"       from ""           [2016-07-03 Sun 21:03]
 **** 回家 
 DEADLINE: <2035-07-21 Sat>
+** <2016-07-04 Mon 05:05>开始学习与工作
+*** morning
+**** learn English
+***** DONE lesson twenty four
+- State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 05:31] \\
+  96.7%
+CLOCK: [2016-07-04 Mon 05:07]--[2016-07-04 Mon 05:31] =>  0:24
+- State "TODO"       from ""           [2016-07-04 Mon 05:06]
+***** DONE lesson twenty threey
+- State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 05:58] \\
+  97.5%朗读效果好。多说。
+
+CLOCK: [2016-07-04 Mon 05:37]--[2016-07-04 Mon 05:58] =>  0:21
+- State "TODO"       from ""           [2016-07-04 Mon 05:36]
+- State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 05:35] \\
+  小息5分钟
+- State "TODO"       from ""           [2016-07-04 Mon 05:32]
+***** DONE listen music and relax
+- State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 21:33]
+- State "TODO"       from ""           [2016-07-04 Mon 05:59]
+**** DONE evening 回家
+- State "DONE"       from "SOMEDAY"    [2016-07-04 Mon 21:34] \\
+  晚餐与青岛胶州开发区交流。
+- State "TODO"       from ""           [2016-07-04 Mon 21:34]
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
