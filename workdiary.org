@@ -13,7 +13,9 @@
 **** Spacemacs Rocks 第二季 http://book.emacs-china.org
 *** 学习笔记
 **** Emacs 注释
- Org-mode支持创建注脚. 与'footnote.el'包相反,Org-mode中的注脚功能是专门设计在大型文档来使用的,而不仅仅是用在类型email这样的一次性文件上的. org-mode中注脚的基本语法类似于'footnote.el'中的语法,即,要在段落中定义一个注脚,它需要顶格(不能有缩进)以方括号作为注脚的标记. 如果你需要在注脚内分段,使用LaTeX语法'\par'. 要定义注脚引用,只需要简单的在文本中用方括号做一个标记. 例如
+ Org-mode支持创建注脚. 与'footnote.el'包相反,Org-mode中的
+注脚功能是专门设计在大型文档来使用的,而不仅仅是用在类型email这样的一次性文件上的. o-rg-mode中注脚的基本语法类似于'footnote.el'中的语法,即,要在段落中定义一个注脚
+,它需要顶格(不能有缩进)以方括号作为注脚的标记. 如果你需要在注脚内分段,使用LaTeX语法'\par'. 要定义注脚引用,只需要简单的在文本中用方括号做一个标记. 例如
    #+BEGIN_SRC org
      ,The Org homepage[fn:1] now looks a lot better than it used to.
      ,...
@@ -4753,7 +4755,8 @@ CLOCK: [2016-07-05 Tue 04:13]--[2016-07-05 Tue 04:32] =>  0:19
   97.5%
 CLOCK: [2016-07-05 Tue 04:34]--[2016-07-05 Tue 04:59] =>  0:25
 - State "TODO"       from ""           [2016-07-05 Tue 04:34]
-****** TODO 小息20分钟
+****** DONE 小息20分钟
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 08:48]
 CLOCK: [2016-07-05 Tue 05:01]--[2016-07-05 Tue 05:26] =>  0:25
 - State "TODO"       from ""           [2016-07-05 Tue 05:01]
 ****** DONE read Emacs
@@ -4763,6 +4766,67 @@ CLOCK: [2016-07-05 Tue 05:51]--[2016-07-05 Tue 06:16] =>  0:25
 - State "TODO"       from ""           [2016-07-05 Tue 05:51]
 心脏不舒服<2016-07-05 Tue 06:18>
 ****** 结束早晨学习<2016-07-05 Tue 06:42>
+*** morning 8-12 
+**** 清扫清理
+DEADLINE: <2022-07-08 Fri>
+教务处李志强，李桂菊检查考试情况。
+**** Learn English
+***** DONE lesson twenty
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 08:46] \\
+  97%
+CLOCK: [2016-07-05 Tue 08:46]--[2016-07-05 Tue 08:46] =>  0:00
+- State "TODO"       from ""           [2016-07-05 Tue 08:24]
+**** DONE 学习Emacs
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 09:51] \\
+  录入49、50页
+CLOCK: [2016-07-05 Tue 08:58]--[2016-07-05 Tue 09:23] =>  0:25
+- State "TODO"       from ""           [2016-07-05 Tue 08:58]
+**** DONE 安装子龙山人的配置，但出来的是cheng?
+CLOSED: [2016-07-05 Tue 10:25]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 10:25]
+:END:
+***** DONE afternoon
+CLOSED: [2016-07-05 Tue 14:25]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 14:25]
+:END:
+****** DONE 试验sapcemacs
+CLOSED: [2016-07-05 Tue 15:58]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 15:58]
+CLOCK: [2016-07-05 Tue 15:57]--[2016-07-05 Tue 15:58] =>  0:01
+- State "STARTED"    from "DONE"       [2016-07-05 Tue 15:57]
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 15:51]
+:END:
+<2016-07-05 Tue 14:27>
+****** CANCELLED learn English
+CLOSED: [2016-07-05 Tue 16:26]
+:LOGBOOK:
+- State "SOMEDAY"    from "WAITING"    [2016-07-05 Tue 16:26]
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 16:25]
+:END:
+******* STARTED lesson nineteen95.4%
+:LOGBOOK:
+CLOCK: [2016-07-05 Tue 16:28]
+- State "STARTED"    from "DONE"       [2016-07-05 Tue 16:28]
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 16:26]
+:END:
+*** evening
+**** learn english
+***** DONE lesson eighteen
+CLOSED: [2016-07-05 Tue 20:56]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-05 Tue 20:56]
+CLOCK: [2016-07-05 Tue 20:34]--[2016-07-05 Tue 20:56] =>  0:22
+:END:
+96.2%
+***** TODO 练习光标移动
+泰山职业技术学院
+泰山职业技术学院
+
+
+
 * blog  
    ** TODO 匈牙利命名法  
    ** TODO org-mode 归档  
