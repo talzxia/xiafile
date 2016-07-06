@@ -356,7 +356,7 @@ Is the woman buying a dress or some gloves? She is buying a dress.
 Does the shop sell clothes or food? They sell clothes here.
 Is the man buying a suit or a hat? He is buying a hat.
 
-* words
+*** words
 
 ** neck <2016-06-21 Tue>
  英  [nek]   美  [nɛk]
@@ -428,7 +428,7 @@ Neck
 The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
 来源于：维基百科
 
-* Lesson<2016-06-21 Tue>
+** Lesson<2016-06-21 Tue>
 ** Lesson thirteen
 This elderly man is wearing glasses. he is hugging a large white dog
 around the  neck and laughing.
@@ -543,4 +543,171 @@ on the telephone because they do not have a telephone.
 Why are these girls not working and instead spending time at the
 beach? They are spending time at the beach because they are on
 holiday.
+** lesson eighteen
+to have
+to have not
+to put on
+to take off
+to try on
+to wear
+The girl has a toys.
+The woman does‘nt ant toys.
+The boy doesn't have a bicycle.
+The boy has a bicycle.
+The girl has a boys.
+The man doesn't have a bicycle.
+The girl has a flower.
+The boy doesn't have a flower.
+The girl has parents.
+The girl has a grandma and grandad.
+The girl has a yellow dress.
+The girl has a brother.
+The girl has an apple.
+The girl has a big dog.
+
+The boy doesn't have a helicopter or a giraffe.
+The giraffe hasn't got any money.
+The boy doesn't have long hair.
+The boy doesn't have a sister.
+The boy doesn't have a dress.
+The boy doesn't have a dog.
+
+The litter girl wants to try on a skirt.
+The man is trying on some shoes.
+The man is trying on a shirt.
+The woman is trying on a shirt
+The girl is trying on a skirt in front of the mirror.
+The girl is trying on some shoes.
+sweater
+ 英  ['swetə]   美  ['swɛtɚ]
+n. 毛线衣，运动衫；大量出汗的人，发汗剂
+
+The girl is taking off a green sweater.
+The girl is taking off a balck-and-white dress.
+The man is putting on some gloves.
+The woman is putting on some gloves.
+The woman is putting on boots.
+The man is taking off a shirt.
+
+The boy isn't wearing a dress.
+moustache
+ 英  [mə'stɑːʃ]   美  [mə'stɑʃ]
+n. 小胡子；髭；触须
+n. (Moustache)人名；(法)穆斯塔什
+Grandad has a moustache and a beard
+beard
+ 英  [bɪəd]   美  [bɪrd]
+vt. 公然反对；抓…的胡须
+n. 胡须；颌毛
+vi. 充当掩护；充当男随员
+n. (Beard)人名；(英)比尔德
+The girl wears a dress.
+The giraffe does not wear clothes.
+Grandma wears glasses.
+The woman wears shoes.
+
+The man doesn't have any money. He can't buy anything.
+The family has a big new house.
+The woman is putting on a  white dress for the wedding.
+Girls like to wear short skirts.
+The man has a lot of money. He can buy a car.
+The girl has a new pink bag.
+
+Do women wear skirts? Yes, they wear skirts.
+Do men wear skirts? Yes, they wear skirts sometimes.
+Does grandma wear glasses? Yes,  grandma wears glasses.
+Do they wear gloves in winter? Yes, they wear gloves in winter.
+Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
+Has the boy got a bicycle? Yes, he has  a bicycle.
+
+What is the girl taking off? She is taking off a black-and-white dress.
+Has the dog got any money? No, it has not got any money.
+Has the dog got any clothes? No, it has not got any clothes.
+Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
+Who has a beard? Grandad has a beard.
+Is the woman putting on shoes or gloves? She is putting on gloves.
+95.4%
+** lesson nineteen<2016-07-07 Thu> 
+:LOGBOOK:
+CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
+:END:
+a cheek
+an ear 
+an eye 
+a face
+a nose
+a mouth
+
+a stomach
+shoulders
+a neck 
+a body
+a head
+a back
+
+an arm 
+a foot 
+a leg
+a hand
+a finger
+kness
+ 
+a child's face
+a woman's face
+The woman has a long neck.
+The giraffe has a very long neck.
+A man's face
+The man is on his knees.
+knees 
+ 英  [niːz]   美  [niːz]
+[解剖] 膝
+
+big stomach
+The boy has dirty cheeks.
+The boy has a big nose.
+Mother kisses her son's pink cheek.
+The girl is wearing a scarf on her neck and a cap  on her head.
+The man has a wide back.
+
+a woman's ear 
+a finger on the computer
+an open mouth
+closed eyes
+a closed mouth
+open eyes
+
+The woman is putting a glove on her hand.
+a woman with her eyes closed.
+The girl has shoes on her feet.
+The girl does not have any shoes on her feet.
+The son is sitting on his father's shoulders.
+The child is sitting on his mother's knee.
+
+The child's foot is in his mother's hands.
+The man is holding a finger in his mouth.
+The child is in his mother's arms.
+The child's hand is holding his mother's finger.
+a grown-up's leg
+a grown-up's foot
+
+Is the white-haired girl speaking in the black-haired girl's ear? Yes, she is speaking on the balck-haired ear.
+Is this face sad? Yes, it is sad.
+Is the boy speaking in his friend's ear? Yes, he is speaking in his friend's
+ear.
+Is this face cheerful? Yes, it is cheerful.
+Does the bear have a short neck? Yes, it does have a short neck.
+Is the woman putting a hat on her head? Yes, she is putting a hat on her head.
+
+Is the child's head big or small? His head is small.
+Is this a woman's face or a man's face? This is a man's face.
+Is  mother kissing her son's cheek or nose? She is kissing her son's cheek.
+Is the child sitting on his mother's or grandma's knee? He is sitting on his
+grandma's knee.
+Is the child's face clean or dirty? His face is clean.
+Are the child's feet big or small? His feet are small.
+96.9% 
+
+
+
+
 

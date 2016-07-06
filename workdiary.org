@@ -4805,10 +4805,15 @@ CLOSED: [2016-07-05 Tue 16:26]
 :LOGBOOK:
 - State "SOMEDAY"    from "WAITING"    [2016-07-05 Tue 16:26]
 - State "DONE"       from "STARTED"    [2016-07-05 Tue 16:25]
-:END:
-******* STARTED lesson nineteen95.4%
+:END
+******* STARTED STARTED lesson nineteen95.4%
+- State "DONE"       from "SOMEDAY"    [2016-07-05 Tue 21:38] \\
+  kdkdkkd
+- State "TODO"       from ""           [2016-07-05 Tue 21:38]
 :LOGBOOK:
-CLOCK: [2016-07-05 Tue 16:28]
+CLOCK: [2016-07-06 三 07:41]--[2016-07-06 三 08:06] =>  0:25
+- State "STARTED"    from "DONE"       [2016-07-06 三 07:41]
+CLOCK: [2016-07-05 Tue 16:28]--[2016-07-05 Tue 16:58] =>  0:30
 - State "STARTED"    from "DONE"       [2016-07-05 Tue 16:28]
 - State "DONE"       from "STARTED"    [2016-07-05 Tue 16:26]
 :END:
@@ -4824,8 +4829,75 @@ CLOCK: [2016-07-05 Tue 20:34]--[2016-07-05 Tue 20:56] =>  0:22
 ***** TODO 练习光标移动
 泰山职业技术学院
 泰山职业技术学院
+** <2016-07-06 Wed 04:46>到办公室开始一天工作学习
+*** morning
+**** DONE learn English lesson seventeen
+    CLOSED: [2016-07-06 Wed 05:11]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-06 Wed 05:11]
+    CLOCK: [2016-07-06 Wed 04:47]--[2016-07-06 Wed 05:11] =>  0:24
+    :END:
+96.8%
+**** DONE lesson sixteen<2016-07-06 Wed 05:27>
+    CLOSED: [2016-07-06 Wed 05:47]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-06 Wed 05:47]
+    CLOCK: [2016-07-06 Wed 05:27]--[2016-07-06 Wed 05:47] =>  0:20
+    :END:
+95.6%
+**** morning 8-12
+***** DONE l   esson sixteen
+CLOSED: [2016-07-06 Wed 11:46]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-06 Wed 11:46]
+- State "STARTED"    from "DONE"       [2016-07-06 Wed 11:46]
+- State "DONE"       from "STARTED"    [2016-07-06 Wed 08:56]
+:END:
 
+** DONE 实验结果不理想
+CLOSED: [2016-07-06 Wed 11:48]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2016-07-06 Wed 11:48]
+- State "DONE"       from "STARTED"    [2016-07-06 Wed 11:48]
+- State "STARTED"    from "DONE"       [2016-07-06 Wed 11:47]
+- State "DONE"       from "WAITING"    [2016-07-06 Wed 11:47]
+- State "WAITING"    from "DONE"       [2016-07-06 Wed 11:47]
+- State "DONE"       from "STARTED"    [2016-07-06 Wed 11:47]
+:END:
 
+***** DONE lesson eighteen 95.4%
+CLOSED: [2016-07-06 Wed 17:51]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-06 Wed 17:51]
+:END:
+夏乐斋
+信息技术工程系
+
+** <2016-07-07 Thu 04:03> 到办公室开始一天工作学习
+
+*** morning
+
+**** learn Engilsi
+
+***** DONE lesson twenty
+CLOSED: [2016-07-07 Thu 05:06]
+
+**** TODO relax back ache
+:LOGBOOK:
+CLOCK: [2016-07-07 Thu 05:11]--[2016-07-07 Thu 05:36] =>  0:25
+:END:
+三部门联合公布24字中国特色公务员职业道德http://news.ifeng.com/a/20160707/49308196_0.shtml
+坚定信念、忠于国家、服务人民、恪尽职守、依法办事、公正廉洁”的公务员职业道德。
+worLD
+
+泰山职业技术学院
+夏乐斋
+夏乐斋
+信息技术工程系
+
+**** DONE 朗读《道德经》20小节
+CLOSED: [2016-07-07 Thu 06:52]
+回家吃饭
 
 * blog  
    ** TODO 匈牙利命名法  

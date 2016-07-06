@@ -1,0 +1,27 @@
+新日记
+* <2016-07-06 Wed 04:46>到办公室开始一天工作学习
+** morning
+*** DONE learn English lesson seventeen
+    CLOSED: [2016-07-06 Wed 05:11]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-06 Wed 05:11]
+    CLOCK: [2016-07-06 Wed 04:47]--[2016-07-06 Wed 05:11] =>  0:24
+    :END:
+96.8%
+*** DONE lesson sixteen<2016-07-06 Wed 05:27>
+    CLOSED: [2016-07-06 Wed 05:47]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-06 Wed 05:47]
+    CLOCK: [2016-07-06 Wed 05:27]--[2016-07-06 Wed 05:47] =>  0:20
+    :END:
+95.6%
+*** 泰山职业技术学院
+泰山职业技术学院
+夏乐斋
+泰山职业技术学院
+泰山职业技术学院
+夏乐斋
+信息技术工程系
+信息技术工程系
+内置的表格编辑器
+内置的表格编辑器
