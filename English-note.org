@@ -706,7 +706,205 @@ grandma's knee.
 Is the child's face clean or dirty? His face is clean.
 Are the child's feet big or small? His feet are small.
 96.9% 
+** DONE lesson twenty
+CLOSED: [2016-07-07 Thu 20:39]
+a policeman
+a teacher
+a cooker
+a builder
+a docter
 
+to teach
+to cook 
+to drive
+to jump
+to treat 
+
+a hospital
+a patient
+a school
+a schoolboy
+a stadium
+a lesson
+
+The builders are building a house.
+The cook is cooking food.
+The dirver is driving a car.
+The policeman is running with a dog.
+The doctor is treating a patient.
+The teacher is giving a lesson.
+
+The shop assistant works in a shop.
+The cook works in a reastaurant.
+The policeman works outdoors.
+The waiter works also in a reastaurant.
+The doctors work in a hospital.
+The teacher works in a school.
+
+The waiter's job is to bring food.
+The teacher's job is to teach children.
+The cook's job is to cook food.
+The builder's job is to build houses.
+The doctor's job is to treat patients.
+The driver's job is to drive a car.
+
+The schoolchildren are listening to the teacher.
+The shop assistant is speaking to the customer.
+This ia a sportsman. He is running.
+The sportsman is jumping at the stadium.
+The policeman is riding a horse through the street.
+The teachers are sitting at the table.
+
+There are a lot of people in the restaurant.
+There are a lot of schoolchildren in the school.
+There is a lot of food on the cook's table.
+There are a lot of patients in the hospital.
+There policeman has a lot of work outdoors.
+There are a lot of sportsmen at the stadium.
+
+Where does the teacher work? He works in a school.
+Where does the shop assistant work? He works in a shop.
+Where does the builder work? He works outdoors.
+Where does the policeman work? He works outdoors too.
+Where does the waiter work? He works in a restaurant too.
+Where does the cooker wrok? He works in a restaurant.
+
+Is eating a job? No, it is not a job.
+Is drinking coffee a job? No, it is not a job.
+Is treating patients a sportsman's job or a doctor's job? It is a doctor's job.
+Is building houses a shop assistant's job or a builder's job? It is a builder's job.
+Is sleeping a job? No, it is not a job.
+Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
+96.5%
+** DONE lesson twenty one
+CLOSED: [2016-07-08 Fri 06:01]
+The policeman is wearing a blue cap.
+The doctor is wearing a white gown.
+The customer is trying on the shirt.
+
+What colour is the excavator? It is yellow.
+What colour is the umbrella? It is red.
+What colour is the sky? It is blue.
+What colour is the doctor's gown? It is white.
+What colour are the woman's shoes? They are black.
+What clour is the flower in the girl's hand? It is red.
+
+Who is the driver driving? He is dring the girl.
+To whom is the bridegroom giving the flowers? He is giving to the bride.
+To whom is the shop assistant selling? He is selling to the customer.
+Who is the doctor treating? He is treating the patient.
+Who is the customer paying? He is paying the shop assistant.
+To whom is the boy giving the banana? He is giving the banana to the cat.
+
+Who is treating the patients? The doctor.
+Who is bringing the paltes of food? The waiter.
+Who is teaching the children? The teacher.
+Who is building the house? The builders.
+Who is paying money? The customer is paying money.
+Who is jumping at the stadium? The sportsman.
+
+What is the cook cooking? He is cooking food.
+What are the builders building? They are building the house.
+What is the shop assistant selling? He is selling clothing.
+What is the waiter bringing? He is bringing plates of food.
+What are the children reading in the lesson? They are reading a book.
+What is the driver drinking? He is drinking a car.
+
+Where do they teach children? At school.
+Where do they cook the food? In the kitchen.
+Where do they watch the sportsmen? At the stadium.
+Where do they build the houses? Outside.
+Where do they buy shoes? They also buy them at the shop.
+Where do they buy food? At the shop.
+one two three four five six seven eight nine ten more less 
+
+How many fingers does a person have on one hand? A person has five fingers.
+How may eyes does a person have? A person has two eyes.
+How many legs does a dog have? A dog has four legs.
+How many bicycles does the boy have? He has one bicycle.
+How many fingers does a person have? A person has ten fingers.
+How many legs does a person have? A person has two legs.
+
+There are four chairs around the table.
+A child has fewer legs than a cat.
+There are three children in the family.
+A dog has more legs than a person.
+There are nine apples here.
+There are six forks on the table.
+97.4% 
+** DONE lesson twenty two
+CLOSED: [2016-07-08 Fri 17:17]
+an artist
+a secretary
+an actor 
+a singer
+a photographer
+a musician
+
+theatre
+stage
+performance
+a mask
+a spectator 
+concert
+
+to paly the guitar
+ungly
+interesting
+boring
+to play a role
+beautiful
+
+the spectators at the stadium
+The spacetators in the theatre.
+jazz musicians
+theatre building
+a jolly performance
+jazz concert
+
+This is the actres befor the performance.
+Theis is a boy in a black mask.
+There are no people on this stage.
+This is a small stage in a small theatre.
+These are the musicians during the concert.
+These are venetain masks.
+
+To sing this is the work of a singer.
+To play on the stage this is the work of an actor.
+To draw this is the work of an artist.
+To photograph this is the work of a photographer.
+To performa a concert this is the work of musicians.
+To speak on the telephone this is one of the jobs of a secretary.
+
+This actress acts in the theatre.
+The man and the woman are playing their roles in masks.
+The boy with the long black hair is playing the guitar.
+The boy in blue is playing the guitar.
+This man is playing the role of a woman.
+This actor acts in film.
+
+not such a beautiful wife
+a beautiful wall
+an ugly apple
+a beautiful apple
+a beautiful wife
+an ugly wall
+
+an boring lesson
+a boring book
+boring work
+interesting work
+a boring lesson
+an interesting book
+an interesting lesson
+
+The aritst is painting a beatiful picture.
+The spectators are waiting for the performance.
+There are two musicians on stage.
+The secretary has a lot of boring work.
+The singer on stage is singing and playing the guitar.
+The photographer has interesting work.
+95.9%
 
 
 
