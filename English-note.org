@@ -6,7 +6,7 @@ n. 脖子；衣领；海峡
 vi. 搂著脖子亲吻；变狭窄
 vt. 使变细；与…搂著脖子亲吻
 n. (Neck)人名；(德、意、英)内克
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
 
 neck /nɛk/  CET4 TEM4
 N-COUNT Your neck is the part of your body which joins your head to the rest of your body. 颈
@@ -74,7 +74,7 @@ literate
  英  ['lɪt(ə)rət]   美  ['lɪtərət]
 adj. 受过教育的；精通文学的
 n. 学者
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
 
 literate /ˈlɪtərɪt/  CET6+ TEM8
 ADJ Someone who is literate is able to read and write. 能读会写的
@@ -138,7 +138,7 @@ menu
  英  ['menjuː]   美  ['mɛnju]
 n. 菜单
 饭菜
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
 
 menu /ˈmɛnjuː/  CET4 TEM4
 N-COUNT In a restaurant or café or at a formal meal, the menu is a list of the meals and drinks that are available. 菜单
@@ -364,7 +364,7 @@ n. 脖子；衣领；海峡
 vi. 搂著脖子亲吻；变狭窄
 vt. 使变细；与…搂著脖子亲吻
 n. (Neck)人名；(德、意、英)内克
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
 
 neck /nɛk/  CET4 TEM4
 N-COUNT Your neck is the part of your body which joins your head to the rest of your body. 颈
@@ -465,11 +465,11 @@ The cactus is a plant that is able to live in the desert.
 A seagull is a bird that lives at the sea.
 Rome is a city that tourists like very much.
 When there is good weather outside the window in the house is open.
-When a person is ill， he goes to the doctor.
+When a person is ill，he goes to the doctor.
 Many customers come to the big shop when there is a sale.
 When there is a trffice jam, the policemen have a lot of work.
 When it is raining, people open their umbrellas.
-When the parents work， the child plays with his grandmother.
+When the parents work，the child plays with his grandmother.
 
 The man is turning off the television, because he does not want to
 watch it any longer.
@@ -905,7 +905,251 @@ The secretary has a lot of boring work.
 The singer on stage is singing and playing the guitar.
 The photographer has interesting work.
 95.9%
+** DONE lesson twenty three 
+CLOSED: [2016-07-09 Sat 04:35]
+countryside
+a statue
+traffice jam
+a city
+a bridge
 
+a lake
+a fountain
+a park
+a road
+a river
+a square
 
+a beautiful building
+a beautiful city
+The river is in the countryside.
+There is ice and snow on the river.
+a beautiful square.
+beautiful flowers in the park.
 
+This girl is not a statue.
+The large stone monkey is a statue.
+This building is a school.
+The man on the horse is a statue.
+This building is a hospital.
+This building is a museum.
 
+There is a bridge above the river.
+Paris is a big city.
+London is also a big city.
+There are many buildings in the city.
+There is a side river in the city.
+There is a long wooden bridge above the river.
+
+There are less buildings in the countryside than in the city.
+There is bench on the square.
+Many people are walking on the square.
+There are more trees and grass in the countryside than in the city.
+There are people taking photos on the square.
+In the city there is a large square with a statue.
+
+Dogs are playing in the park.
+There is a lake in the park.
+There is a fountain on the square.
+People are walking in the park.
+There are fountains and flowers in the park.
+There are flowers around the fountains.
+
+There are birds swimming in the lake.
+There are cheerful, wet people around the fountain.
+There are no buildings in the park.
+There is a traffic jam on the bridge.
+There are people swimming in the lake.
+The water in the lake is blue.
+
+This is a statue, not a person.
+This is a river, not a lake.
+These are neither bicycles nor helicopters. These are cars.
+These people live in the city, not in the countryside.
+This is neither a falt nor a stadium. This is a park.
+
+flat 
+ 英  [flæt]   美  [flæt]
+adj. 平的；单调的；不景气的；干脆的；平坦的；扁平的；浅的
+adv. （尤指贴着另一表面）平直地；断然地；水平地；直接地，完全地
+n. 平地；公寓；平面
+vt. 使变平；[音乐]使（音调）下降，尤指降半音
+vi. 逐渐变平；[音乐]以降调唱（或奏）
+n. （法）弗拉特（人名）；（英）弗莱特（人名）
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
+
+. SURFACES, SHAPES, AND POSITIONS
+. OTHER USES
+. AN APARTMENT
+  SURFACES, SHAPES, AND POSITIONS
+flat /flæt/  CET4
+ADJ Something that is flat is level, smooth, or even, rather than sloping, curved, or uneven. 平的
+例：
+Tiles can be fixed to any surface as long as it's flat, firm and dry.
+瓷砖可以固定在任何表面上，只要这些表面是平整、坚固、干燥的。
+例：
+...windows which a thief can reach from a drainpipe or flat roof.
+…小偷从排水管或平屋顶可以够得到的窗户。
+ADJ Flat means horizontal and not upright. 水平的
+例：
+Two men near him threw themselves flat.
+他旁边的两个人一下子平趴在了地上。
+PHRASE If you fall flat on your face, you fall over. 脸朝下摔倒
+例：
+A man walked in off the street and fell flat on his face, unconscious.
+一个男人从街上走进来，脸朝下摔倒在地上，昏了过去。
+ADJ A flat object is not very tall or deep in relation to its length and width. 扁平的
+例：
+Ellen is walking down the drive with a square flat box balanced on one hand.
+埃伦正沿着车道走着，一只手上托着一个扁平的方盒子。
+ADJ Flat land is level, with no high hills or other raised parts. (地势) 平坦的
+例：
+To the north lie the flat and fertile farmlands of Nebraska.
+北面是内布拉斯加州平坦肥沃的农田。
+ADJ Flat shoes have no heels or very low heels. 平底的
+例：
+People wear slacks, sweaters, flat shoes, and all manner of casual attire for travel.
+人们旅行时穿宽松长裤、运动衫、平底鞋和各式休闲服装。
+N-PLURAL Flats are flat shoes. 平底鞋
+例：
+His mother looked ten years younger in jeans and flats.
+他的母亲穿着牛仔裤和平底鞋，看上去年轻了 10 岁。
+ADJ A flat tyre, ball, or balloon does not have enough air in it. 瘪的
+例：
+One vehicle with a flat tyre can bring the motorway to a standstill.
+一辆轮胎瘪掉的汽车就能导致公路交通的停顿。
+N-COUNT You can refer to one of the broad flat surfaces of an object as the flat of that object. 平面
+例：
+He slammed the counter with the flat of his hand.
+他用手掌猛击柜台。
+N-COUNT A flat is a tyre that does not have enough air in it. 瘪胎
+例：
+Then, after I finally got back on the motorway, I developed a flat.
+后来，等我终于回到公路上时，我有一个轮胎瘪了。
+N-COUNT A low flat area of uncultivated land, especially an area where the ground is soft and wet, can be referred to as flats or a flat. 低洼沼泽地
+例：
+The salt marshes and mud flats attract large numbers of waterfowl.
+盐碱地和淤泥滩吸引来大量水鸟。
+ADJ If you have flat feet, the arches of your feet are too low. 平足的
+例：
+The condition of flat feet runs in families.
+平足会在家族中遗传。
+  OTHER USES
+  AN APARTMENT
+网络释义 专业释义 英英释义
+
+ 公寓
+ 结构
+ 扁平结构
+ 平坦
+短语
+Flat noodles 板条
+Flat noodles 板面
+Flat noodles 米粉
+Flat noodles 粄条
+FLAT MACHINE 平车
+  更多结果
+词组短语 同近义词 同根词
+
+flat surface 平面；平整表面
+flat out v. 竭尽全力；用全速；疲惫
+flat panel 扁平面板
+flat plate 平板；浅平盘
+fall flat 失败；达不到预想效果
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Have you occupied this flat?
+你已租下这套公寓了吗? 
+I have sublet a flat to my friend for the summer.
+夏天我把一套公寓转租给一个朋友。 
+It's cheaper for you to hire a flat when you stay in Europe.
+你在欧洲停留期间，租借一套公寓住可省一些钱。 
+ 更多双语例句
+百科
+
+Flat
+
+Flat, or flatness, describes an object or condition that is very smooth or level.In Great Britain, Ireland and Australia, as well as in Commonwealth countries such as India, a "flat" means an apartment.Within certain prisons, each floor of a cell block/prison hall is called a flat. These are used to divide certain levels of prisoners.In New Zealand it can mean an apartment, especially when applied to public housing, but it more usually means a house of any type shared between unrelated adults, in a flatmate arrangement.Flat or flats may also refer to:
+来源于：维基百科
+This is a road, not a river.
+
+Where is the grandmother sitting? She is sitting on a bench in the park.
+Is the girl standing behind the statue? No, she is standing in front the statue.
+Who is standing on the bredge? There is a family standing on the bridge.
+Where are there many tall buildings? There are many tall buildings in the city.
+There is a traffic jam on the bridge? Yes, there is a traffic jam on the bridge.
+Where is the statue? The statue is on the square.
+98.1%
+** DONE twenty four 
+   DEADLINE: <2016-07-10 Sun 05:56>
+underground
+a plane b 
+a ship
+transport
+a train
+a bus
+
+an airports
+a parking lot
+a traffic light
+a train car 
+a railway station
+a driver's license
+
+to get on 
+fast
+to wait in a queue
+to get off
+slow 
+to move 
+
+The woman  is getting off the bus.
+The girl is getting on the bus.
+People are waiting in a queue at the airport.
+The children do not have bicycles, they are walking.
+The old bus is in the sand.
+The woman is not driving a car, she is walking.
+
+The cars in the traffic jam are moving very slowly.
+There is a traffic light on the city street.
+The boy is walking with his dog.
+The people are getting off the train car.
+The man is waiting for the train.
+People are waiting in a queue at the bus stop.
+
+Behind the husband and wife there is a beautiful white ship.
+A bus moves slower than a train.
+The train is a quick means of transport.
+The queue is moving slowly.
+A ship moves slower than a plane.
+A plane is a very quick means of transport.
+
+When there is a green light, the cars move.
+When there is a red light, the cars do not move.
+Peopoe are getting on the underground car.
+The underground is a fast means of transport.
+When there is a yellow ight, the cars come to a stop.
+The toy train has two cars. One is red, and one is green.
+
+There are cars in the large parking lot.
+The railway station is gray.
+People with large bags are walking around the airport.
+The dirver has a driver's license.
+The policeman is looking at the woman's driver's license.
+There are planes at the airport.
+
+The grandmother is getting into the car.
+The man and woman with bicyles are in the train car.
+The bride is getting out of a wedding car.
+The boy is running very quickly.
+The men are getting out of the car at the restaurant.
+The man is sitting in the underground car.
+
+Are the cars stopped when there is a green light? No, they move.
+Does a plane move faster than a ship? Yes, it moves faster.
+Are the grandmother and grandfather walking slowly? Yes, they are walking very slowly.
+Are these tow elderly women walking quickly? No, they are walking very slowly.
+Do the cars move when there is a red light? No, they stop.
+Are there many cars in this parking lot? No, there are many bikes here.
+96.6%

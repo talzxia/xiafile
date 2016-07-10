@@ -1,0 +1,5 @@
+* DONE <2016-07-10 Sun 10:49>重建一个 org 文件
+CLOSED: [2016-07-10 Sun 10:50]
+* TODO 作测试                                                        :office:
+DEADLINE: <2016-07-10 Sun +1day>
+<2016-07-10 Sun +1day>
