@@ -10,11 +10,7 @@
 **** 时间管理 http://blog.csdn.net/lujun9972/article/details/46002771
 **** 
 *** 视频
-**** Spacemac;; -*- mode: emacs-lisp -*-
-
-
-
-s Rocks 第二季 http://book.emacs-china.org
+**** Spacemacs Rocks 第二季 http://book.emacs-china.org
 *** 学习笔:LOGBOOK:
 CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
 :END: pattern: 记
@@ -106,7 +102,6 @@ CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
 个人的时间都去哪儿了？当然是都被工作占去了。现在，我经常能做到的是读书，
 读书已成了我的一种生活方式。读书可以让人保持思想活力，让人得到智慧启发，
 让人滋养浩然之气。
-**** 这个词，习总一个半月专门提了三次 http://news.ifeng.com/a/20160714/49350559_0.shtml
 *** 视频
 *** 学习笔记
 ** LATEX
@@ -5118,16 +5113,16 @@ CLOSED: [2016-07-12 Tue 14:27]
 CLOCK: [2016-07-12 Tue 14:28]
 :END:
 
-*** DONE 安装 prucell emacs 配置并试用
+*** DONE 安装prucell emacs配置并试用
 CLOSED: [2016-07-12 Tue 15:39]
 http://blog.csdn.net/jiluben/article/details/39153595
 :LOGBOOK:  
 - State "DONE"       from "NEXT"       [2016-07-12 Tue 15:39]
 - State "DONE"       from "NEXT"       [2016-07-12 Tue 15:25]
 :END:      
-*** DONE 测试 emasc
+*** DONE 测试emasc
 CLOSED: [2016-07-12 Tue 15:50] DEADLINE: <2016-07-12 Tue 16:00>
-:LOGBOOK:  
+   :LOGBOOK:  
 - State "DONE"       from "NEXT"       [2016-07-12 Tue 15:50]
 CLOCK: [2016-07-12 Tue 15:33]--[2016-07-12 Tue 15:50] =>  0:17
 - Note taken on [2016-07-12 Tue 15:31] \\
@@ -5158,102 +5153,7 @@ CLOCK: [2016-07-12 Tue 15:33]--[2016-07-12 Tue 15:50] =>  0:17
 DEADLINE: <2016-07-12 Tue 20:16>
 :LOGBOOK:  
 CLOCK: [2016-07-12 Tue 20:16]--[2016-07-12 Tue 20:33] =>  0:17
-:END:    
-*** DONE 又转回 emacs  
-CLOSED: [2016-07-12 Tue 21:00]
-:LOGBOOK:
-CLOCK: [2016-07-12 Tue 21:00]--[2016-07-12 Tue 21:01] =>  0:01
-:END:
-** DONE <2016-07-13 Wed 03:38>到达办公室开始学习工作              :@Office:
-CLOSED: [2016-07-13 Wed 08:06] DEADLINE: <2016-07-13 Wed 03:38>
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 07:38]--<2016-07-13 Wed 11:26> =>  3:48
-CLOCK: [2016-07-13 Wed 03:40]--[2016-07-13 Wed 06:44] =>  3:04
-:END:
-*** DONE lesson twenty eight                                      :@Office:
-DEADLINE: <2016-07-13 Wed 04:30>
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 03:44]--[2016-07-13 Wed 04:29] =>  0:45
-:END:
-*** DONE learn evil tutor <2016-07-13 Wed 06:00>                  :@Office:
-CLOSED: [2016-07-13 Wed 05:59] SCHEDULED: <2016-07-13 Wed 04:46>
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 04:35]--[2016-07-13 Wed 05:59] =>  1:24
-:END:
-*** DONE read and brows <2016-07-13 Wed 06:18>                    :@Office:
-CLOSED: [2016-07-13 Wed 06:17] DEADLINE: <2016-07-13 Wed 06:03>
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 06:03]--[2016-07-13 Wed 06:17] =>  0:14
-:END:
-*** DONE learn evil tutor<2016-07-13 Wed 06:23>                   :@Office:
-CLOSED: [2016-07-13 Wed 06:48]
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 06:23]--[2016-07-13 Wed 06:47] =>  0:24
-:END:
-#+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2016-07-13 Wed 11:24]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:24* |
-|--------------+--------|
-#+END:
-
-*** DONE go home and eating                                          :@Way:
-CLOSED: [2016-07-13 Wed 06:49]
-*** DONE listen English song and relaxing<2016-07-13 Wed 07:40>   :@Office:
-CLOSED: [2016-07-13 Wed 08:18]
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 07:52]--<2016-07-13 Wed 08:19> =>  0:27
-:END:
-*** DONE learn evil tutor
-CLOSED: [2016-07-13 Wed 09:30]
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 08:25]--<2016-07-13 Wed 09:30> =>  1:05
-:END:
-*** DONE 安装了有道字典
-CLOSED: [2016-07-13 Wed 09:32]
-*** DONE 调整电脑桌，工作最适合的高度，效率高且不伤身体。
-<2016-07-13 Wed 10:30>CLOSED: [2016-07-13 Wed 10:25]
-*** 工作计时不工作？
-*** 吃饭归来<2016-07-13 Wed 14:20> 
-*** DONE 中午饭后睡着了。<2016-07-13 Wed 15:19>
-
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 15:25]--[2016-07-13 Wed 18:06] =>  2:41
-
-*** 电话机环了，报办公室王孝合 
-*** 今天学习 emacs 收获大。
-*** DONE lesson twenty nine
-CLOSED: [2016-07-14 Thu 04:25]
-:LOGBOOK:
-CLOCK: [2016-07-13 Wed 18:53]--[2016-07-14 Thu 04:25] =>  9:32
-:END:
-** TODO <2016-07-14 Thu 04:25> 开始学习与工作                     :@Office:
-:LOGBOOK:
-CLOCK: [2016-07-14 Thu 04:27]--[2016-07-14 Thu 04:28] =>  0:01
-:END:
-*** DONE lesson twenty nine                                       :@Office:
-CLOSED: [2016-07-14 Thu 05:54]
-:LOGBOOK:
-CLOCK: [2016-07-14 Thu 04:28]--[2016-07-14 Thu 05:54] =>  1:26
-:END:
-*** DONE listen English song and relaxing                         :@Office:
-CLOSED: [2016-07-14 Thu 06:44]
-:LOGBOOK:
-CLOCK: [2016-07-14 Thu 05:57]--[2016-07-14 Thu 06:44] =>  0:47
-:END:
-*** DONE go home and will eat breakfast<2016-07-14 Thu 06:45>     :@Office:
-CLOSED: [2016-07-14 Thu 06:45]
-
-
-
-
-
-
-
-
-
-
+:END:      
 * Blog 匈牙利命名法  
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2016-07-11 Mon 10:45]

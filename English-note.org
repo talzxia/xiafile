@@ -13,7 +13,9 @@ N-COUNT Your neck is the part of your body which joins your head to the rest of 
 例：
 She threw her arms around his neck and hugged him warmly.
 她伸出双臂搂住他的脖子，热烈地拥抱他。
-N-COUNT The neck of an article of clothing such as a shirt, dress, or sweater is the part which surrounds your neck. 领口
+N-COUNT The neck of an article of clothing such as a shirt, dress, :LOGBOOK:
+CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
+:END:or sweater is the part which surrounds your neck. 领口
 例：
 ...the low, ruffled neck of her blouse.
 …她褶边低胸的衬衫领口。
@@ -1153,3 +1155,375 @@ Are these tow elderly women walking quickly? No, they are walking very slowly.
 Do the cars move when there is a red light? No, they stop.
 Are there many cars in this parking lot? No, there are many bikes here.
 96.6%
+** DONE twenty  five 
+CLOSED: [2016-07-10 Sun 21:12]
+a sun 
+the sea 
+the mountains
+the beach
+the port
+relaxtion
+
+travel to America
+to travel by plane
+to travel on bicycle 
+travel to Europe
+to travel by ship
+to travel by car
+
+to relax
+to spend time
+to tan 
+to descend
+to spend holiday
+to climb
+
+The ship is entering the port.
+People are having a good time on the ship.
+Children spend time at the beach in the summer.
+People are sailing around the sea.
+Children spend a lot of time in school in the winter.
+Young people want to spend time in the club.
+
+People are descending the tall mountain.
+Boys and girls are playing in the sand on the beach.
+People are climbing the tall mountain.
+The children are spending a lot of time in the water.
+The elderly woman is spending a lot of time on the bench in the garden.
+Many people are tanning at the beach.
+
+The children are spending a lot of time on the computer.
+Many people like to lie in the sun.
+The girls like to spend holiday at the sea.
+The parents are spending their holiday with their children.'
+Grandmother is also spending a lot of time with a book.
+Grandfather is spending a lot of time reading.
+
+Swimming is also a very good way of relaxation.
+A holiday at the sea is expensive.
+This family likes to relax at home.
+A holiday at home is inexpensive.
+A holiday in the mountains is also expensive.
+Reading is a very good way of realxation.
+
+These people are travelling by dogsled.
+Some people are spending their holiday under the water.
+Grandfather is realxing in the armchair.
+Travel is a very good, though expensive, way of relaxation.
+The little girl in the bathing suit and  pink hat is going into the sea.
+Some people don't want to realx.
+
+Do childen like to tan or to swim? They like to swim.
+Do childen like to spend time at the sea? Yes, they like to spend time at the sea very much.
+Is this man realxing? No, he is working.
+Are these grils working? No, they are tanning at the beach.
+Are the people getting on the train car? No, they are getting off the train car.
+Are these people travelling by helicopter? No, they are travelling by car.
+
+Is this dog working? No, it is relaxing.
+Are these dogs relaxing? No, they are working.
+Are the musicians on stage relaxing? No, they are working, and  the spectators are relaxing.
+Is the waiter relaxing? No, he is working. The young people at the table are relaxing.
+Is the blue-green seawater in the sun beautiful? Yes, it is very beautiful.
+Is the child working? No, he can't work. He is still very small.
+96.7%
+** DONE twenty six
+DEADLINE: <2016-07-11 Mon 10:43>
+a tour guide
+a group 
+a street
+a map
+a tourist 
+a guided tour 
+
+to answer
+to visit
+to arrive
+to ask
+to cross the street
+to show 
+
+The teacher is asking the schoolgirl.
+The schoolgirl also wants to answer in the lesson.
+One of the jobs of a secretary is to answer phonecalls.
+The woman in red wants to ask the woman in black about something.
+The schoolboy wants to answer the teacher in the lesson.
+The schoolboy answers in the lesson.
+
+The ship is arriving into the port.
+The boy with his dog is crossing the street.
+The train is arriving into the station.
+People are crossing the street on the green light.
+There ia a car on the narrow city street.
+The airplane is arriving into the airport.
+
+The shop assistant is showing his product.
+Many people visit Rome.
+The patient is visiting the doctor.
+A lot of spectaors attend the theatre.
+The man is showing his drawing.
+The woman with long hair is showing the girl a street on the map.
+
+There is a large group of tourists on the bus.
+There are four people in this group.
+There is only one woman on the beach.
+These people are tourists.
+Two people are looking at a map of the city.
+This is a group of children.
+
+The work of a tourguide is to show tourists the city.
+During the guided tour,the tourguide shows the tourists interesting paintings at the museum.
+The tourists are travelling around Europe on bicycles.
+The tourists have a map of the city.
+The tourists are visiting a museum during the guided tour.
+The tourists on the guided tour are climbing a mountain 
+
+A group of people is standing on the street.
+This is not a group of tourtists, is is a group of builders.
+The ship of tourists is arriving into the port.
+These are not tourist buses, they are police cars.
+There are many tourists visiting Paris.
+Tourists are crossing the street.
+
+Does a tourguide or a secretary work with the tourists? A tourguide works with them.
+Is the traffic light on or off? The traffic light is on.
+Where is the ship arriving, into the port or into the wailwasy station?The ship
+is arriving into the port.
+Where is the train arriving, into the railway station or into the port? The
+train is arriving into the railway station.
+Is this group of people on the street or in the park? The group  is on
+the street.
+Where is the plane arriving, into the airport or into the port? The plane is
+arriving into the airport.
+
+To whom does the tourguide show the museum, children or adults? He  
+shows the museum to adults.
+When women travel, do they wear long dresses or jeans? They wear jeans.
+When people  arrive the restaurant, do they look at a menu or at a map of
+the city? They look at a menu.
+When people cross the street, does transport move or stop? Transport stops.
+What do tourists visit, museums or hospitals? They visit museums.
+When does a tourguide have more work, in the winter or in the summer? He
+usually has more work in the summer.
+96.6%
+** DONE lesson twenty seven
+CLOSED: [2016-07-12 Tue 04:48]
+:LOGBOOK:
+CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
+:END:
+holiday
+morning
+breakfast
+evening
+lunch
+dinner
+
+to eat lunch
+to give as a present
+to eat dinner
+to congratulate vt. 祝贺；恭喜；庆贺
+to eat dinner
+to celebrate
+sunny morning
+birthday
+present
+evening by the sea
+evening walk
+winter evening
+
+The man drinks coffee and reads the newspaper in the morning befor work.
+Cat also doesn't like to get up early in the morning very much.
+Adults do not like to get up early in the morning very much.
+Children and adults like presents very much.
+This is a business lunch.
+There are few cars on the streets at night.
+
+People eat dinner in the evening after work.
+The businesswoman is eating lunch on the bench in the park.
+The young husband and wife are eating lunch on the grass.
+People sleep at night.
+People eat breakfast in the morning.
+People eat lunch during the day.
+
+Dinner in a beautiful restaurant is a good way to relax after a working day.
+They bring presents for the bridegroom and bride.
+It is a big job to cook for a holiday.
+They bring presents on a birthday.
+There are many beautiful dishes on the holiday table.
+The birthday is a joyous holiday.
+
+The young man is giving the girl flowers.
+The young people are having a good time at the party.
+The young man is giving the girl a toy.
+A car is an expensive present.
+The adults are celebrating a wedding.
+The children are celebrating a birthday.
+
+The family is having dinner in the evening.
+The parents and their children are having breakfast in the morning.
+This girl is sad, because she is not celebrating her birthday.
+There is a lot of delicious food at the holiday table.
+The girl is celebrating her birthday.
+The parents and the children are having lunch during the day.
+
+Do people tan in the morning or in the evening? People tan in the morning.
+Do people eat breakfast or eat dinner in the morning? People eat breakfast in
+the morning.
+Do they usually drink orange juice for breakfast or for dinner? They usually
+drink orange juice for breakfast.
+Do children like to celebrate their birthday? Yes, they like to celebrate the
+holidays very much.
+Is a birthday a sad or a joyous holiday? A birthday is a joyous holiday.
+Do people sleep or eat lunch at night? People sleep at night.
+
+Do they eat meat for lunch? Yes, a lot of people eat meat for lunch.
+Do they eat eggs for breakfast or lunch? They usually eat eggs for breakfast.
+Do they drink wine for breakfast ? ,No,they drink wine for dinner and for lunch.
+Do the guests like the party? Yes, the guests like the party very much.
+Do they eat bread and butter for breakfast? Yes, they do.
+Do they eat cheese for breakfast? Yes, they do.
+97.4%
+** lesson twenty eight
+a view of the sea
+a cactus
+a forest
+a palm
+a desert
+a view of the mountains.
+
+a swan
+a seagull
+a squirrel
+a turtle
+a camel
+a parrot
+
+vegetables
+animals
+bad weather
+good weather
+plants
+fruits
+
+Cacuti grown in the desert.
+Many trees grown in the forest.
+This cactus grows in the window.
+This a view of the mountains covered with snow.
+Trees do not grow in the desert.'
+There is no water in the desert, only sand.
+
+The man is travelling across the desert on a camel. 
+A palm grows on the beach.
+There is a camel near the palm.
+The squirrel is eating on the park bench.
+A woman is feeding the squirrel from her hand.
+There is a beautiful green forest around the small lake.
+
+A turtel lives in the sea.
+This parrot lives in a house.
+A seagull flies above the sea.
+A parrot  also lives in the forest.
+A squirrel lives in a tree in the forest.
+A swan lives in the lake.
+
+A potato is a vegetable, not a fruit.
+A pear is a fruit, not a vegetable.
+Friuts grown on trees.
+An apple, an orange and a banana are all fruits.
+A cucumber and a tomato are vegetables.
+Vegetables and fruits are good food.
+
+Many animals live in the sea.
+Some animals live in a house.
+A cat is also an animal.
+A squirrel is an animal that lives in the forest.
+A dog is an animal.
+A camel is an animal that lives in the desert.
+
+A palm is a plant.
+Flowers are plants.
+Trees are plants.
+A cactus is a plant.
+There are many plants in the sea.
+There are very few plants in the desert.
+
+People do not like to walk in bad weather.
+This is a view of the city in bad weather.
+Sunny weather is good weather.
+Rainy weather is bad weather.
+This is a view of the sea in good weather.
+Both people and animals  like good weather.
+95.7%
+** lesson twenty nine 
+Who is drinking from the puddle? The horse.
+Who is singing and playing the guitar? The musicias.
+Who is waiting at the door? The dog.
+Who is carrying the flowers? The bride.
+Who is crying in bed? The child.
+Who is sitting on the pink stool? The young artist.
+
+Where is the man sitting? He is sitting in a large blue chair.
+Where does the turtle live? It lives in the sea.
+Where are the shirts? They are in the closet.
+Where is the child sitting? He is sitting on his father's houlders.
+Where are the dishes? They are in the tray.
+Where are the actors performaing? They are performaing in the park.
+
+How many palms are growing on the beach? There are two palms growing on the beach.
+How many windows are there in this room? There is one window in the room.
+How many legs does a giraffe have? A giraffe has four legs.
+How many people are in this photograph? There are three people in the photograph.
+How many dogs are playing in the park? There are two dogs in the park.
+How many chairs are around the table? There are five chairs around the table.
+
+What colour are the legs of this bird? They are pink.
+What colour are the flowers around the fountain? They are red and yellow.
+What colour is the grass at the stadium? It is green.
+What colour is the car on the mountain road? It is white.
+What colour is the train? It is blue.
+What colour is the girl's dress? It is violet.
+
+What is the boy eating? He is eating bread.
+What are the travellers looking at? They are looking at the mountains covered with snow.
+What is the man holding in his hand? He is holding a pair of glasses.
+What are the guests bringing? They are bringing presents.
+What are they selling in the shop? They are selling clothes here.
+What is the doctor putting on? She is putting on white gloves.
+
+What are the young people doing? They are dancing.
+What is the girl doing? She is drawing.
+What is the sportsman doing? He is jumping at the stadium.
+What is the boy doing? He is giving the woman a banana.
+What is the doctor doing? He is treating the patient.
+What are the tourists doing? They are taking photographs.
+
+Who is the grandfather hugging? He is hugging his granddaughter.
+When are the trees covered with snow? In the winter.
+Which bird has a long neck? A swan has a long neck.
+When are the leaves on the trees yellow? In the autumn.
+Who is the mother kissing? She is kissing her little son.
+Which animal has a very long neck? A giraffe has a very long neck.
+
+Is there a television in the kitchen? No, there is no television here.'
+Are there fruits on the table? No, there are no fruits here.
+Is there a bench near the house? Yes, there is a bench here.
+Is there a clock in the room? Yes, there is a clock here.
+Are there any spectators at the theatre? Yes, there are some spectators here.
+Is there food in the refrigerator? Yes, there is a lot of food here.
+
+Is this a street in the city or a road in the countryside? This is a road in the countryside.
+Is this an artist or a musician? This is an artist.
+Are people swimming in the river or in the sea? They are swimming in the sea.
+Is the person working or relaxing? He is relaxing.
+Is the child on the floor or on the sofa? The child is on  the floor.
+Is the child laughing or crying? He is laughing.
+
+These are swans on the ice. They are white and grey. Swans are very beautiful birds.
+This man is an artist. There are many paintings around him. On the paintings are views of the cities.
+This is a square in a big city. There are groups of tourtists on the square. There are many beautiful buildings around the square.
+This ia s train car. A policeman in a grey cap and blue shirt is sitting in the train car. He is sleeping.
+This is the city beach. The beach is near a bridge. Young people are playing on
+the beach.
+The young woman is sitting on the beach. There is good sunny weather at the sea.
+The woman is playing with sand.
+96.9%
