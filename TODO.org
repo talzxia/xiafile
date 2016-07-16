@@ -1,0 +1,29 @@
+
+** DONE dkkdkdk
+CLOSED: [2016-07-15 Fri 19:44] SCHEDULED: <2016-07-15 Fri 20:00>
+
+** TODO 记笔记 
+SCHEDULED: <2016-07-15 Fri 20:30-21:00>
+* Todos
+** DONE zilongshanren 配置手动运行实践      <2016-07-16 Sat 11:01>
+CLOSED: [2016-07-16 Sat 11:14]
+:LOGBOOK:
+CLOCK: [2016-07-16 Sat 11:03]--[2016-07-16 Sat 11:14] =>  0:11
+:END:
+ 
+ Link: file:~/xiafile/xiafile/workdiary.org::*
+** DONE learn English       <2016-07-16 Sat 11:14>
+CLOSED: [2016-07-16 Sat 11:49]
+:LOGBOOK:
+CLOCK: [2016-07-16 Sat 11:16]--[2016-07-16 Sat 11:41] =>  0:25
+:END: 
+学习一小节 
+ Link: file:~/xiafile/xiafile/TODO.org::*zilongshanren%20%E9%85%8D%E7%BD%AE%E6%89%8B%E5%8A%A8%E8%BF%90%E8%A1%8C%E5%AE%9E%E8%B7%B5%20<2016-07-16%20Sat%2011:01>
+** TODO  read Emacs menu     <2016-07-16 Sat 11:56>
+:LOGBOOK:
+CLOCK: [2016-07-16 Sat 11:57]--[2016-07-16 Sat 12:22] =>  0:25
+:END:
+ 
+ Link: file:~/xiafile/xiafile/TODO.org::*learn%20English%20<2016-07-16%20Sat%2011:14>
+
+* *zilongshanren 配置手动运行实践 

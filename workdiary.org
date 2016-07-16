@@ -10,7 +10,17 @@
 **** 时间管理 http://blog.csdn.net/lujun9972/article/details/46002771
 **** 
 *** 视频
-**** Spacemac;; -*- mode: emacs-lisp -*-
+**** Spacemac;; -*- mode2: emacs-lisp -*泰山职业技术学
+泰山职业技术学院
+泰山职业技术学院，行尾加字。
+后面加入一行或字。
+泰山职业技术学院，信息技术工程系。夏乐斋
+
+前面插入一行
+精细培养，个性发展。愉快、高效、协同、共享。
+后面插入一行。
+
+-
 
 
 
@@ -19,8 +29,28 @@ s Rocks 第二季 http://book.emacs-china.org
 CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
 :END: pattern: 记
 **** Emacs 注释
- Org-mode 支持创建注脚. 与'footnote.el'包相反,Org-mode 中的
-注脚功能是专门设计在大型文档来使用的,而不仅仅是用在类型 email 这样的一次性文件上的. o-rg-mode 中注脚的基本语法类似于'footnote.el'中的语法,即,要在段落中定义一个注脚
+ Org-mode 支持创建注脚. 与'泰山职业技术学
+泰山职业技术学院
+泰山职业技术学院，行尾加字。
+后面加入一行或字。
+泰山职业技术学院，信息技术工程系。夏乐斋
+
+前面插入一行
+精细培养，个性发展。愉快、高效、协同、共享。
+后面插入一行。
+
+footnote.el'包相反,Org-mode 中的
+注脚功能是专门设计在大型文档来使用的,而不仅仅是用在类型 emai 泰山职业技术学
+泰山职业技术学院
+泰山职业技术学院，行尾加字。
+后面加入一行或字。
+泰山职业技术学院，信息技术工程系。夏乐斋
+
+前面插入一行
+精细培养，个性发展。愉快、高效、协同、共享。
+后面插入一行。
+
+l 这样的一次性文件上的. o-rg-mode 中注脚的基本语法类似于'footnote.el'中的语法,即,要在段落中定义一个注脚
 ,它需要顶格(不能有缩进)以方括号作为注脚的标记. 如果你需要在注脚内分段,使用 LaTeX 语法'\par'. 要定义注脚引用,只需要简单的在文本中用方括号做一个标记. 例如
    #+BEGIN_SRC org
      ,The Org homepage[fn:1] now looks a lot better than it used to.
@@ -5002,7 +5032,7 @@ CLOCK: [2016-07-10 Sun 21:17]--[2016-07-10 Sun 21:42] =>  0:25
 CLOCK: [2016-07-10 Sun 19:52]--[2016-07-10 Sun 20:17] =>  0:25
 :END:
 ** <2016-07-11 Mon 04:19>到达办公室开始学习工作                   :@Office:
-DEADLINE: <1970-08-06 Thu> SCHEDULED: <2020-08-04 Tue>
+DEADLINE: <1970-08-06 Thu> SCHEDULED: <2016-08-04 Tue>
 - 1:06:22 :: *** DONE lesson twenty six  
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2016-07-11 Mon 05:35]
@@ -5223,12 +5253,20 @@ CLOCK: [2016-07-13 Wed 15:25]--[2016-07-13 Wed 18:06] =>  2:41
 
 *** 电话机环了，报办公室王孝合 
 *** 今天学习 emacs 收获大。
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2016-07-15 Fri 10:23]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
 *** DONE lesson twenty nine
 CLOSED: [2016-07-14 Thu 04:25]
 :LOGBOOK:
 CLOCK: [2016-07-13 Wed 18:53]--[2016-07-14 Thu 04:25] =>  9:32
 :END:
-** TODO <2016-07-14 Thu 04:25> 开始学习与工作                     :@Office:
+** DONE <2016-07-14 Thu 04:25> 开始学习与工作                     :@Office:
+CLOSED: [2016-07-14 Thu 21:56]
 :LOGBOOK:
 CLOCK: [2016-07-14 Thu 04:27]--[2016-07-14 Thu 04:28] =>  0:01
 :END:
@@ -5244,16 +5282,107 @@ CLOCK: [2016-07-14 Thu 05:57]--[2016-07-14 Thu 06:44] =>  0:47
 :END:
 *** DONE go home and will eat breakfast<2016-07-14 Thu 06:45>     :@Office:
 CLOSED: [2016-07-14 Thu 06:45]
+*** DONE listen twenty nine<2016-07-14 Thu 07:50>  
+CLOSED: [2016-07-14 Thu 08:30]
+:LOGBOOK:
+CLOCK: [2016-07-14 Thu 08:02]--[2016-07-14 Thu 08:30] =>  0:28
+:END:
+*** DONE 9:30 出发接孩子
+CLOSED: [2016-07-14 Thu 21:08]
+:LOGBOOK:
+CLOCK: [2016-07-14 Thu 08:31]--[2016-07-14 Thu 19:20] => 10:49
+:END:
+*** DONE lesson thirty 
+CLOSED: [2016-07-14 Thu 20:10]
+:LOGBOOK:
+CLOCK: [2016-07-14 Thu 20:08]--[2016-07-14 Thu 21:10] =>  1:02
+:END:
+** TODO <2016-07-15 Fri 03:47> 开始学习与工作 
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 03:49]--[2016-07-15 Fri 05:33] =>  1:44
+:END:
+*** TODO first learn English<2016-07-17 Sun 04:00-05:30 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-15 Fri 05:34]
+:END:
+- State "DONE"       from "TODO"       [2016-07-15 Fri 05:34]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 05:33]
+**** DONE lesson thirty
+CLOSED: [2016-07-15 Fri 16:12]
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 13:54]--[2016-07-15 Fri 16:12] =>  2:18
+:END:
+*** DONE relaxing and brow and listening music
+CLOSED: [2016-07-15 Fri 06:12]
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 05:37]--[2016-07-15 Fri 06:11] =>  0:34
+:END:
+*** DONE 2016 届毕业典礼 <2016-07-15 Fri 08:30>  
+CLOSED: [2016-07-15 Fri 09:36]
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 08:35]--[2016-07-15 Fri 09:30] =>  0:55
+:END:
+张小叶副院长主持
+学生发言
+教师李倩发言
+马副院长代院长致词
+*** TODO second test spacemacs<2016-07-15 Fri +1d> 
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 09:42]
+:END:
+*** TODO third learn spacemacs tutor<2016-07-21 Thu +1d> 
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-15 Fri 18:43]
+:END:
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+- State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
+**** DONE lesson six 
+CLOSED: [2016-07-15 Fri 16:46]
+:LOGBOOK:
+CLOCK: [2016-07-15 Fri 16:14]--[2016-07-15 Fri 16:46] =>  0:32
+:END:
+Lesson 6 SUMMARY
+M-u word change capital
+
+1. Type o opens a line BELOW the cursor and places the cursor on the open line
+   in insert state.
+Typeing a capital O opens the line ABOVE the line the cursor is on.
+
+2. Type an a to insert text AFTER the character the cursor is on.
+Typeing a capital A automatically appends text to the end of the line.aaaa
+
+3. Typeing a capital R enters Replace mode until <QSC> is pressed to exit.
 
 
+*** TODO listen English and notes the times and 内容<2016-07-17 Sun +1d> 
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-15 Fri 20:44]
+:END:
+- State "DONE"       from "TODO"       [2016-07-15 Fri 20:44]
+*** TODO writing keep 30 minutes more<2016-07-15 Fri +1d> 
+*** TODO review and think<2016-07-16 Sat>--<2016-07-17 Sun +1d>  
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-15 Fri 20:44]
+:END:
+- State "DONE"       from "TODO"       [2016-07-15 Fri 20:44]
+*** review and think 
+** <2016-07-16 Sat 04:42>到达办公室开始学习工作
+*** DONE learn English and write
+CLOSED: [2016-07-16 Sat 06:04]
+:LOGBOOK:
+CLOCK: [2016-07-16 Sat 04:45]--[2016-07-16 Sat 06:11] =>  1:26
+:END:
+*** DONE brow and learn emac<2016-07-16 Sat>s
+DEADLINE: <2016-07-16 Sat 06:50> SCHEDULED: <2016-07-16 Sat 06:04>
 
+*** DONE 清理清扫朗读《道德经》<2016-07-16 Sat 07:09> 
+CLOSED: [2016-07-16 Sat 07:09]
 
-
-
-
-
-
-
+***   
 * Blog 匈牙利命名法  
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2016-07-11 Mon 10:45]
@@ -5289,6 +5418,8 @@ C-c C-x A
 CLOSED: [2016-07-12 Tue 11:47]
 ** Archive                              :ARCHIVE:  
 *** TODO 匈牙利命名法  
+:PROPERTIES:
+:END:
 CLOCK: [2016-06-22 Wed 08:52]--[2016-06-22 Wed 09:37] =>  0:45
     :PROPERTIES:  
     :ARCHIVE_TIME: 2010-01-02 六 18:14  
