@@ -3372,8 +3372,8 @@ The Org homepage[fn:1]. now looks a lot better than it used to.
 - State "DONE"       from ""           [2016-06-10 Fri 20:52]
 **** DONE learning emacs org mode
 CLOSED: [2016-06-10 Fri 21:04]
-***** 截止时间
-DEADLINE: <2016-07-15 Fri>
+***** DONE 截止时间
+CLOSED: [2016-07-18 Mon 09:20] DEADLINE: <2016-07-15 Fri>
 :PROPERTIES:
 :ID:       A601C735-DDCA-4AE0-8A23-587405318EFA
 :END:
@@ -4516,10 +4516,10 @@ CLOCK: [2016-06-29 Wed 05:38]--[2016-06-29 Wed 06:25] =>  0:47
   fridge 冰箱
   refrigerator 冰箱，冷藏库
 - State "TODO"       from ""           [2016-07-01 Fri 04:38]
-**** listen music and brows news
-DEADLINE: <2016-07-01 Fri 06:42>
-**** 跳读《道德经》10 小节
-DEADLINE: <2016-07-01 Fri 06:49>
+**** DONE listen music and brows news
+CLOSED: [2016-07-18 Mon 09:17]
+**** DONE 跳读《道德经》10 小节
+CLOSED: [2016-07-18 Mon 09:17] DEADLINE: <2016-07-01 Fri 06:49>
 *** morning 8-12
 **** <2016-07-01 Fri 08:06>到达办公室开始学习工作
 ***** learn Engish
@@ -4862,7 +4862,8 @@ CLOSED: [2016-07-05 Tue 20:56]
 CLOCK: [2016-07-05 Tue 20:34]--[2016-07-05 Tue 20:56] =>  0:22
 :END:
 96.2%
-***** TODO 练习光标移动
+***** DONE 练习光标移动
+CLOSED: [2016-07-17 Sun 15:44]
 泰山职业技术学院
 泰山职业技术学院
 ** <2016-07-06 Wed 04:46>到办公室开始一天工作学习
@@ -4918,7 +4919,8 @@ CLOSED: [2016-07-06 Wed 17:51]
 ***** DONE lesson twenty
 CLOSED: [2016-07-07 Thu 05:06]
  
-**** TODO relax back ache
+**** DONE relax back ache
+CLOSED: [2016-07-17 Sun 15:44]
 :LOGBOOK:
 CLOCK: [2016-07-07 Thu 05:11]--[2016-07-07 Thu 05:36] =>  0:25
 :END:
@@ -4966,7 +4968,8 @@ CLOSED: [2016-07-08 Fri 17:17]
 **** learn English
   ***** DONE lesson twenty three
 CLOSED: [2016-07-09 Sat 04:35]
-**** TODO relax and listening music
+**** DONE relax and listening music
+CLOSED: [2016-07-17 Sun 15:43]
 
 泰山医学院信息学院张兆臣院长亲自带领申报团队一行六人
 **** DONE 回家吃饭: 
@@ -4991,8 +4994,8 @@ clors
  
 computer and keyboard
 keyboard and mouse
-** <2016-07-10 Sun 05:05>到达办公室开始学习工作
-DEADLINE: <2016-07-10 Sun 05:05>
+** DONE <2016-07-10 Sun 05:05>到达办公室开始学习工作
+CLOSED: [2016-07-18 Mon 09:18] DEADLINE: <2016-07-10 Sun 05:05>
 *** learn Engilish
 **** lesson twenty four
 *** DONE 配置 emacs 并学习时间管理
@@ -5007,7 +5010,8 @@ CLOSED: [2016-07-10 Sun 12:03]
 :LOGBOOK:
 CLOCK: [2016-07-10 Sun 11:58]--[2016-07-10 Sun 12:02] =>  0:04
 :END:
-*** TODO  阅读学习 
+*** DONE 阅读学习 
+CLOSED: [2016-07-17 Sun 15:43]
 *** DONE 快速阅读 Emacs 文档  
 CLOSED: [2016-07-10 日 16:26]
 :LOGBOOK:
@@ -5023,7 +5027,7 @@ CLOSED: [2016-07-12 Tue 11:47]
 :LOGBOOK:
 CLOCK: [2016-07-11 Mon 10:55]--[2016-07-11 Mon 10:55] =>  0:00
 CLOCK: [2016-07-11 Mon 09:52]--[2016-07-11 Mon 09:53] =>  0:01
-CLOCK: [2016-07-10 日 17:44]
+CLOCK: [2016-07-10 日 17:44] 
 :END:
 *** DONE learn English 
 CLOSED: [2016-07-10 Sun 21:14]
@@ -5031,9 +5035,8 @@ CLOSED: [2016-07-10 Sun 21:14]
 CLOCK: [2016-07-10 Sun 21:17]--[2016-07-10 Sun 21:42] =>  0:25
 CLOCK: [2016-07-10 Sun 19:52]--[2016-07-10 Sun 20:17] =>  0:25
 :END:
-** <2016-07-11 Mon 04:19>到达办公室开始学习工作                   :@Office:
-DEADLINE: <1970-08-06 Thu> SCHEDULED: <2016-08-04 Tue>
-- 1:06:22 :: *** DONE lesson twenty six  
+** <2016-07-11 Mon 04:19>到达办公室开始学习工作                   :  
+*** DONE lesson twenty six
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2016-07-11 Mon 05:35]
 | Headline     | Time   |
@@ -5145,7 +5148,7 @@ CLOSED: [2016-07-12 Tue 11:46]
 *** DONE 到达办公室开始学习工作   <2016-07-12 Tue 14:32>                                :@Office:
 CLOSED: [2016-07-12 Tue 14:27]
 :LOGBOOK:
-CLOCK: [2016-07-12 Tue 14:28]
+CLOCK: [2016-07-18 Mon 05:58]--[2016-07-18 Mon 05:59] =>  0:01
 :END:
 
 *** DONE 安装 prucell emacs 配置并试用
@@ -5184,8 +5187,8 @@ CLOCK: [2016-07-12 Tue 15:33]--[2016-07-12 Tue 15:50] =>  0:17
 |--------------+--------|
 | *Total time* | *0:00* |
 #+END:
-*** 开始学习与工作
-DEADLINE: <2016-07-12 Tue 20:16>
+*** DONE 开始学习与工作
+CLOSED: [2016-07-18 Mon 09:19] DEADLINE: <2016-07-12 Tue 20:16>
 :LOGBOOK:  
 CLOCK: [2016-07-12 Tue 20:16]--[2016-07-12 Tue 20:33] =>  0:17
 :END:    
@@ -5297,14 +5300,19 @@ CLOSED: [2016-07-14 Thu 20:10]
 :LOGBOOK:
 CLOCK: [2016-07-14 Thu 20:08]--[2016-07-14 Thu 21:10] =>  1:02
 :END:
-** TODO <2016-07-15 Fri 03:47> 开始学习与工作 
+** DONE <2016-07-15 Fri 03:47> 开始学习与工作 
+CLOSED: [2016-07-17 Sun 15:43]
 :LOGBOOK:
 CLOCK: [2016-07-15 Fri 03:49]--[2016-07-15 Fri 05:33] =>  1:44
 :END:
-*** TODO first learn English<2016-07-17 Sun 04:00-05:30 +1d>
+*** TODO first learn English<2016-07-21 Thu 04:00-05:30 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-07-15 Fri 05:34]
+:LAST_REPEAT: [2016-07-20 Wed 03:39]
 :END:
+- State "DONE"       from "TODO"       [2016-07-20 Wed 03:39]
+- State "DONE"       from "TODO"       [2016-07-19 Tue 05:57]
+- State "DONE"       from "TODO"       [2016-07-17 Sun 15:43]
+- State "DONE"       from "TODO"       [2016-07-17 Sun 06:38]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 05:34]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 05:33]
 **** DONE lesson thirty
@@ -5326,14 +5334,17 @@ CLOCK: [2016-07-15 Fri 08:35]--[2016-07-15 Fri 09:30] =>  0:55
 学生发言
 教师李倩发言
 马副院长代院长致词
-*** TODO second test spacemacs<2016-07-15 Fri +1d> 
-:LOGBOOK:
-CLOCK: [2016-07-15 Fri 09:42]
-:END:
-*** TODO third learn spacemacs tutor<2016-07-21 Thu +1d> 
+*** TODO second test spacemacs<2016-07-17 Sun +1d> 
 :PROPERTIES:
-:LAST_REPEAT: [2016-07-15 Fri 18:43]
+:LAST_REPEAT: [2016-07-19 Tue 11:52]
 :END:
+- State "DONE"       from "TODO"       [2016-07-19 Tue 11:52]
+- State "DONE"       from "TODO"       [2016-07-18 Mon 10:15]
+*** TODO third learn spacemacs tutor<2016-07-22 Fri +1d> 
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-18 Mon 10:15]
+:END:
+- State "DONE"       from "TODO"       [2016-07-18 Mon 10:15]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
@@ -5358,12 +5369,18 @@ Typeing a capital A automatically appends text to the end of the line.aaaa
 3. Typeing a capital R enters Replace mode until <QSC> is pressed to exit.
 
 
-*** TODO listen English and notes the times and 内容<2016-07-17 Sun +1d> 
+*** TODO listen English and notes the times and 内容<2016-07-19 Tue +1d> 
 :PROPERTIES:
-:LAST_REPEAT: [2016-07-15 Fri 20:44]
+:LAST_REPEAT: [2016-07-17 Sun 20:29]
 :END:
+- State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
+- State "DONE"       from "TODO"       [2016-07-17 Sun 15:44]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 20:44]
-*** TODO writing keep 30 minutes more<2016-07-15 Fri +1d> 
+*** TODO writing keep 30 minutes more<2016-07-16 Sat +1d> 
+:PROPERTIES:
+:LAST_REPEAT: [2016-07-17 Sun 20:29]
+:END:
+- State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
 *** TODO review and think<2016-07-16 Sat>--<2016-07-17 Sun +1d>  
 :PROPERTIES:
 :LAST_REPEAT: [2016-07-15 Fri 20:44]

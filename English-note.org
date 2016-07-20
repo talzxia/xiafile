@@ -909,6 +909,7 @@ The photographer has interesting work.
 95.9%
 ** DONE lesson twenty three 
 CLOSED: [2016-07-09 Sat 04:35]
+*** text
 countryside
 a statue
 traffice jam
@@ -1082,9 +1083,26 @@ Who is standing on the bredge? There is a family standing on the bridge.
 Where are there many tall buildings? There are many tall buildings in the city.
 There is a traffic jam on the bridge? Yes, there is a traffic jam on the bridge.
 Where is the statue? The statue is on the square.
+*** words
+**** traffic jam
+英   美
+交通阻塞，塞车
+N-COUNT A traffic jam is a long line of vehicles that cannot move forward because there is too much traffic, or because the road is blocked by something. 交通堵塞
+例：
+In some cities this morning, there were traffic jams up to 40 miles long.
+今晨在某些城市，出现了最长 40 英里的交通堵塞。
+Maybe he in the traffic jam.
+他可能遇上交通阻塞了。 
+www.hxen.com
+There is a traffic jam.
+交通阻塞。 
+They detoured around the traffic jam by heading south.
+他们朝南绕过交通拥挤的人群。
+97.9%
 98.1%
 ** DONE twenty four 
    DEADLINE: <2016-07-10 Sun 05:56>
+*** text
 underground
 a plane b 
 a ship
@@ -1155,8 +1173,99 @@ Are these tow elderly women walking quickly? No, they are walking very slowly.
 Do the cars move when there is a red light? No, they stop.
 Are there many cars in this parking lot? No, there are many bikes here.
 96.6%
+*** words
+**** transport
+美  ['trænspɔrt]
+n. 运输；运输机；狂喜；流放犯
+vt. 运输；流放；使狂喜
+1. V-T To transport people or goods somewhere is to take them from one place to another in a vehicle. 运送
+例：
+They are banned from launching any flights except to transport people.
+他们被禁止飞行任何航班，运送人除外。
+N-UNCOUNT Transport refers to any vehicle that you can travel in or carry goods in. 交通工具
+N-UNCOUNT Transport is a system for taking people or goods from one place to another, for example, using buses or trains. 交通运输系统
+N-UNCOUNT Transport is the activity of taking goods or people from one place to another in a vehicle. 运输
+passenger transport 客运
+public transport 公交车
+transport system 运输系统；传输系统
+air transport 航空运输
+container transport 集装箱运输
+Meanwhile we must do a good job in transport and communications.
+同时我们要搞好交通运输工作。 
+**** vehicle
+英  [ˈviːɪk(ə)l]   美  ['viːɪkl]
+n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物
+
+vehicle /ˈviːɪkəl/  CET4 TEM4
+N-COUNT A vehicle is a machine with an engine, such as a bus, car, or truck, that carries people or things from place to place. 机动车辆
+例：
+...a vehicle that was somewhere between a tractor and a truck.
+…一辆介于拖拉机和卡车之间的机动车。
+N-COUNT You can use vehicle to refer to something that you use in order to achieve a particular purpose. 媒介
+例：
+Her art became a vehicle for her political beliefs.
+她的艺术成了她政治信仰的媒介。
+Solar vehicle 太阳能车
+towing vehicle 牵引车
+towing vehicle 全挂牵引汽车
+towing vehicle 牵引汽车
+towing vehicle 牵引拖车
+  更多结果
+词组短语 同近义词
+
+motor vehicle 汽车；机动车辆
+electric vehicle 电动车辆
+vehicle maintenance 汽车维护，车辆保养
+commercial vehicle 商用车辆
+launch vehicle 运载火箭
+**** means
+英  [miːnz]   美  [minz]
+n. 手段；方法；财产
+v. 意思是；打算（mean 的第三人称单数） [ 复数 means ]
+means /miːnz/  CET4 TEM4
+N-COUNT A means of doing something is a method, instrument, or process which can be used to do it. Means is both the singular and the plural form for this use. 方法; 手段; 过程
+例：
+The move is a means to fight crime.
+这个行动是打击犯罪的一种手段。
+例：
+The army had perfected the use of terror as a means of controlling the population.
+军队已经能很好地利用恐怖手段来控制这里的人们。
+N-PLURAL You can refer to the money that someone has as their means. 财富
+例：
+...a person of means.
+…一个富有的人。
+PHRASE If you do something by means of a particular method, instrument, or process, you do it using that method, instrument, or process. 通过 (方法、手段或过程)
+例：
+This is a two-year course taught by means of lectures and seminars.
+这是一门通过讲座和研讨会形式讲授的两年制课程。
+CONVENTION You can say "by all means" to tell someone that you are very willing to allow them to do something. 当然可以
+例：
+"Can I come and have a look at your house?"—"Yes, by all means."
+“我能过来看看你的房子吗？”—“可以，当然可以。”
+网络释义 专业释义 英英释义
+
+ 手段
+ 方法
+ 意为
+ 工具
+短语
+means test 经济状况调查
+means test 经济状况审查
+means test 经济状况评审
+means test 收入测试
+this means 这意味着
+  更多结果
+词组短语 同近义词
+
+by means of 用，依靠
+means of production 生产资料；生产手段；生产工具
+means of transport 运输工具
+means of communication 通信手段
+means of transportation 交通设施
+96.5%
 ** DONE twenty  five 
 CLOSED: [2016-07-10 Sun 21:12]
+*** text
 a sun 
 the sea 
 the mountains
@@ -1227,8 +1336,11 @@ Is the waiter relaxing? No, he is working. The young people at the table are rel
 Is the blue-green seawater in the sun beautiful? Yes, it is very beautiful.
 Is the child working? No, he can't work. He is still very small.
 96.7%
+*** words
+
 ** DONE twenty six
 DEADLINE: <2016-07-11 Mon 10:43>
+*** text
 a tour guide
 a group 
 a street
@@ -1306,6 +1418,121 @@ What do tourists visit, museums or hospitals? They visit museums.
 When does a tourguide have more work, in the winter or in the summer? He
 usually has more work in the summer.
 96.6%
+*** word
+**** tourist
+['tʊərɪst] 美  ['tʊrɪst]
+n. 旅行者，观光客
+adj. 旅游的
+vt. 在旅行参观
+vi. 旅游；观光
+adv. 坐旅游车厢；坐经济舱
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
+
+tourist /ˈtʊərɪst/  CET4 TEM4
+N-COUNT A tourist is a person who is visiting a place for pleasure and interest, especially when they are on holiday. 游客
+例：
+...a tourist attraction.
+…一处旅游景点。
+**** tourguide
+导游
+tourguide word 导游词
+**** adults
+英  [ˈædʌlts]   美  [ə'dʌlts]
+n. 成年人（adult 的复数形式）
+N-COUNT An adult is a mature, fully developed person. An adult has reached the age when they are legally responsible for their actions. 成年人
+例：
+Becoming a father signified that he was now an adult.
+成为一名父亲意味着他现在是一个成年人了。
+N-COUNT An adult is a fully developed animal. 成年动物
+例：
+...a pair of adult birds.
+…一对成鸟。
+ADJ Adult means relating to the time when you are an adult, or typical of adult people. 成年人的
+例：
+I've lived most of my adult life in Arizona.
+我已在亚利桑那州度过了我大部分的成年生活。
+ADJ You can describe things such as films or books as adult when they deal with sex in a very clear and open way. (电影、书籍等) 只适合成人的
+例：
+...an adult film.
+…一部成人电影。
+网络释义 专业释义 英英释义
+
+ 成年人
+ 成人
+ 成虫
+ 大人
+短语
+young adults 青少年
+young adults 年轻人
+young adults 年轻的成年人
+young adults 青壮年
+Adults Only 禁止未成年人进入
+  更多结果
+词组短语
+
+adult education 成人教育
+young adult 年轻人；大学生
+adult population 成年人口
+adult learning 成人学习
+mature adult 成熟的成年人
+
+95.8%aa
+**** port
+英  [pɔːt]  美  [pɔrt]
+n. 港口，口岸；（计算机的）端口；左舷；舱门
+vi. 转向左舷
+vt. 持（枪）；左转舵
+n. (Port)人名；(英)波特；(法)波尔；(德、俄、匈、捷)波尔特
+1. N-count A port is a town by the sea or on a river that has a harbour.
+港口城市
+2. N-count A port is a harbour area where ships load and unload goods or
+   passengers.
+港口 
+3. A port on a computer is a place where you can attach another piece of
+   equipment such as printer.
+端口
+4. V 
+to chenge(programs)from one system to another
+改变（系统程序）
+5. ADJ 
+In sailing, the port side of a ship is the left side when you are on it and
+facing toward the front.
+（轮船）左舷的
+6. N
+Port is also a noun. 左舷
+7. v to turn or be turned towards the port 
+转向左舷
+8. N 
+Port is a type of strong, sweet red wine
+波尔特（葡萄酒）
+He asked for a glass of port after dinner.
+9. 持枪姿势
+10. N 
+a suitcase or school case 
+(尤指昆士兰的）皮箱；书包
+at the port 作持枪的姿势
+in port 在港内
+serial port [计]串行端口；序列埠
+port city n. 港口城市
+port area 码头区；港口区；喷口面积
+**** beach
+[biːtʃ]  美  [bitʃ]
+n. 海滩；湖滨
+vt. 将…拖上岸
+vi. 搁浅；定居
+n. (Beach)人名；(英)比奇
+1. N-COUNT A beach is an area of sand or stones beside the ocean. 海滩
+例：
+...a beautiful sandy beach.
+…一片美丽的沙滩。
+V-T/V-I If something such as a boat beaches, or if it is beached, it is pulled or forced out of the water and onto land. 使上岸; 上岸
+例：
+We beached the canoe, running it right up the bank.
+我们把独木舟拖上了海滩，直朝堤岸拖去。
+例：
+The boat beached on a mud flat.
+船在泥沼上搁浅了。
+96.2%
 ** DONE lesson twenty seven
 CLOSED: [2016-07-12 Tue 04:48]
 :LOGBOOK:
@@ -1384,6 +1611,7 @@ Do they eat bread and butter for breakfast? Yes, they do.
 Do they eat cheese for breakfast? Yes, they do.
 97.4%
 ** lesson twenty eight
+*** text
 a view of the sea
 a cactus
 a forest
@@ -1454,7 +1682,106 @@ Rainy weather is bad weather.
 This is a view of the sea in good weather.
 Both people and animals  like good weather.
 95.7%
+*** workds
+**** mountain
+n.山；山脉
+A mountain is a very high area of land whith steep sides
+**** forest
+A forest is a large area where trees grow close together.
+**** palm
+英  [pɑːm]   美  [pɑm]
+n. 手掌；棕榈树；掌状物
+vt. 将…藏于掌中
+n. (Palm)人名；(英)帕姆；(瑞典)帕尔姆；(法、德、俄、捷、芬、挪)帕尔姆
+1.N-count 
+A palm or a palm tree is a tree that grows in hot countruies. It has long leaves
+growing at the top, and no branches.
+
+2.N-COUNT The palm of your hand is the inside part of your hand, between your fingers and your wrist. 手掌
+例：
+Dornberg slapped the table with the palm of his hand.
+多恩伯格用他的手掌拍了一下桌子。
+3.V to conceal in or about the hand, as in sleight-of-hand tricks 把···藏在手中
+PHRASE If you have someone or something in the palm of your hand, you have control over them. 在 (某人的) 掌控之中
+例：
+Johnson thought he had the board of directors in the palm of his hand.
+约翰逊以为他已把董事会控制在他的掌中。
+palm oil n. 棕榈油
+bear the palm 获奖；获胜
+palm tree 棕榈树
+palm springs 棕榈泉（美国加州）
+palm beach 棕榈滩（位于美国佛罗里达州东南部）
+1. A bird settled on his palm.
+一只鸟停落在他的手掌上。
+1. I kissed his palm
+**** cactus
+美  ['kæktəs]
+n. [园艺] 仙人掌
+A cactus is a thick, fleshy plant that grows in many hot,dry parts of the world.
+Cacti have no leaves and many of them are covered in prickles.
+**** camel
+英  ['kæm(ə)l]   美  ['kæml]
+n. [畜牧][脊椎] 骆驼；打捞浮筒；工作作风官僚
+adj. 驼色的；暗棕色的
+vi. 工作刻板平庸
+n. (Camel)人名；(法)卡梅尔；(阿拉伯)卡迈勒
+A camel is a large animal that lives in deserts and is used for carrying goods
+and people. Camels have long necks and one or two lmmps on their backs called
+humps.
+**** swan
+英  [swɒn] 美  [swɑn]
+n. 天鹅；天鹅星座
+vi. 游荡，闲荡
+n. (Swan)人名；(英、芬、德)斯旺
+N-COUNT A swan is a large bird with a very long neck. Swans live on rivers and lakes and are usually white. 天鹅
+black swan 黑天鹅；珍品
+swan song 绝笔，最后的作品；天鹅临死时的叫声
+swan hotel 天鹅大酒店
+swan goose n. 鸿雁，鹅雁
+trumpeter swan [鸟]喇叭天鹅
+Toads pursuit of swans, swan disdain said: If I as long as you die!
+癞蛤蟆追求天鹅，天鹅不屑地说：我要是长成你这样早去死了！ 
+**** seagull
+N-COUNT A seagull is a common kind of bird with white or grey feathers. 海鸥
+**** squirrel
+N-COUNT A squirrel is a small animal with a long furry tail. Squirrels live mainly in trees. 松鼠
+**** parrot
+英  ['pærət] 美  ['pærət]
+n. 鹦鹉；学舌者，应声虫；机械模仿别人的人
+vt. 机械地模仿
+1. I like a parrot.
+2. He talks like a parrot and just repeat what he heard.
+3. Generations of students have learned to parrot the standard explanations.
+**** fruit
+英  [fruːt]  美  [frut]
+n. 水果；产物
+vi. 结果实
+vt. 使……结果实
+N-VAR Fruit or a fruit is something which grows on a tree or bush and which contains seeds or a pit covered by a substance that you can eat. 水果
+例：
+Fresh fruit and vegetables provide fibre and vitamins.
+新鲜的水果和蔬菜提供纤维素和多种维生素。
+例：
+...bananas and other tropical fruits.
+…香蕉和其他热带水果。
+V-I If a plant fruits, it produces fruit. 结果实
+例：
+The scientists will study the variety of trees and observe which are fruiting.
+科学家们将研究树木的多样性并观察哪些树木结果实。
+N-COUNT Thefruits or the fruit of someone's work or activity are the good things that result from it. 成果
+例：
+The team has really worked hard and Mansell is enjoying the fruits of that labour.
+那个团队真地已很努力，而曼塞尔正在享受这一劳动的成果。
+→ see also kiwi fruit
+PHRASE If the effort that you put into something or a particular way of doing something bears fruit, it is successful and produces good results. (付出的努力) 有成效
+例：
+Eleanor's work among the women will, I trust, bear fruit.
+埃莉诺在这些妇女中所做的工作我相信会有成效。
+96.5 %
+
+
 ** lesson twenty nine 
+*** text
 Who is drinking from the puddle? The horse.
 Who is singing and playing the guitar? The musicias.
 Who is waiting at the door? The dog.
@@ -1527,6 +1854,249 @@ the beach.
 The young woman is sitting on the beach. There is good sunny weather at the sea.
 The woman is playing with sand.
 96.9%
+*** word <2016-07-18 Mon> 
+**** puddle
+n. 水坑，泥潭；胶土（由粘土与水和成，不透水）
+vt. 使泥泞，搅浑；把…捣制成胶土；搅炼；用胶土填塞
+vi. 搅泥浆；在水坑中嬉戏
+N-COUNT A puddle is a small, shallow pool of liquid that has spread on the ground. 水坑
+例：
+The road was shiny with puddles, but the rain was at an end.
+路上尽是明晃晃的水坑，但雨已经停了。
+
+The children always puddle about after a rain.
+Who is drinking from the puddle? The horse.
+**** carry
+vt. 拿，扛；携带；支持；搬运
+vi. 能达到；被携带；被搬运
+n. 运载；[计] 进位；射程
+n. (Carry)人名；(英)卡里
+1.v-t If you carry something, you take it with you, holding it so taht it does
+not touch the ground.
+提，抱。
+He was carrying a briefcase.
+briefcase /ˈbriːfˌkeɪs/  CET4 TEM4
+N-COUNT A briefcase is a case used for carrying documents in. 公文包
+**** artist
+美  ['ɑrtɪst]
+n. 艺术家；美术家（尤指画家）；大师
+1.N-COUNT An artist is someone who draws or paints pictures or creates sculptures as a job or a hobby. 美术家
+例：
+...the studio of a great artist.
+…一位伟大美术家的工作室。
+例：
+Each poster is signed by the artist.
+每张海报都由这位美术家签了名。
+N-COUNT An artist is a person who creates novels, poems, films, or other things which can be considered as works of art. 文学艺术家
+例：
+His books are enormously easy to read, yet he is a serious artist.
+他的书极易读，然而他却是一位严肃的文学艺术家。
+N-COUNT An artist is a performer such as a musician, actor, or dancer. 表演艺术家
+例：
+...a popular artist who has sold millions of records.
+…一位卖了上百万张唱片的、受人欢迎的表演艺术家。
+The true aritst lets nothing get between himself and his work.
+Who is sitting on the pink stool? The artist.
+**** tray
+美  [tre]
+n. 托盘；文件盒；隔底匣；（无线电的）发射箱
+N-COUNT A tray is a flat piece of wood, plastic, or metal, which usually has raised edges and which is used for carrying things, especially food and drinks. 托盘
+Where are the dishes? They are in the tray.
+**** closet
+美  ['klɑzət]
+n. 壁橱；议事室，密室；小房间
+adj. 秘密的，私下的；空谈的
+vt. 把…关在私室中
+n. (Closet)人名；(法)克洛塞
+N-COUNT A closet is a very small room for storing things, especially one without windows. 储藏室
+Where are the shirts? They are in the closet.
+<2016-07-18 Mon 05:53>
+**** violet
+英  ['vaɪələt]   美  ['vaɪələt]
+n. 紫罗兰；堇菜；羞怯的人
+adj. 紫色的；紫罗兰色的
+n. (Violet)人名；(西)比奥莱特；(法)维奥莱；(印、匈、英)维奥莱特
+1.N-COUNT A violet is a small plant that has purple or white flowers in the spring. 紫罗兰
+COLOR Something that is violet is a bluish-purple colour. 紫罗兰色的
+例：
+The light was beginning to drain from a violet sky.
+光线正开始从紫罗兰色的天空中渐渐消失。
+PHRASE If you say that someone is no shrinking violet, you mean that they are not at all shy. 羞涩的人
+例：
+When it comes to expressing himself he is no shrinking violet.
+他表达自己看法时一点都不羞涩。
+**** guest 
+英  [gest]   美  [ɡɛst]
+n. 客人，宾客；顾客
+vt. 款待，招待
+vi. 作客，寄宿
+adj. 客人的；特邀的，客座的
+n. (Guest)人名；(英)格斯特
+guest /ɡɛst/  CET4 TEM4
+N-COUNT A guest is someone who is visiting you or is at an event because you have invited them. 客人
+例：
+She was a guest at the wedding.
+她是参加婚礼的客人。
+N-COUNT A guest is someone who visits a place or organization or appears on a radio or television show because they have been invited to do so. 特邀嘉宾
+例：
+...a frequent talk show guest.
+…一位经常参加访谈节目的特邀嘉宾。
+例：
+Dr. Gerald Jeffers is the guest speaker.
+杰拉尔德·杰弗斯博士是特邀演讲人。
+N-COUNT A guest is someone who is staying in a hotel. (旅馆的) 客人
+例：
+I was the only hotel guest.
+我是旅馆的惟一客人。
+CONVENTION If you say be my guest to someone, you are giving them permission to do something. 请便
+例：
+If anybody wants to work on this, be my guest.
+如果有人想做这件事的话，请便吧。
+guest house 招待所
+guest house 宾馆
+guest house 招待所
+guest house 迎宾馆
+guest student 旁听生
+guest room 客房
+guest house 宾馆
+honored guest 贵宾
+distinguished guest 嘉宾；上宾；尊贵的客人
+special guest 特别来宾；贵宾
+双语例句 原声例句 权威例句
+
+A cup of coffee thawed out the guest.
+一杯咖啡使客人变得不那么拘束。 
+He saw the guest out and took up his work again.
+他把客人送出去以后又接着做他的工作。 
+We befriended her when she first arrived in Beijing as a guest.
+她初到北京作客时，我们如同朋友一般地照顾她。 
+**** present
+vt. 提出；介绍；呈现；赠送
+vi. 举枪瞄准
+adj. 现在的；出席的
+n. 现在；礼物；瞄准
+present /ˈprɛzənt/  CET4
+ADJ You use present to describe things and people that exist now, rather than those that existed in the past or those that may exist in the future. 目前的
+例：
+He has brought much of the present crisis on himself.
+他目前的危机大多是他自己造成的。
+例：
+...the government's present economic difficulties.
+…政府目前的经济困难。
+N-SING The present is the period of time that we are in now and the things that are happening now. 现在
+例：
+...his struggle to reconcile the past with the present.
+…他将过去和现在调和的斗争。
+例：
+...continuing right up to the present.
+…一直持续到现在。
+PHRASE A situation that exists at present exists now, although it may change. 目前
+例：
+There is no way at present of predicting which individuals will develop the disease.
+目前还没有办法预言哪些人会患这种病。
+PHRASE The present day is the period of history that we are in now. 现代
+例：
+...Western European art from the period of Giotto to the present day.
+…从乔托时代到现代的西欧艺术。
+PHRASE Something that exists or will be done for the present exists now or will continue for a while, although the situation may change later. 暂时
+例：
+The cabinet had expressed the view that sanctions should remain in place for the present.
+内阁曾表示说制裁会暂时保留。
+present address 目前地址
+present address 目前住址
+present address 现在通讯地址
+present address 现住址
+present simple 一般现在时
+**** cover
+vt. 包括；采访，报导；涉及
+n. 封面，封皮；盖子；掩蔽物;幌子，借口
+vi. 覆盖；代替
+n. (Cover)人名；(英)科弗；(意)科韦尔
+V-T If you cover something, you place something else over it in order to protect it, hide it, or close it. 盖
+例：
+Cover the casserole with a tight-fitting lid.
+用紧实的盖子把砂锅盖住。
+例：
+He whimpered and covered his face.
+他呜咽着捂住了脸。
+V-T If one thing covers another, it has been placed over it in order to protect it, hide it, or close it. 盖住
+例：
+His finger went up to touch the black patch which covered his left eye.
+他的手指抬起来去摸盖在他左眼上的黑眼罩。
+V-T If one thing covers another, it forms a layer over its surface. 覆盖
+例：
+The clouds had spread and covered the entire sky.
+乌云铺开，遮蔽了整个天空。
+V-T To cover something with or in something else means to put a layer of the second thing over its surface. 铺盖
+例：
+The desk was covered with papers.
+书桌上铺了些报纸。
+V-T If you cover a particular distance, you travel that distance. 走过 (一段距离)
+例：
+It would not be easy to cover ten miles on that amount of petrol.
+要靠那些数量的汽油跑 10 英里可不容易。
+V-T An insurance policy that covers a person or thing guarantees that money will be paid by the insurance company in relation to that person or thing. 保险
+例：
+Their insurer paid the $900 bill, even though the policy did not strictly cover it.
+他们的保险公司赔付了他们$900，尽管保单并没有严格保到此项。
+V-T If a law covers a particular set of people, things, or situations, it applies to them. 适用于
+例：
+The law covers four categories of experiments.
+这一原理适用于 4 类试验。
+V-T If you cover a particular topic, you discuss it in a lecture, course, or book. 论及
+例：
+Introduction to Chemistry aims to cover important topics in organic chemistry.
+《化学入门》意在论及有机化学的重要问题。
+V-T If a sum of money covers something, it is enough to pay for it. 足够支付
+例：
+Send it to the address given with $2.50 to cover postage and administration.
+把这封信寄到所给地址，$2.50 足以支付邮资和手续费。
+V-I If you cover for someone who is doing something secret or illegal, you give false information or do not give all the information you have, in order to protect them. 包庇
+例：
+Why would she cover for someone who was trying to kill her?
+她为何要包庇那个试图要杀死她的人呢？
+V-I If you cover for someone who is ill or away, you do their work for them while they are not there. 代替
+例：
+She did not have enough nurses to cover for those who were sick.
+她没有足够的护士来代替她们生病的同事的工作。
+PHRASE If you cover your arse, you do something in order to protect yourself, for example against criticism or against accusations of doing something wrong. 为自己开脱
+cover up 掩饰
+cover up 掩盖
+cover up 盖住
+cover up 包庇
+from cover to cover 从头至尾
+under cover 隐藏着；秘密地
+cover up 掩盖，盖住
+cover for 代替
+cover with 覆盖
+**** glove
+n. 手套
+vt. 给…戴手套
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
+
+glove /ɡlʌv/  CET4 TEM4
+N-COUNT Gloves are pieces of clothing which cover your hands and wrists and have individual sections for each finger. You wear gloves to keep your hands warm or dry or to protect them. 分指手套
+例：
+He stuck his gloves in his pocket.
+他把手套塞进了口袋里。
+PHRASE If you say that something fits like a glove, you are emphasizing that it fits exactly. 正合适
+例：
+I gave one of the bikinis to my sister Sara and it fit like a glove.
+我把其中一件比基尼给了妹妹萨拉，她穿正合身。
+velvet glove 外柔内刚；表面温和的东西
+hand in glove 合作；勾结着；亲密地
+glove box 手套箱；手套式操作箱（真空设备用）
+fit like a glove 完全相合；恰好
+data glove 数据手套
+**** a pair 
+一对；一副
+a happy pair 快乐的一对
+a minimal pair 最小对
+a primer pair 一对引物
+a couplea pair 一对儿
+A Bronze Pair 青铜双像
+96.5%
+
 ** lesson thirty 
 *** text
 It is a summer's day in the countryside. There is a horse standing under the
@@ -1554,6 +2124,29 @@ This is a restaurant. The young man is paying the waiter in cash. There is a cup
 of coffee on the table in front of him.
 A knife and a fork are lying on a napkin, and the napkin is lying on a white
 tablecloth, and the talbecloth is lying on a table.
+It is a summer's day in the countryside. There is a horse standing under the
+tree. It is relaxing.
+These young people are also travelling across the desert. They like to travel on
+fourwheelers.
+This is a small, beautiful monkey. It is eating lunch. In front of it are two
+plates of food.
+It is a sunny day. The sportsmen are relaxing at a table in the café. One of
+them is drinking water from a bottle.
+This elderly man is wearing glasses. He is hugging a large white dog around the
+neck and laughing.
+This is a view of desert. A group of peopel are travelling on camels. Three
+camels are standing in the sand, and two are lying on the sand.
+
+The girl with glasses is drawing. There is a fish and beautiful sea plants in
+the picture. Two girls are looking at her work.
+The elderly man is sitting on a stool under the tree. His white cap is lying on
+the grass.
+Tow girls are sitting on a bench in the park. They are wearing white pants. One
+of them is holding an umbrella.
+The young man is taking a photo of the girl with long black hair. There is a
+small dog sitting on the girl's lap.
+This is a restaurant. The young man is paying the waiter in cash. There is a cup
+of coffee on the table in front of him.
 
 A cactus is a plant that is to able to live in the desert.
 Rome is a city that tourists like very much.
@@ -1658,3 +2251,120 @@ leave that job without persission.
 **** lap
 n.膝盖
 If you have something on your lap when you are sitting down, it is on top of your legs and near to your body.(人坐着时的）大腿部
+**** parents
+ 英  ['perənts]   美  ['pɛrənts]
+n. 父母；双亲（parent 的复数）
+Your parents are your mother and father.
+Children need their parents.
+This is where a lot of parents go wrong.
+foster parents 养父母
+Jane braved the wrath of her parents by refusing to marry the man they had
+chosen.
+**** customer
+n. 客户；[贸易] 顾客
+A customer is someone who buys goods or services, especially from a shop.
+satisfied 
+ 英  ['sætɪsfaɪd]  美  ['sætɪs'faɪd]
+adj. 感到满意的
+v. 使满意（satisfy 的过去式）
+a satisfied customer.
+…一位满意的顾客。
+The quality of customer service is extremely important.
+客户服务质量极其重要。
+**** sale 
+ 英  [seɪl]   美  [sel]
+n. 销售；出售；拍卖；销售额；廉价出售
+n. (Sale)人名；(意、塞、瑞典)萨莱；(英、萨摩)塞尔；(法)萨尔
+A sale is an occasion when a shop sells things at less than their normal price.
+**** person
+n. A person is a man,woman, or child.
+At least one person died and serveral others were injured.
+**** traffic jam 
+交通阻塞，塞车
+A traffic jam is a long line of vehicles that cannot move forward because there
+is too much traffic, or because the road is blcoked by something.
+**** vehicles 
+ 英  [ˈviːɪk(ə)lz]   美  ['viɪklz]
+n. [车辆] 车辆（vehicle 的复数形式）；交通工具
+A vehicle is a machine with an engine, such as a bus, car, or truck, that
+carries people or things from place to place.
+**** in order to  
+为了，以便；想要
+In order to compass our object we must work hard.
+**** spectator
+n. 观众；旁观者
+N-COUNT A spectator is someone who watches something, especially a sports event. (尤指体育赛事的) 观众
+例：
+Thirty thousand spectators watched the final game.
+3 万观众观看了那场决赛。
+ 观众
+ 旁观者
+ 参观者
+ 观看者
+短语
+Spectator Nunatak 斯佩克泰特冰原岛峰
+Spectator Seats 观众席
+a spectator 观众
+a spectator 站在一旁观
+a spectator 旁观者
+But this is not a spectator sport.
+但是你们不能只做观众
+**** performance
+n. 性能；绩效；表演；执行
+N-COUNT A performance involves entertaining an audience by doing something such as singing, dancing, or acting. 表演
+例：
+Inside the theatre, they were giving a performance of Bizet's Carmen.
+他们正在剧院里演出比才的《卡门》。
+例：
+...her performance as the betrayed Medea.
+…她出演被出卖的美狄亚。
+N-VAR Someone's or something's performance is how successful they are or how well they do something. 业绩; 性能
+例：
+That study looked at the performance of 18 surgeons.
+那项研究着眼于 18 位外科医生的业绩。
+例：
+The poor performance has been blamed on the recession and cheaper sports car imports.
+业绩惨淡归咎于经济衰退和更便宜跑车的进口。
+N-SING Theperformanceof a task is the fact or action of doing it. 执行; 实施
+例：
+He devoted in excess of seventy hours a week to the performance of his duties.
+他每周在自己职责的执行上投入超过 70 个小时。
+performance management
+绩效管理业绩管理 性能管理
+**** programme
+n. 计划，规划；节目；程序
+vi. 编程序；制作节目
+vt. 规划；拟…计划
+**** though
+adv. 可是，虽然；不过；然而
+conj. 虽然；尽管
+prep. 但
+Everything I told them was correct, though I forgot a few things.
+I like him. Though he makes me angry sometimes.
+**** even though
+虽然，即使
+**** although
+conj. 尽管；虽然；但是；然而
+**** would rather 宁愿，宁可
+I would rather stay than go.
+I would rather have noodles than rice.
+I would rather do what makes me fulfilled.
+**** celebrate
+vt. 庆祝；举行；赞美；祝贺；宣告
+vi. 庆祝；过节；举行宗教仪式
+**** across from
+在…对面
+The library is just acroos from our school.
+图书馆就在我们学校的对面。
+I looked up at my friend sitting across from me.
+我抬头看向坐在我对面的朋友。
+**** instead
+adv. 代替；反而；相反
+Instead of abating, the wind is blowing even harder.
+风不但没停，反而越刮越大了。
+**** boring
+n. 钻孔
+adj. 无聊的；令人厌烦的
+v. 钻孔；使厌烦；挖空（bore 的 ing 形式）
+n. (Boring)人名；(英、瑞典)博林
+96.9%

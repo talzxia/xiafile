@@ -1,7 +1,31 @@
 #+STARTUP: showall
 #+STARTUP: hidestars
 #+TAGS: { @Office(o) @Home(h) @Computer(c) @Call(c) @Way(w) @Lunchtime(l) }
-* Tasks;为了使各个分类项目的标题在日程表（Agenda View)1中显示，需要在项目名称下面写上【#+CATEGORY].
+* Tasks;为了使各个分类项目的标题在日程表（Agenda View)1 中显示，需要在项目名称下面写上【#+CATEGORY].
 #+CATEGORY: Tasks
-** TODO 测试任务1
-- State "TODO"       from "DONE"       [2016-06-21 Tue 15:23]
+* DONE <2016-07-20 Wed 03:36> 到达办公室开始工作与学习              :@Office:
+CLOSED: [2016-07-20 Wed 04:56]
+:LOGBOOK:
+CLOCK: [2016-07-20 Wed 03:38]--[2016-07-20 Wed 04:42] =>  1:04
+:END:
+* DONE learn English lesson 25                                      :@Office:
+CLOSED: [2016-07-20 Wed 04:39]
+:Logbook:
+CLOCK: <2016-07-20 Wed 03:40>--<2016-07-20 Wed 04:37> =>  0:57
+:End:
+* DONE relaxing and browing                                         :@Office:
+CLOSED: [2016-07-20 Wed 06:12]
+:LOGBOOK:
+CLOCK: [2016-07-20 Wed 04:42]--[2016-07-20 Wed 06:13] =>  1:31
+:END:
+* DONE learn evil edit                                              :@Office:
+CLOSED: [2016-07-20 Wed 06:52]
+:LOGBOOK:
+CLOCK: [2016-07-20 Wed 06:21]--[2016-07-20 Wed 06:52] =>  0:31
+:END:
+在文件编辑中练习 vim 编辑方式
+
+* DONE 回家吃饭                                                     :@Office:<2016-07-20 Wed 07:00>
+CLOSED: [2016-07-20 Wed 07:00]
+* DONE 清理清扫
+CLOSED: [2016-07-20 Wed 08:36]
