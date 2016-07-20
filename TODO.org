@@ -258,10 +258,30 @@ CLOCK: [2016-07-20 Wed 9:49]--[2016-07-20 Wed 10:43] =>  0:54
 :END:
 
  Link:
-** TODO  browing and learning      <2016-07-20 Wed 10:41>
-CLOCK: [2016-07-20 Wed 10:43]
+** DONE browing and learning      <2016-07-20 Wed 10:41>
+CLOSED: [2016-07-20 Wed 11:12]
+CLOCK: [2016-07-20 Wed 10:43]--[2016-07-20 Wed 11:09] =>  0:26
  机器因故障重起，恢复后正常工作
 重新计算时间 C-c C-c 不管用了
+ Link:
+** DONE learn vim and notes     <2016-07-20 Wed 11:32>
+CLOSED: [2016-07-20 Wed 11:50]
+CLOCK: [2016-07-20 Wed 11:33]--[2016-07-20 Wed 11:50] =>  0:17
+ file:vim.org 
+
+ Link:
+** DONE go home      <2016-07-20 Wed 11:50>
+CLOSED: [2016-07-20 Wed 11:50]
+ 
+ Link:
+** DONE 到达办公室开始学习工作      <2016-07-20 Wed 15:22>
+CLOSED: [2016-07-20 Wed 15:22]
+ 
+ Link:
+** DONE learn English      <2016-07-20 Wed 15:23>
+CLOSED: [2016-07-20 Wed 15:47]
+CLOCK: [2016-07-20 Wed 15:24]--[2016-07-20 Wed 15:47] =>  0:23
+ lesson 22  
  Link:
 * *zilongshanren 配置手动运行实践 
 * DONE <2016-07-17 Sun 04:48> 开始一天的学习与工作 

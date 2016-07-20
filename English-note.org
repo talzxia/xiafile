@@ -836,6 +836,7 @@ There are six forks on the table.
 97.4% 
 ** DONE lesson twenty two
 CLOSED: [2016-07-08 Fri 17:17]
+*** text
 an artist
 a secretary
 an actor 
@@ -907,6 +908,8 @@ The secretary has a lot of boring work.
 The singer on stage is singing and playing the guitar.
 The photographer has interesting work.
 95.9%
+*** words
+**** 94.6%
 ** DONE lesson twenty three 
 CLOSED: [2016-07-09 Sat 04:35]
 *** text
