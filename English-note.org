@@ -133,6 +133,353 @@ taking photos of it because it is beautiful.
 
 Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
+** DONE lesson fourteen 98.3
+   CLOSED: [2016-07-21 Thu 22:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-21 Thu 22:01]
+   CLOCK: [2016-07-21 Thu 21:13]--[2016-07-21 Thu 22:01] =>  0:48
+   :END:
+*** text
+a mobile phone
+dishes
+a towel
+opened
+closed
+toys
+
+to switch on
+to switch off
+to open
+to close
+not to want
+to want
+
+There is a black mobile phone on the table.
+There are a lot of dirty dishes in the kitchen.
+There are a lot of clean dishes in the kitchen.
+The dishes are in a cupboard in the kitchen.
+The girl is speaking on a mobile phone.
+There is a red mobile phone on the table.
+
+The child is holding a toy.
+The child is lying on a towel.
+There are white towels in the bathroom.
+Mother and her child are playing with toys in the sand.
+Mother gives her son a towel.
+The child plays with his toys with his grandma.
+
+The book is open.
+The book is closed.
+The door in the house is open.'
+The window in the house is closed.
+The door in the house is closed.
+The window in the house is open.
+
+The boy is switching on the computer.
+The boy is switching off the computer.
+The lamp is switched on.
+The lamp is switched off.
+The man is switching off the television.
+The man is switching on the television.
+
+The child wants to listen.
+The child does not want to sleep.
+The girl wants to sleep.
+The woman is opening the bag.
+The child does not want to listen.
+The woman is closing the bag.
+
+The clean dishes are on the towel.
+The boy wants to play with some toys.
+The man wants to watch.
+The mobile phone is closed.
+The mobile phone is open.
+The man does not want to watch.
+
+Does the child want to play with the dog? Yes, he wants to play with the dog.
+Is the lamp switched on or off? The lamp is switched on.
+Is the girl speaking on a mobile phone? Yes, she is speaking on a mobile phone.
+Does the man want to sleep? Yes, he wants to sleep.
+Does the woman want to listen, or doesn't she? She does not want to listen.
+Is the door open or closed? The door is open.
+
+Is the boy sitting on the floor with a book? No, he is sitting with a toy.
+Is the dog waiting at an open window? No, it is waiting at a closed window.
+Is the man writing? No, he is speaking on a mobile phone.
+Are the dishes on the floor? No, the dishes are on the table.
+Is the girl drawing? No, she is playing with some toys.
+Is the towel on the wall? No, it is on the floor.
+
+*** words
+
+**** STARTED towel
+     :LOGBOOK:
+     CLOCK: [2016-07-22 Fri 04:53]--[2016-07-22 Fri 05:11] =>  0:18
+     :END:
+英  ['taʊəl] 美  ['taʊəl]
+n. 毛巾，手巾；[纸] 纸巾
+vt. 用毛巾擦
+vi. 用毛巾擦干身体
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+towel /ˈtaʊəl/  CET4 TEM4
+N-COUNT A towel is a piece of thick soft cloth that you use to dry yourself. 毛巾
+例：
+...a bath towel.
+…一条浴巾。
+例：
+...a hand towel.
+…一块手巾。
+例：
+...a beach towel.
+…一条沙滩浴巾。
+V-T If you towel something or towel it dry, you dry it with a towel. 用毛巾擦干
+例：
+James came out of his bedroom, towelling his wet hair.
+詹姆斯走出他的卧室，用毛巾擦干他那湿漉漉的头发。
+例：
+I towelled myself dry.
+我用毛巾把自己擦干。
+PHRASE If you throw in the towel, you stop trying to do something because you realize that you cannot succeed. 认输
+例：
+It seemed as if the police had thrown in the towel and were abandoning the investigation.
+看起来好象警察已经认输了，并且要放弃调查。
+网络释义 专业释义 英英释义
+
+ 毛巾
+ 毛圈布
+ 毛巾
+ 手巾
+短语
+towel ring 毛巾环
+towel ring 手巾环
+towel ring 毛巾挂环
+towel ring 毛巾圈
+sanitary towel 卫生带
+  更多结果
+词组短语 同近义词 同根词
+
+bath towel 浴巾
+paper towel 纸巾
+sanitary towel 月经垫；卫生巾（等于sanitary napkin）
+towel rack n. 毛巾架
+kitchen towel 厨房用纸；洗碗布
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He dried his hair with a towel.
+他用毛巾把头发擦干。
+He dried off the towel.
+他拧干了毛巾。
+She twisted a wet towel and dried her face.
+她拧干一块温毛巾擦脸。
+
+
+** DONE Lesson fivteen
+:LOGBOOK:
+   CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
+   :END:
+
+
+*** text
+**** salt
+an egg
+**** bread
+Bread is a very common food made from flour, water, and usually yeast. 面包
+brown bread 黑面包
+steamed bread n. 馒头
+bread and butter 涂黄油的面包；基本生活资料；生计
+daily bread n. 日常食品；生计
+a piece of bread 一片面包
+white bread 白面包
+**** Sugar
+英  ['ʃʊgə] 美  ['ʃʊgɚ]
+n. 糖；食糖；甜言蜜语
+vt. 加糖于；粉饰
+vi. 形成糖
+n. (Sugar)人名；(英)休格
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+sugar /ˈʃʊɡə/  CET4 TEM4
+N-UNCOUNT Sugar is a sweet substance that is used to make food and drinks sweet. It is usually in the form of small white or brown crystals. 食用糖
+例：
+...bags of sugar.
+…袋袋食用糖。
+N-COUNT If someone has one sugar in their tea or coffee, they have one small spoon of sugar or one sugar lump in it. 一匙糖; 一块糖
+例：
+How many sugars do you take?
+你用多少块糖？
+N-COUNT Sugars are substances that occur naturally in food. When you eat them, the body converts them into energy. 糖
+例：
+Plants produce sugars and starch to provide themselves with energy.
+植物制造糖和淀粉来为自身提供能量。
+网络释义 专业释义 英英释义
+
+ 食糖
+ 白糖
+ Sugar (用户界面)
+ 糖分
+短语
+Sugar beet 糖用甜菜
+Sugar beet 糖用甜菜
+Sugar beet 甜菜
+Sugar beet 糖甜菜
+Powdered sugar 糖粉
+  更多结果
+词组短语 同近义词 同根词
+
+blood sugar [生化]血糖
+sugar content 糖含量
+sugar cane 甘蔗
+cane sugar n. 蔗糖
+reducing sugar 还原糖
+**** cheese
+英  [tʃiːz]  美  [tʃiz]
+n. [食品] 奶酪；干酪；要人
+vt. 停止
+adj. 叛变的；胆小的
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+cheese /tʃiːz/  CET4 TEM4
+N-MASS Cheese is a solid food made from milk. It is usually white or yellow. 奶酪
+例：
+...bread and cheese.
+…面包和奶酪
+例：
+...delicious French cheeses.
+…美味的法式奶酪。
+网络释义 专业释义 英英释义
+
+ 奶酪
+ 乳酪
+ 干酪
+ 筒子
+短语
+Blue cheese 蓝乾酪
+Blue cheese 蓝奶酪
+Blue cheese 蓝纹奶酪
+Blue cheese 蓝干酪
+Parmesan cheese 帕马森干酪
+  更多结果
+词组短语 同近义词 同根词
+
+cream cheese n. 奶油干酪
+cheese cake n. 干酪饼；富于性感的半裸体美女照
+big cheese 大人物，重要人物；愚蠢或粗鲁的男人
+cottage cheese （由脱脂凝乳制成的）白软干酪，松软干酪
+parmesan cheese 帕玛森乳酪；帕玛森芝士
+**** butter
+英  ['bʌtə] 美  ['bʌtɚ]
+vt. 涂黄油于；讨好
+n. 黄油；奶油；奉承话
+n. (Butter)人名；(英)巴特；(德、匈)布特
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+butter /ˈbʌtə/  CET4 TEM4
+N-MASS Butter is a soft yellow substance made from cream. You spread it on bread or use it in cooking. 黄油
+例：
+...bread and butter.
+...面包和黄油。
+V-T If you butter something such as bread or toast, you spread butter on it. 涂黄油
+例：
+She spread pieces of bread on the counter and began buttering them.
+她放了几片面包在柜台上，开始给它们涂黄油。
+网络释义 专业释义 英英释义
+
+ 黄油
+ 牛油
+ 奶油
+ 无盐黄油
+短语
+Cocoa butter 可可脂
+Cocoa butter 纯可可油
+Cocoa butter 可可油
+Cocoa butter 可可豆脂
+Butter cake 牛油蛋糕
+  更多结果
+词组短语 同近义词 同根词
+
+peanut butter 花生酱
+bread and butter 涂黄油的面包；基本生活资料；生计
+shea butter 乳木果；牛油树脂
+cocoa butter n. 可可油
+melted butter 溶化牛油；溶化奶油；黄油溶液
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He spread some butter on his bread.
+他在面包上涂了些黄油。
+He has churned out more butter this week than last.
+他本周制作的黄油比上周多。
+Cream your butter before adding the sugar and flour.
+加糖和面粉之前要先把黄油搅成乳脂状。
+
+an apple
+a pear
+grapes
+a tomato
+potatoes
+cucumber
+
+sausage
+meat
+chicken
+icecream
+food
+fish
+
+The child is eating some bread.
+bread and butter
+There are eggs, cheese, and meat on the table.
+bread on a plage
+butter on a plate.
+There is salt on the table.
+
+The girl is looking at the cheese.
+There is meat in front of the boy.
+The icecream is on the floor.
+The childen are eating icecream.
+cheese on a plate
+The child is eating icecream.
+
+There is a lot of food in the fridge.
+There isn't any sugar on the table.
+Fish on a plate.
+Lemon with sugar.
+There is sugar on the table.
+Chicken on a plate.
+
+There are grapes and pears on the plate.
+The boy is eating a tomato.
+There aren't any apples on the tree.
+There are a lot of big red apples on the tree.
+There are pears on the plate, but no grapes.
+The children are sitting at the table and eating tomatoes.
+
+There isn't any food on the plate.
+A wet green cucumber.
+hot potatoes
+There is a big sausage on the plate.
+Potatoes with cucumbers on a plate.
+There are lots of plates of food on the table.
+
+Is grandma eating an apple? Yes, she is eating an apple.
+Does he have tea with or without sugar? He has tea with sugar.
+Is there a lot or a little food in the fridge? There is a little food in the fridge.
+Is there chicken with potatoes on the plate? Yes, there is chicken with potatoes on the plate.
+Do they sell eggs in the shop? Yes, they sell eggs in the shop.
+Is father giving his son icecream? Yes, he is giving his son icecream.
+
+Is the woman sitting at a table where there is a little food? No, she is sitting
+at a table where there is lots of food.
+Is the girl eating a sausage? No, she is eating icecream.
+Is the woman holding sugar? No, she is holding grapes.
+Is the woman kissing a cat? No, she is kissing an apple.
+Is the girl eating fish? No, she is eating chicken.
+Does the boy want a pear? No, the boy wants meat.
+97.8%
+
+*** words
 ** Lesson Sixteen
 *** words
 
@@ -545,6 +892,87 @@ on the telephone because they do not have a telephone.
 Why are these girls not working and instead spending time at the
 beach? They are spending time at the beach because they are on
 holiday.
+** DONE 复习lesson thirty 98.7%
+   CLOSED: [2016-07-22 Fri 06:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
+   CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
+   :END:
+*** text
+grown-ups
+a child
+bride and groom
+a wedding
+children
+husband and wife
+
+to live
+to meet
+to walk
+to wait
+to kiss
+to sing
+
+The bride and groom are dancing.
+A cheerful wedding
+The wife is kissing her husband.
+Wedding outdoors
+Ther grown-ups are dancing.
+The children are dancing.
+
+The child is crying.
+The child is sleeping.
+The child is playing.
+The grown-ups are playing with the children.
+The childern are playing.
+The family lives in a big house.
+
+The man is waiting.
+The dog is waiting by the window.
+Father meets his son.
+The people have no home. They live outdoors.
+Grandma and grandad are walking.
+Father meets his daughter
+
+There are a lot of people at the wedding.
+Mother is kissing her son.
+Brother and sister are walking.
+Mother is kissing her daughter.
+The man is singing.
+The woman is singing.
+
+There aren't any children at the wedding. There are a bride and a groom at the
+wedding.
+The husband and kissing her wife.
+The husband and wife are walking.
+The grown-up is kissing the child.
+Mother and father are walking with their child.
+The child is kissing a little dog.
+
+The boy is waiting for the bus.
+The children are singing.
+The wife is waiting for her husband by the window.
+Are the children talking to each other? Yes, the children are talking to each other.
+The people are singing.
+The grown-ups are waiting for the bus.
+
+Are the parents walking with their child? Yes, the parents are walking with
+their child.
+Are there a lot of children at the table? Yes, there are a lot of children at
+the tabble.
+Is the man kissing the brid? Yes, the man is kissing the brid.
+Does he live in London? No, he lives in Paris.
+Is this a wedding car? Yes, this is a wedding car.
+Are the children kissing their father? Yes, the children are kissing their
+father.
+
+What are they waiting for? They are waiting for the bus.
+Is the granddaughter hugging her grandad? No, she is hugging her grandma.
+Is the mother meeting her son? No, the father is meeting her son.
+a bus stop
+Are they brother and sister? No, they are husband and wife.
+Who is waiting at the window? The dog is waiting at the window.
+98.7%
 ** lesson eighteen
 to have
 to have not
@@ -780,60 +1208,158 @@ Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
 96.5%
 ** DONE lesson twenty one
 CLOSED: [2016-07-08 Fri 06:01]
-The policeman is wearing a blue cap.
-The doctor is wearing a white gown.
-The customer is trying on the shirt.
+*** text
 
-What colour is the excavator? It is yellow.
-What colour is the umbrella? It is red.
-What colour is the sky? It is blue.
-What colour is the doctor's gown? It is white.
-What colour are the woman's shoes? They are black.
-What clour is the flower in the girl's hand? It is red.
+ The policeman is wearing a blue cap.
+ The doctor is wearing a white gown.
+ The customer is trying on the shirt.
 
-Who is the driver driving? He is dring the girl.
-To whom is the bridegroom giving the flowers? He is giving to the bride.
-To whom is the shop assistant selling? He is selling to the customer.
-Who is the doctor treating? He is treating the patient.
-Who is the customer paying? He is paying the shop assistant.
-To whom is the boy giving the banana? He is giving the banana to the cat.
+ What colour is the excavator? It is yellow.
+ What colour is the umbrella? It is red.
+ What colour is the sky? It is blue.
+ What colour is the doctor's gown? It is white.
+ What colour are the woman's shoes? They are black.
+ What clour is the flower in the girl's hand? It is red.
 
-Who is treating the patients? The doctor.
-Who is bringing the paltes of food? The waiter.
-Who is teaching the children? The teacher.
-Who is building the house? The builders.
-Who is paying money? The customer is paying money.
-Who is jumping at the stadium? The sportsman.
+ Who is the driver driving? He is dring the girl.
+ To whom is the bridegroom giving the flowers? He is giving to the bride.
+ To whom is the shop assistant selling? He is selling to the customer.
+ Who is the doctor treating? He is treating the patient.
+ Who is the customer paying? He is paying the shop assistant.
+ To whom is the boy giving the banana? He is giving the banana to the cat.
 
-What is the cook cooking? He is cooking food.
-What are the builders building? They are building the house.
-What is the shop assistant selling? He is selling clothing.
-What is the waiter bringing? He is bringing plates of food.
-What are the children reading in the lesson? They are reading a book.
-What is the driver drinking? He is drinking a car.
+ Who is treating the patients? The doctor.
+ Who is bringing the paltes of food? The waiter.
+ Who is teaching the children? The teacher.
+ Who is building the house? The builders.
+ Who is paying money? The customer is paying money.
+ Who is jumping at the stadium? The sportsman.
 
-Where do they teach children? At school.
-Where do they cook the food? In the kitchen.
-Where do they watch the sportsmen? At the stadium.
-Where do they build the houses? Outside.
-Where do they buy shoes? They also buy them at the shop.
-Where do they buy food? At the shop.
-one two three four five six seven eight nine ten more less 
+ What is the cook cooking? He is cooking food.
+ What are the builders building? They are building the house.
+ What is the shop assistant selling? He is selling clothing.
+ What is the waiter bringing? He is bringing plates of food.
+ What are the children reading in the lesson? They are reading a book.
+ What is the driver drinking? He is drinking a car.
 
-How many fingers does a person have on one hand? A person has five fingers.
-How may eyes does a person have? A person has two eyes.
-How many legs does a dog have? A dog has four legs.
-How many bicycles does the boy have? He has one bicycle.
-How many fingers does a person have? A person has ten fingers.
-How many legs does a person have? A person has two legs.
+ Where do they teach children? At school.
+ Where do they cook the food? In the kitchen.
+ Where do they watch the sportsmen? At the stadium.
+ Where do they build the houses? Outside.
+ Where do they buy shoes? They also buy them at the shop.
+ Where do they buy food? At the shop.
+ one two three four five six seven eight nine ten more less
 
-There are four chairs around the table.
-A child has fewer legs than a cat.
-There are three children in the family.
-A dog has more legs than a person.
-There are nine apples here.
-There are six forks on the table.
-97.4% 
+ How many fingers does a person have on one hand? A person has five fingers.
+ How may eyes does a person have? A person has two eyes.
+ How many legs does a dog have? A dog has four legs.
+ How many bicycles does the boy have? He has one bicycle.
+ How many fingers does a person have? A person has ten fingers.
+ How many legs does a person have? A person has two legs.
+
+ There are four chairs around the table.
+ A child has fewer legs than a cat.
+ There are three children in the family.
+ A dog has more legs than a person.
+ There are nine apples here.
+ There are six forks on the table.
+
+ 97.4%
+*** words
+**** gown
+英  [gaʊn] 美  [ɡaʊn]
+n. 长袍，长外衣；礼服；睡袍；法衣
+vt. 使穿睡衣
+N-COUNT A gown is a dress, usually a long dress, which women wear on formal occasions. (女用) 长礼服
+例：
+The new ball gown was a great success.
+那件新款长礼服非常成功。
+N-COUNT A gown is a loose black garment worn on formal occasions by people such as lawyers and academics. (律师、大学教师等在正式场合穿的) 黑色礼袍
+例：
+...an old headmaster in a flowing black gown.
+…一位身着飘垂黑色礼袍的老校长。
+ball gown 舞会袍
+ball gown 大摆
+ball gown 大摆礼服
+ball gown 蓬蓬裙
+bathing gown 浴衣
+  更多结果
+词组短语 同近义词
+
+wedding gown 结婚礼服；新娘礼服
+evening gown n. 女子夜礼服
+dressing gown 晨衣，便袍
+bridal gown 新娘服装，新娘礼服
+cap and gown n. 方帽长袍
+**** patient
+英  ['peɪʃ(ə)nt]   美  ['peʃnt]
+adj. 有耐心的，能容忍的
+n. 病人；患者
+n. (Patient)人名；(法)帕蒂安
+patient /ˈpeɪʃənt/  CET4 TEM4
+N-COUNT A patient is a person who is receiving medical treatment from a doctor or hospital. A patient is also someone who is taken care of by a particular doctor. 病人
+例：
+The earlier the treatment is given, the better the patient's chances.
+治疗给得越早，病人机遇越好。
+例：
+She was tough but wonderful with her patients.
+她很严厉，但对病人很好。
+ADJ If you are patient, you stay calm and do not get annoyed, for example, when something takes a long time, or when someone is not doing what you want them to do. 耐心的
+例：
+Please be patient – your cheque will arrive.
+请耐心点儿–你的支票会到的。
+ADV 耐心地
+例：
+She waited patiently for Frances to finish.
+她耐心地等弗朗西丝完成。
+网络释义 专业释义 英英释义
+
+ 患者
+ 病人
+ 耐心
+ 有耐心
+短语
+patient monitor 病人监护仪
+patient monitor 医疗监视器
+patient monitor 监视器
+patient monitor 监护仪
+English Patient 英国病人
+  更多结果
+词组短语 同近义词 同根词
+
+patient of 能忍受
+patient with 对……有耐心
+patient care 病人护工；病人照护；病患照顾
+patient safety 病人安全
+mental patient 精神病人
+**** couch
+英  [kaʊtʃ] 美  [kaʊtʃ]
+n. 睡椅，长沙发；床；卧榻
+vi. 蹲伏，埋伏；躺着
+vt. 使躺下；表达；弯下
+n. (Couch)人名；(英)库奇
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+couch /kaʊtʃ/  CET4 TEM4
+N-COUNT A couch is a long, comfortable seat for two or three people. 长沙发
+N-COUNT A couch is a narrow bed which patients lie on while they are being treated by a psychoanalyst. (精神科医生的) 诊察台
+例：
+Between films he often winds up spending every single morning on his psychiatrist's couch.
+在拍电影的间隔期间，他经常是在心理医生的诊察台上度过每一个早晨。
+网络释义 专业释义 英英释义
+
+ 沙发
+ 长沙发椅
+ 长沙发
+ 睡椅
+短语
+Casting Couch 潜规则
+Casting Couch 沙发试镜
+Casting Couch 娱乐圈“潜规则
+Casting Couch 铸造沙发
+Bucky couch 布凯氏滤线器床
+96.7%
+****
 ** DONE lesson twenty two
 CLOSED: [2016-07-08 Fri 17:17]
 *** text
