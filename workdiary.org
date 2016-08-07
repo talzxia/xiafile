@@ -104,7 +104,42 @@ l 这样的一次性文件上的. o-rg-mode 中注脚的基本语法类似于'fo
 **** 习近平为党员干部做人;做事划出的四条底线[[http://news.ifeng.com/a/20160410/48408688_0.shtml]]
 **** 十三五规划纲要发布(全文)[[http://news.ifeng.com/a/20160317/47926128_0.shtml]]
 
-**** “两学一做”系列：解码习近平的传统文化情结[[http://news.ifeng.com/a/20160610/48951656_0.shtml]]
+**** “两学一做”系列：解cument]]
+ - [[#philosophy][Philosophy]]
+ - [[#basic-orientation][Basic orientation]]
+   - [[#terms][Terms]]
+     - [[#modes-vs-states][Modes vs. States]]
+     - [[#layers][Layers]]
+     - [[#transient-states][Transient-states]]
+   - [[#keybinding-conventions][Keybinding conventions]]
+   - [[#running-commands][Running commands]]
+   - [[#buffer-and-window-management][Buffer and window management]]
+     - [[#buffers][Buffers]]
+       - [[#special-buffers][Special buffers]]
+     - [[#windows][Windows]]
+   - [[#files][Files]]
+   - [[#the-help-system][The Help System]]
+   - [[#exploring][Exploring]]
+ - [[#customization][Customization]]
+   - [[#the-spacemacs-file][The .spacemacs file]]
+   - [[#emacs-lisp][Emacs Lisp]]
+     - [[#variables][Variables]]
+     - [[#keybindings][Keybindings]]
+     - [[#functions][Functions]]
+   - [[#activating-a-layer][Activating a Layer]]
+   - [[#creating-a-layer][Creating a Layer]]
+   - [[#installing-a-single-package][Installing a single package]]
+   - [[#loading-packages][Loading packages]]
+   - [[#uninstalling-a-package][Uninstalling a package]]
+   - [[#common-tweaks][Common tweaks]]
+     - [[#changing-the-escape-key][Changing the escape key]]
+     - [[#changing-the-colorscheme][Changing the colorscheme]]
+     - [[#nohlsearch][Nohlsearch]]
+     - [[#sessions][Sessions]]
+     - [[#navigating-using-visual-lines][Navigating using visual lines]]
+ - [[#other-useful-links][Other useful links]]
+
+码习近平的传统文化情结[[http://news.ifeng.com/a/20160610/48951656_0.shtml]]
 中华优秀传统文化讲仁爱、重民本、守诚信、崇正义、尚和合、求大同。习近平
 深刻指出，“中国共产党人始终是中国优秀传统文化的忠实继承者和弘扬者”，
 “中国传统文化博大精深，学习和掌握其中的各种思想精华，对树立正确的世界
@@ -4292,8 +4327,22 @@ The husband and wife are hungry.
   97.2% 学完十七课。
 
 - State "TODO"       from ""           [2016-06-22 Wed 05:22]
+<<<<<<< Updated upstream
 *** morning 8-9:30 到办公室
 **** TODO 学习 Emacs                                      :@Office:ARCHIVE:
+=======
+*** morning 8-9:30到办公室
+**** TODO 学习Emacs                                      :@Office:ARCHIVE:
+*** TODO test 
+
+**** 
+**** 
+**** 
+**** 
+**** 
+**** 
+**** 
+>>>>>>> Stashed changes
 DEADLINE: <2016-06-22 Wed 09:30>
 - State "TODO"       from ""           [2016-06-22 Wed 08:33]
 

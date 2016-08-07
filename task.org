@@ -3,6 +3,7 @@
 #+TAGS: { @Office(o) @Home(h) @Computer(c) @Call(c) @Way(w) @Lunchtime(l) }
 * Tasks;为了使各个分类项目的标题在日程表（Agenda View)1 中显示，需要在项目名称下面写上【#+CATEGORY].
 #+CATEGORY: Tasks
+<<<<<<< Updated upstream
 * DONE <2016-07-20 Wed 03:36> 到达办公室开始工作与学习              :@Office:
 CLOSED: [2016-07-20 Wed 04:56]
 :LOGBOOK:
@@ -29,3 +30,6 @@ CLOCK: [2016-07-20 Wed 06:21]--[2016-07-20 Wed 06:52] =>  0:31
 CLOSED: [2016-07-20 Wed 07:00]
 * DONE 清理清扫
 CLOSED: [2016-07-20 Wed 08:36]
+=======
+** TODO 测试任务1
+>>>>>>> Stashed changes
